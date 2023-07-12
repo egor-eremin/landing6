@@ -1,0 +1,35 @@
+mixin account(i)
+	.account-list__item(class=["account-list__item"+i])
+		p.color-blue.accounts-list__text !{indexAccountsText["account"+i].text[lang]}
+		.accounts-list__conditions
+			if i == 1
+				.accounts-list-row
+					.accounts-conditions-item.color-blue.check !{indexAccountsText.account_condition_1[lang]}: $150
+					.accounts-conditions-item.color-blue.check !{indexAccountsText.account_condition_2[lang]}: 1:100
+					.accounts-conditions-item.color-blue.check !{indexAccountsText.account_condition_3[lang]}
+					.accounts-conditions-item.color-blue.hide !{indexAccountsText.account_condition_4[lang]}
+				.accounts-list-row
+					.accounts-conditions-item.color-blue.hide !{indexAccountsText.account_condition_8[lang]}
+					.accounts-conditions-item.color-blue.hide !{indexAccountsText.account_condition_11[lang]}
+					.accounts-conditions-item.color-blue.hide !{indexAccountsText.account_condition_12[lang]}
+			else if i == 2
+				.accounts-list-row
+					.accounts-conditions-item.color-blue.check !{indexAccountsText.account_condition_1[lang]}: $1 000
+					.accounts-conditions-item.color-blue.check !{indexAccountsText.account_condition_2[lang]}: 1:500
+					.accounts-conditions-item.color-blue.check !{indexAccountsText.account_condition_3[lang]}
+					.accounts-conditions-item.color-blue.check !{indexAccountsText.account_condition_4[lang]}
+				.accounts-list-row
+					.accounts-conditions-item.color-blue.check !{indexAccountsText.account_condition_8[lang]}
+					.accounts-conditions-item.color-blue.hide !{indexAccountsText.account_condition_11[lang]}
+					.accounts-conditions-item.color-blue.hide !{indexAccountsText.account_condition_12[lang]}
+			else if i == 3
+				.accounts-list-row
+					.accounts-conditions-item.color-blue.check !{indexAccountsText.account_condition_1[lang]}: $10 000
+					.accounts-conditions-item.color-blue.check !{indexAccountsText.account_condition_2[lang]}: 1:500
+					.accounts-conditions-item.color-blue.check !{indexAccountsText.account_condition_3[lang]}
+					.accounts-conditions-item.color-blue.check !{indexAccountsText.account_condition_4[lang]}
+				.accounts-list-row
+					.accounts-conditions-item.color-blue.check !{indexAccountsText.account_condition_8[lang]}
+					.accounts-conditions-item.color-blue.check !{indexAccountsText.account_condition_11[lang]}
+					.accounts-conditions-item.color-blue.check !{indexAccountsText.account_condition_12[lang]}
+

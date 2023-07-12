@@ -1,0 +1,28 @@
+.wrapper-page-image.aos-animate {
+  .main-img_about-1 {
+    animation-delay: 0.6s;
+    animation-name: animateScale;
+  }
+  .main-img_about-2 {
+    animation-delay: 0.3s;
+    animation-name: animateScale;
+  }
+}
+.text-header-wrapper_about {
+  margin-top: rem(57px);
+}
+.main-img_about-1 {
+  max-width: rem(321px);
+  top: rem(40px);
+  right: rem(-172px);
+  z-index: 2;
+}
+.main-img_about-2 {
+  max-width: rem(489px);
+  top: rem(150px);
+  right: rem(-38px);
+}
+
+
+@media (max-width: 1152px) {
+}

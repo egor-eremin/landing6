@@ -1,0 +1,11 @@
+include ../nav.pug
+header.page-header.page-header_other-page.page-header_tarding.section-with-bg
+	.wrapper-page-image(data-aos="" data-aos-delay="300")
+		.wrapper.wrapper__header-bg
+			img.main-img.trading-img_1(src=baseDir + "assets/images/trading-img-1.svg" alt="trading-decor")
+			img.main-img.trading-img_2(src=baseDir + "assets/images/trading-img-2.svg" alt="trading-decor")
+	.wrapper.wrapper-header.wrapper-header_other-page
+		.text-header-wrapper.text-header-wrapper_trading
+			h1.page-header__title.h1-title !{tradingHeaderText.title[lang]}
+			p.page-header__text.page-header__text-trading !{tradingHeaderText.text[lang]}
+			a(href=linkSignup).btn.btn-start-trade !{buttonText.btnStartTrade[lang]}

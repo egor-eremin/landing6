@@ -1,0 +1,11 @@
+include ../nav.pug
+header.page-header.page-header_other-page
+	.wrapper-page-image(data-aos="" data-aos-delay="300")
+		.wrapper.wrapper__header-bg
+			img.main-img.license-img_1(src=baseDir + "assets/images/license-img-1.svg" alt="license-decor")
+			img.main-img.license-img_2(src=baseDir + "assets/images/license-img-2.svg" alt="license-decor")
+	.wrapper.wrapper-header.wrapper-header_other-page
+		.text-header-wrapper.text-header-wrapper_licenses
+			h1.page-header__title.h1-title !{licensesHeaderText.title[lang]}
+			p.page-header__text.page-header__text_licenses !{licensesHeaderText.text[lang]}
+			a(href=linkSignup).btn !{buttonText.btnStartTrade[lang]}

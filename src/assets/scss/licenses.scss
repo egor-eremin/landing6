@@ -1,0 +1,106 @@
+@import "../../../node_modules/normalize.css/normalize";
+@import "partials/fonts";
+@import "partials/functions";
+@import "partials/variables";
+@import "partials/aos";
+@import "partials/slick";
+@import "blocks/index/indexNews";
+
+
+@import "blocks/common";
+@import "blocks/nav";
+@import "blocks/footer";
+
+
+
+.text-header-wrapper_licenses {
+  margin-top: rem(147px);
+}
+.license-img_1 {
+  max-width: rem(394px);
+  top: rem(156px);
+  right: rem(63px);
+}
+.license-img_2 {
+  max-width: rem(218px);
+  right: rem(14px);
+  top: rem(129px);
+}
+.wrapper-page-image {
+  &.aos-animate {
+    .license-img_1 {
+      animation-delay: 0.3s;
+      animation-name: animateScale;
+    }
+    .license-img_2 {
+      animation-delay: 0.6s;
+      animation-name: animateOpacity;
+    }
+  }
+}
+.section-licenses {
+  background: $color-blue-1;
+  padding-bottom: rem(80px);
+  z-index: 1;
+}
+.licenses-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: rem(48px) rem(32px);
+}
+.licenses-icon {
+  height: rem(60px);
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: left center;
+  margin-bottom: rem(16px);
+}
+.licenses-icon_1 {
+  background-image: url("../images/licenses-icon-1.png");
+}
+.licenses-icon_2 {
+  background-image: url("../images/licenses-icon-2.png");
+}
+.licenses-icon_3 {
+  background-image: url("../images/licenses-icon-3.png");
+}
+.licenses-icon_4 {
+  background-image: url("../images/licenses-icon-4.png");
+}
+.licenses-icon_5 {
+  background-image: url("../images/licenses-icon-5.png");
+}
+.licenses-icon_6 {
+  background-image: url("../images/licenses-icon-6.png");
+}
+.licenses-icon_7 {
+  background-image: url("../images/licenses-icon-7.png");
+}
+.licenses-icon_8 {
+  background-image: url("../images/licenses-icon-8.png");
+}
+.licenses-list__title {
+  margin-bottom: rem(8px);
+  opacity: 0.5;
+}
+.licenses-list__text {
+  font-size: rem(14px);
+  line-height: rem(21px);
+}
+
+
+@media (max-width: 1152px) {
+  .section-licenses {
+    padding-bottom: rem(64px);
+  }
+}
+@media (max-width: 760px) {
+  .licenses-list {
+    grid-template-columns: 1fr;
+    grid-gap: rem(24px);
+  }
+  .licenses-icon {
+    background-position: center;
+  }
+}

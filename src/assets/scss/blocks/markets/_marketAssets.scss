@@ -1,0 +1,109 @@
+.section-assets {
+  padding-bottom: rem(40px);
+  &::before {
+    background: $color-blue-1;
+    border-radius: 0 0 0 rem(123px);
+  }
+  &::after {
+    bottom: 0;
+    background: $color-white;
+  }
+}
+.wrapper_assets {
+  position: relative;
+  z-index: 2;
+  &.aos-animate {
+    .assets-img-animate {
+      animation-delay: 0.3s;
+      animation-name: animateScale;
+    }
+    .assets-img {
+      &::before {
+        animation-name: animateRotateMinus;
+      }
+    }
+  }
+}
+.assets-img-animate {
+  transform: scale(0.7);
+}
+.assets-wrapper {
+  display: flex;
+}
+.assets-wrapper-text {
+  width: rem(544px);
+  min-height: rem(376px);
+  background: $color-card;
+  border-radius: rem(32px);
+  box-shadow: 0px rem(4px) rem(32px) rgba(0, 0, 0, 0.1);
+  padding: rem(32px);
+}
+.assets-wrapper-img {
+  flex-grow: 1;
+  margin-right: rem(32px);
+  display: flex;
+  justify-content: center;
+}
+.assets-img {
+  width: rem(352px);
+  height: rem(352px);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  &::before {
+    content: '';
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: url("../images/assets-img-decor.svg") no-repeat;
+    background-size: 100%;
+    opacity: 0;
+    transform: rotate(-90deg);
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: both;
+    animation-duration: 0.3s;
+  }
+}
+
+
+@media (max-width: 1152px) {
+  .assets-wrapper-text {
+    min-height: auto;
+  }
+  .assets-img {
+    width: rem(300px);
+    height: rem(300px);
+  }
+  .assets-img-animate {
+    width: rem(80px);
+    height: rem(80px);
+  }
+  .h2-title_assets {
+    margin-bottom: rem(24px) !important;
+  }
+  .section-assets {
+    padding-bottom: rem(64px);
+  }
+}
+@media (max-width: 760px)  {
+  .assets-wrapper {
+    flex-direction: column;
+  }
+  .assets-wrapper-img {
+    margin-right: 0;
+    margin-bottom: rem(40px);
+  }
+  .assets-img {
+    width: rem(250px);
+    height: rem(250px);
+  }
+  .assets-img-animate {
+    width: rem(70px);
+    height: rem(70px);
+  }
+  .assets-wrapper-text {
+    width: 100%;
+  }
+}

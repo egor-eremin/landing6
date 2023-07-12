@@ -1,0 +1,10 @@
+mixin marketAssets(title, text, img)
+	section.section.section-assets.section-with-bg
+		.wrapper.wrapper_assets(data-aos="")
+			.assets-wrapper
+				.assets-wrapper-img
+					.assets-img
+						img.main-img.assets-img-animate(src=baseDir + "assets/images/assets-" + img + ".svg" class="assets-img_" + img  alt="assets-" + className)
+				.assets-wrapper-text
+					h2.h2-title.h2-title_assets !{title}
+					p.big-text.grey-rectangle__text !{text}

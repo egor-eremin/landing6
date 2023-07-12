@@ -1,0 +1,51 @@
+.section-profits {
+  background: $color-blue-1;
+  z-index: 2;
+}
+.profits-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: rem(32px);
+  position: relative;
+}
+.profits-list__item {
+  background: $color-card;
+  border-radius: rem(24px);
+  min-height: rem(218px);
+  padding: rem(24px);
+}
+.profits-list__title {
+  min-height: rem(66px);
+  margin-bottom: rem(8px);
+}
+.profits-decor {
+  position: absolute;
+  width: rem(585px);
+  height: rem(586px);
+  background: url("../images/profits-decor.svg") no-repeat;
+  background-size: 100%;
+  top: rem(149px);
+  left: rem(28px);
+}
+
+
+// ADAPTIVE
+@media (max-width: 1152px) {
+  .profits-list__title {
+    min-height: auto;
+  }
+  .profits-list__item {
+    min-height: auto;
+  }
+  .profits-decor {
+    display: none;
+  }
+  .profits-list {
+    grid-gap: rem(16px);
+  }
+}
+@media (max-width: 760px) {
+  .profits-list {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,42 @@
+.section-quality {
+  padding-top: rem(40px);
+  &::before {
+    background: $color-grey;
+    border-radius: 0 rem(123px) 0 0;
+  }
+  &::after {
+    top: 0;
+    background: $color-blue-1;
+  }
+}
+.wrapper_quality {
+  position: relative;
+  z-index: 2;
+}
+.h2-title_quality {
+  max-width: rem(576px);
+  position: relative;
+  z-index: 2;
+}
+.section-quality__text {
+  opacity: 0.7;
+  margin-bottom: rem(48px);
+  position: relative;
+  z-index: 2;
+}
+.quality-decor {
+  position: absolute;
+  z-index: 1;
+  width: rem(515px);
+  height: rem(161px);
+  background: url("../images/quality-decor.svg") no-repeat;
+  background-size: 100%;
+  top: rem(-41px);
+  right: rem(2px);
+}
+
+@media (max-width: 1152px) {
+  .quality-decor {
+    display: none;
+  }
+}

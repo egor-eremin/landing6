@@ -1,0 +1,16 @@
+include ../nav.pug
+header.page-header_forms.page-header.page-header_other-page
+	.wrapper.wrapper-header.form-wrapper.wrapper-header_other-page
+		.text-header-wrapper.text-header-wrapper_login.text-header-wrapper_forms.text-header-wrapper_full-width
+			h1.color-blue.h2-title.h1-title_register.h1-title_reminder !{fotmsText.titleReminder[lang]}
+			form#restore-form.main-form.main-form_login
+				.form-item.form-item_login
+					label.input-wrapper
+						span.label-form.label-form_sign !{formsText.labelMail[lang]}
+						input.form-input.form-input_sign#submit-email(type="email" required name="email" placeholder= formsText.placeholderEmail[lang])
+				.help-text.help-text-form.help-text-form_login !{formsText.text_required[lang]}
+				.form-btn-submit.form-btn-submit_login
+					button.btn-submit.js--repass.btn.btn-login-form.btn-main-form !{buttonText.btnSend[lang]}
+			.form-links.form-links_login
+				a(href="login.html").btn-show-more.color-blue.form-links_item !{formsText.allreadyText[lang]}
+				a(href="registration.html").btn-show-more.color-blue.form-links_item !{buttonText.signup[lang]}

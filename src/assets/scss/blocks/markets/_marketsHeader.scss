@@ -1,0 +1,162 @@
+.text-header-wrapper_markets-list {
+  margin-top: rem(97px);
+}
+.markets-img_1 {
+  left: rem(719px);
+  top: rem(166px);
+  max-width: rem(366px);
+  z-index: 2;
+}
+.markets-img_2 {
+  left: rem(931px);
+  top: rem(145px);
+  z-index: 1;
+  max-width: rem(204px);
+}
+.wrapper-page-image.aos-animate {
+  .markets-img_1 {
+    animation-delay: 0.6s;
+    animation-name: animateRotateMinus;
+  }
+  .markets-img_2 {
+    animation-delay: 0.3s;
+    animation-name: animateRotateMinus;
+  }
+  .main-img_forex-2 {
+    animation-delay: 0.3s;
+    animation-name: animateRotateMinus;
+  }
+  .main-img_forex-1 {
+    animation-delay: 0.6s;
+    animation-name: animateOpacity;
+  }
+  .main-img_metals-1 {
+    animation-delay: 0.3s;
+    animation-name: animateScale;
+  }
+  .main-img_metals-2 {
+    animation-delay: 0.6s;
+    animation-name: animateOpacity;
+  }
+  .main-img_stocks-1 {
+    animation-delay: 0.3s;
+    animation-name: animateRotateMinus;
+  }
+  .main-img_stocks-2 {
+    animation-delay: 0.6s;
+    animation-name: animateScale;
+  }
+  .main-img_commodities-1 {
+    animation-delay: 0.3s;
+    animation-name: animateRotateMinus;
+  }
+  .main-img_commodities-2 {
+    animation-delay: 0.6s;
+    animation-name: animateRotateMinus;
+  }
+  .main-img_indices-1 {
+    animation-delay: 0.3s;
+    animation-name: animateRotateMinus;
+  }
+  .main-img_indices-2 {
+    animation-delay: 0.6s;
+    animation-name: animateScale;
+  }
+  .main-img_crypto-1 {
+    animation-delay: 0.3s;
+    animation-name: animateRotateMinus;
+  }
+  .main-img_crypto-2 {
+    animation-delay: 0.6s;
+    animation-name: animateOpacity;
+  }
+}
+.text-header-wrapper_markets-forex {
+  margin-top: rem(142px);
+}
+.main-img_forex-1 {
+  max-width: rem(191px);
+  right: rem(238px);
+  top: rem(164px);
+}
+.main-img_forex-2 {
+  max-width: rem(405px);
+  right: rem(14px);
+  top: rem(163px);
+}
+.text-header-wrapper_markets-metals {
+  margin-top: rem(122px);
+}
+.main-img_metals-1 {
+  top: rem(175px);
+  right: rem(64px);
+  max-width: rem(394px);
+}
+.main-img_metals-2 {
+  top: rem(148px);
+  right: rem(14px);
+  max-width: rem(218px);
+}
+.text-header-wrapper_markets-stocks {
+  margin-top: rem(146px);
+}
+.main-img_stocks-1 {
+  max-width: rem(379px);
+  right: rem(28px);
+  top: rem(176px);
+}
+.main-img_stocks-2 {
+  max-width: rem(201px);
+  right: rem(241px);
+  top: rem(154px);
+}
+.text-header-wrapper_markets-commodities {
+  margin-top: rem(134px);
+}
+.main-img_commodities-1 {
+  max-width: rem(366px);
+  top: rem(167px);
+  right: rem(-3px);
+  z-index: 2;
+}
+.main-img_commodities-2 {
+  max-width: rem(204px);
+  top: rem(149px);
+  right: rem(211px);
+  transform-origin: center right;
+}
+.text-header-wrapper_markets-indices {
+  margin-top: rem(122px);
+}
+.main-img_indices-1 {
+  max-width: rem(439px);
+  right: rem(-49px);
+  top: rem(108px);
+  z-index: 2;
+}
+.main-img_indices-2 {
+  max-width: rem(313px);
+  top: rem(203px);
+  right: rem(141px);
+}
+.text-header-wrapper_markets-crypto {
+  margin-top: rem(98px);
+}
+.main-img_crypto-1 {
+  max-width: rem(422px);
+  right: rem(-9px);
+  top: rem(153px);
+}
+.main-img_crypto-2 {
+  max-width: rem(180px);
+  right: rem(227px);
+  top: rem(173px);
+}
+
+
+// ADAPTIVE
+@media screen and (max-width: 1152px) {
+  .section-markets {
+    padding-top: 0 !important;
+  }
+}

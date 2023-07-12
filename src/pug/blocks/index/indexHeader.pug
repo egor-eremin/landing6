@@ -1,0 +1,33 @@
+include ../nav.pug
+header.main-header.page-header
+	video.main-video(loop autoplay muted playsinline)
+		source(src=baseDir + "video.mp4" type="video/mp4")
+		source(src=baseDir + "video.webm" type="video/webm")
+	.wrapper.wrapper-header
+		.js-bg-main.main-background-slider-list
+				.main-background-slider-list__item.main-background-slider-list__item-1
+					.wrapper.main-background-slider_wrapper
+						img.main-img.main-img_1(src=baseDir + "assets/images/main-slider1-1.svg" alt="slider-decor")
+						img.main-img.main-img_2(src=baseDir + "assets/images/main-slider1-2.svg" alt="slider-decor")
+				.main-background-slider-list__item.main-background-slider-list__item-2
+					.wrapper.main-background-slider_wrapper
+						img.main-img.main-img_1(src=baseDir + "assets/images/main-slider2-1.svg" alt="slider-decor")
+						img.main-img.main-img_2(src=baseDir + "assets/images/main-slider2-2.svg" alt="slider-decor")
+				.main-background-slider-list__item.main-background-slider-list__item-3
+					.wrapper.main-background-slider_wrapper
+						img.main-img.main-img_1(src=baseDir + "assets/images/main-slider3-1.svg" alt="slider-decor")
+						img.main-img.main-img_2(src=baseDir + "assets/images/main-slider3-2.svg" alt="slider-decor")
+				.main-background-slider-list__item.main-background-slider-list__item-4
+					.wrapper.main-background-slider_wrapper
+						img.main-img.main-img_1(src=baseDir + "assets/images/main-slider4-1.svg" alt="slider-decor")
+						img.main-img.main-img_2(src=baseDir + "assets/images/main-slider4-2.svg" alt="slider-decor")
+		.js-main-slider.main-slider-text
+			-for(let i = 1; i < 5; i++)
+				.main-slider__item(class=["main-slider__item"+i])
+					if i == 1
+						h1.main-slider__title.h1-title !{indexHeaderText["slide"+i].title[lang]}
+					else
+						.main-slider__title.h1-title !{indexHeaderText["slide"+i].title[lang]}
+					p.main-slider__text.page-header__text !{indexHeaderText["slide"+i].text[lang]}
+					a(href=linkSignup).btn.btn-start-trade !{buttonText.btnStartTrade[lang]}
+		.main-pagination-wrapper-js.pagination-wrapper.pagination-wrapper_main

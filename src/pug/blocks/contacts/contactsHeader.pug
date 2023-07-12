@@ -1,0 +1,21 @@
+include ../nav.pug
+header.page-header.page-header_contacts.page-header_other-page
+	.wrapper-page-image(data-aos="" data-aos-delay="300")
+		.wrapper.wrapper__header-bg
+			img.main-img.contacts-img_1(src=baseDir + "assets/images/contacts-img-1.svg" alt="contacts-decor")
+			img.main-img.contacts-img_2(src=baseDir + "assets/images/contacts-img-2.svg" alt="contacts-decor")
+	.wrapper.wrapper-header.wrapper-header_contacts.wrapper-header_other-page
+		.text-header-wrapper.text-header-wrapper_contacts
+			h1.page-header__title.page-header__title-contacts.h1-title !{contactsHeaderText.title[lang]}
+			p.page-header__text.page-header__text-contacts !{contactsHeaderText.text[lang]}
+			button.callback-open-js.btn.btn-start-trade(class="callback-open-" + lang) !{buttonText.btnCallback[lang]}
+	.wrapper.wrapper_contacts-list
+		.contacts-list
+			.contacts-list__item.contacts-list__item-1(data-aos="fade" data-aos-delay="300")
+				.contacts-icon.contacts-icon_email
+				p.label-contacts-item !{contactsListText.contact2[lang]}
+				p.contacts-list__title.contacts-list__title_email: a(href=`mailto:${companyData.email}`) !{companyData.email}
+			.contacts-list__item.contacts-list__item-2(data-aos="fade" data-aos-delay="450")
+				.contacts-icon.contacts-icon_address
+				p.label-contacts-item !{contactsListText.contact3[lang]}
+				p.contacts-list__title.contacts-list__title_address !{companyData.adres}

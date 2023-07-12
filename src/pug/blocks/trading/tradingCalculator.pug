@@ -1,0 +1,28 @@
+section.section.section-calculators.section-with-bg
+	.decor-calc
+	.wrapper.wrapper-calculators
+		h2.section-calculators__title.h2-title !{tradingCalculatorText.title[lang]}
+		p.calculators-prev-text !{tradingCalculatorText.text[lang]}
+		#tradeCalculator.trade-calculator
+section.section.section-estimation.section-with-bg
+	.wrapper.wrapper-estimation
+		h2.color-blue.section-estimation__title.h2-title !{estimationText.h2[lang]}
+		p.color-blue.estimation-prev-text !{estimationText.ul_title[lang]}
+		.clc-results.clc-results_estimation
+			.clc-table.clc-field
+				.clc-tableTitles
+					-for(let i = 1; i < 8; i++)
+						.clc-tableTitles__item.clc-table__item !{estimationText["li_"+i][lang]}
+				.clc-tableResults.clc-tableResults_estimation
+					.clc-tableResults__item.clc-table__item EUR/USD Buy
+					.clc-tableResults__item.clc-table__item 1.09200
+					.clc-tableResults__item.clc-table__item 1
+					.clc-tableResults__item.clc-table__item 1.09201
+					.clc-tableResults__item.clc-table__item -5.09
+					.clc-tableResults__item.clc-table__item 200.00 EUR
+					.clc-tableResults__item.clc-table__item 0.92 EUR
+		.estimation
+			p.color-blue.estimation-title !{estimationText.h2[lang]}
+			ul.estimation-list
+				-for(let i = 1; i < 8; i++)
+					li.color-blue.estimation-list__item !{estimationText["offer_"+i][lang]}

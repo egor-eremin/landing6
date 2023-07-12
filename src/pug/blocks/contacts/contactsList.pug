@@ -1,0 +1,12 @@
+section.section.section-contacts
+	.wrapper
+		.contacts-list
+			.contacts-list__item(data-aos="fade" data-aos-delay="300")
+					p.h2-title.label-contacts-item !{contactsListText.contact2[lang]}
+					p.contacts-list__title.contacts-list__title_email: a(href=`mailto:${companyData.email}`) !{companyData.email}
+			.contacts-list__item(data-aos="fade" data-aos-delay="450")
+					p.h2-title.label-contacts-item !{contactsListText.contact1[lang]}
+					p.contacts-list__title.contacts-list__title_phone !{companyData.phone}
+			.contacts-list__item(data-aos="fade" data-aos-delay="600")
+					p.h2-title.label-contacts-item !{contactsListText.contact3[lang]}
+					p.contacts-list__title.contacts-list__title_address !{companyData.adres}

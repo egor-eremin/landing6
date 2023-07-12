@@ -1,0 +1,11 @@
+include ../nav.pug
+header.page-header.page-header_other-page
+	.wrapper-page-image(data-aos="" data-aos-delay="300")
+		.wrapper.wrapper__header-bg
+			img.main-img.markets-img_1(src=baseDir + "assets/images/markets-img-1.svg" alt="markets-decor")
+			img.main-img.markets-img_2(src=baseDir + "assets/images/markets-img-2.svg" alt="markets-decor")
+	.wrapper.wrapper-header.wrapper-header_other-page
+		.text-header-wrapper.text-header-wrapper_markets-list
+			h1.page-header__title.h1-title !{marketsHeaderText.title[lang]}
+			p.page-header__text !{marketsHeaderText.text[lang]}
+			a(href=linkSignup).btn.btn-start-trade !{buttonText.btnStartTrade[lang]}

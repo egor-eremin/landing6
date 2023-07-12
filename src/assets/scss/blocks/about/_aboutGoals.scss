@@ -1,0 +1,81 @@
+.section-goals {
+  &::before {
+    background: $color-blue-1;
+    border-radius: 0 0 0 rem(123px);
+  }
+  &::after {
+    bottom: 0;
+    background: $color-grey;
+  }
+}
+.wrapper_goals {
+  position: relative;
+  z-index: 2;
+}
+.goals-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: rem(32px);
+  position: relative;
+  z-index: 2;
+}
+.goals-list__item {
+  border-radius: rem(32px);
+  background: $color-card;
+  padding: rem(32px);
+}
+.goals-list-icon {
+  width: rem(56px);
+  height: rem(56px);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin-bottom: rem(24px);
+}
+.goals-list-icon_1 {
+  background-image: url("../images/goals-list-icon_1.svg");
+}
+.goals-list-icon_2 {
+  background-image: url("../images/goals-list-icon_2.svg");
+}
+.h2-title_goals {
+  max-width: rem(576px);
+}
+.section-goals {
+  padding-bottom: rem(39px);
+}
+.goals-decor {
+  position: absolute;
+  width: rem(573px);
+  height: rem(575px);
+  background: url("../images/goals-decor.svg") no-repeat;
+  background-size: 100%;
+  bottom: rem(-199px);
+  right: rem(-27px);
+  z-index: 1;
+}
+
+// ADAPTIVE
+@media (max-width: 1152px) {
+  .goals-decor {
+    display: none;
+  }
+  .goals-list {
+    grid-gap: rem(16px);
+  }
+  .goals-list__item {
+    padding: rem(24px);
+  }
+  .goals-list-icon {
+    width: rem(40px);
+    height: rem(40px);
+    margin-bottom: rem(16px);
+  }
+  .section-goals {
+    padding-bottom: rem(64px);
+  }
+}
+@media (max-width: 640px)  {
+  .goals-list {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,12 @@
+mixin marketHeader(title, text, className)
+	include ../blocks/nav.pug
+	header.page-header.page-header_other-page(class="page-header_" + className)
+		.wrapper-page-image(data-aos="" data-aos-delay="300")
+			.wrapper.wrapper__header-bg
+					img.main-img(src=baseDir + "assets/images/markets-" + className + "-1x.svg" class="main-img_" + className + "-1" alt="" + className)
+					img.main-img(src=baseDir + "assets/images/markets-" + className + "-2x.svg" class="main-img_" + className + "-2" alt="" + className)
+		.wrapper.wrapper-header.wrapper-header_other-page
+			.text-header-wrapper.text-header-wrapper_markets(class="text-header-wrapper_markets-" + className)
+				h1.page-header__title.h1-title !{title}
+				p.page-header__text.page-header__text-markets-item !{text}
+				a(href=linkSignup).btn.btn-start-trade !{buttonText.btnStartTrade[lang]}

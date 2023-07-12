@@ -1,0 +1,373 @@
+id,constant,position,translate
+1. Главная страница,,,
+1.1. Посадочная страница.,,,
+1,indexHeaderText.slide1.title,Заголовок №1,轻松快速地进入金融市场
+2,indexHeaderText.slide1.text|dot,Подзаголовок к заголовку №1,Company Name将允许任何人访问专业交易工具。
+3,indexHeaderText.slide2.title,Заголовок №2,交换交易的高速度和安全性
+4,indexHeaderText.slide2.text|dot,Подзаголовок к заголовку №2,信誉良好的监管机构和现代化的平台有助于确保快速安全的交易操作。
+5,indexHeaderText.slide3.title,Заголовок №3,今天开始交易的好机会
+6,indexHeaderText.slide3.text|dot,Подзаголовок к заголовку №3,Company Name允许交易者在注册后的第一天快速开立账户并开始交易。
+7,indexHeaderText.slide4.title,Заголовок №4,各种各样的交易工具
+8,indexHeaderText.slide4.text|dot,Подзаголовок к заголовку №4,Company Name为交易者提供了许多机会：股票，债券，Etf等等。
+1.2. Почему мы? (Преимущества),,,
+9,indexAdvantagesText.h2,Главный заголовок раздела,为什么选择Company Name？
+10,indexAdvantagesText.advantage1.title,Преимущество №1,入门门槛低
+11,indexAdvantagesText.advantage1.text|dot,Описание преимущества №1,要开始交易，不需要投入大量资金，您可以从最小的投资开始。
+12,indexAdvantagesText.advantage2.title,Преимущество №2,存款和取款的简单过程
+13,indexAdvantagesText.advantage2.text|dot,Описание преимущества №2,补充账户和提取利润是最透明的过程，我们没有任何隐藏的佣金。
+14,indexAdvantagesText.advantage3.title,Преимущество №3,信誉良好的监管机构
+15,indexAdvantagesText.advantage3.text|dot,Описание преимущества №3,Company Name的活动由最可靠的监管机构监管，即：ASIC，DFSA，FSCA。
+16,indexAdvantagesText.advantage4.title,Преимущество №4,多种账户类型
+17,indexAdvantagesText.advantage4.text|dot,Описание преимущества №4,我们的平台可以为任何交易者提供账户类型：从初学者到专业人士。
+18,indexAdvantagesText.advantage5.title,Преимущество №5,输入和输出的许多替代方案
+19,indexAdvantagesText.advantage5.text|dot,Описание преимущества №5,您可以以任何方便的方式为您的帐户充值并从中提取资金。
+20,indexAdvantagesText.advantage6.title,Преимущество №6,全天候客户支持
+21,indexAdvantagesText.advantage6.text|dot,Описание преимущества №6,我们的操作员和技术专家随时准备提供帮助并回答您的所有问题。
+1.3. Дополнительные преимущества.,,,
+22,indexBenefitsText.h2,Главный заголовок раздела,其他优势
+23,indexBenefitsText.benefit1.title,Преимущество №1,风险管理
+24,indexBenefitsText.benefit1.text|dot,Описание преимущества №1,Company Name允许您管理风险，无论您使用哪种工具。
+25,indexBenefitsText.benefit2.title,Преимущество №2,当前数据
+26,indexBenefitsText.benefit2.text|dot,Описание преимущества №2,国际金融中心将数据直接传输到Company Name平台。
+27,indexBenefitsText.benefit3.title,Преимущество №3,保护交易者的利益
+28,indexBenefitsText.benefit3.text|dot,Описание преимущества №3,Company Name的主要任务是为客户提供安全和舒适的交易。
+29,indexBenefitsText.benefit4.title,Преимущество №4,有关报价动态的信息
+30,indexBenefitsText.benefit4.text|dot,Описание преимущества №4,在我们的平台上，您将能够分析报价运动的历史记录，并基于此确定您的策略。
+1.4. Как начать.,,,
+31,indexStepsText.h2,Главный заголовок раздела,分三个阶段开始交易
+32,indexStepsText.step1.title,Шаг №1,在平台上注册
+33,indexStepsText.step1.text|dot,Описание Шага №1,在第一阶段，您必须指定联系方式。
+34,indexStepsText.step2.title,Шаг №2,确定帐户类型
+35,indexStepsText.step2.text|dot,Описание Шага №2,第二阶段涉及选择帐户类型，平台上有几个帐户。
+36,indexStepsText.step3.title,Шаг №3,为您的帐户充值
+37,indexStepsText.step3.text|dot,Описание Шага №3,在第三阶段，您只需要在交易终端充值您的存款并开始交易。
+1.5. Информация об аккаунтах.,,,
+38,indexAccountsText.h2,Главный заголовок раздела,账户信息
+39,indexAccountsText.account1.title,Аккаунт №1,初学者
+40,indexAccountsText.account1.text|dot,Подзаголовок для аккаунта №1,这种类型的帐户允许您使用最流行的工具，并且还可以访问培训材料。
+41,indexAccountsText.account2.title,Аккаунт №2,中
+42,indexAccountsText.account2.text|dot,Подзаголовок для аккаунта №2,更多的交易工具和交易者更有利的条件。
+43,indexAccountsText.account3.title,Аккаунт №3,专家
+44,indexAccountsText.account3.text|dot,Подзаголовок для аккаунта №3,通过选择此关税，除了完全访问交易终端外，您还有机会为您的存款提供保险
+45,indexAccountsText.account_condition_1,Минимальный депозит:,最低起存
+46,indexAccountsText.account_condition_2,Кредитное плечо:,杠杆作用
+47,indexAccountsText.account_condition_3,Моментальное исполнение,即时执行
+48,indexAccountsText.account_condition_4,Торговля криптовалютами и металлами,加密货币和金属交易
+49,indexAccountsText.account_condition_5,Возможность инвестиций в ПАММ-счета,PAMM账户投资
+50,indexAccountsText.account_condition_6,Отсутствие свопа,无掉期
+51,indexAccountsText.account_condition_7,Торговля ETF и индексами,ETF和指数交易
+52,indexAccountsText.account_condition_8,Страхование депозитов,存款保险制度
+53,indexAccountsText.account_condition_9,Персональный менеджер,个人管家
+54,indexAccountsText.account_condition_10,Открытие личного ПАММ-счета,打开个人PAMM账户
+53,indexAccountsText.account_condition_11,Защита депозитов,存款保障
+54,indexAccountsText.account_condition_12,Круглосуточная поддержка,全天候支持
+1.6. Новости,,,
+55,indexNewsText.h2,Главный заголовок раздела,最新经济新闻
+1.7. Футер,,,
+56,footerContent,Футер текст,"Company Name的注册地址为：France,Ile-de-France,Line A,Marne-la-Vallee Chessie station。 公司的活动按照欧洲证券市场监管局（许可证号：096/08），澳大利亚证券和投资委员会（ASIC）（19-365MR）和英国金融监管局（FCA）FRN：584283的要求进行。"
+2. Рынки и инструменты,,,
+2.2. Обзор рынков,,,
+2.2.1. Посадочный экран,,,
+57,marketsHeaderText.title,Заголовок,巨大的交易机会
+58,marketsHeaderText.text|dot,Подзаголовок,Company Name公司为来自世界任何地方的交易者提供了使用200多种最受欢迎的金融工具的机会。
+59,commonMarketsText.title_graph,Загловок торгового графика,交易工具图表
+60,commonMarketsText.title_table,Заголовок таблицы инструментов,仪器表
+61,commonMarketsText.footnote,Часы работы рынков,*打开和关闭时间由UTC 0指示
+2.2.2. Валюты,,,
+62,marketsListText.market1.title,Заголовок,货币对
+63,marketsListText.market1.text|dot,Подзаголовок,购买外币是投资金融市场最受欢迎的工具之一。 每一秒，一个巨大的数量的业务的销售和购买的货币进行世界各地。
+2.2.3. Металлы,,,
+64,marketsListText.market2.title,Заголовок,金属
+65,marketsListText.market2.text|dot,Подзаголовок,通过Company Name公司，您将有机会购买有价值的金属，如：金，银，铜，铂等。
+2.2.4. Акции,,,
+66,marketsListText.market3.title,Заголовок,股票
+67,marketsListText.market3.text|dot,Подзаголовок,各种公司的股票是第二个最受欢迎的工具，仅次于货币交易，用于在交易所进行操作。
+2.2.5. Товары,,,
+68,marketsListText.market4.title,Заголовок,原材料
+69,marketsListText.market4.text|dot,Подзаголовок,在Company Name平台上，您将有机会交易农产品，能源产品等。
+2.2.6. Индексы,,,
+70,marketsListText.market5.title,Заголовок,索引
+71,marketsListText.market5.text|dot,Подзаголовок,股票指数是其他金融市场的替代品，有自己的优势，即：长期投资和即时多样化，因为几家大公司的股票一次交易。
+2.2.7. Криптовалюты,,,
+72,marketsListText.market6.title,Заголовок,加密货币
+73,marketsListText.market6.text|dot,Подзаголовок,相对较新的金融工具，它具有较高的风险，但由于强大的价格动态，它使得由于购买价格和销售价格之间的差异而增加投资资金成为可能。
+2.3. Валюты,,,
+2.3.1. Посадочный экран,,,
+74,forexHeaderText.title,Заголовок,外汇
+75,forexHeaderText.text|dot,Подзаголовок,成为金融市场交易货币对的一部分。 Company Name交易终端具有许多应用工具，用于分析和预测特定货币的未来价格。 这将帮助您始终保持黑色。
+76,forexProfitsText.profit1.title,Преимущество №1. Заголовок.,在世界任何地方进行交易
+77,forexProfitsText.profit1.text|dot,Преимущество №1. Описание.,不要紧，你在哪里的那一刻，如果你可以访问互联网，你将能够在交易所进行交易。
+78,forexProfitsText.profit2.title,Преимущество №2. Заголовок.,高盈利能力
+79,forexProfitsText.profit2.text|dot,Преимущество №2. Описание.,与股票市场相比，货币交易具有更高的收益率。 外汇交易的平均回报率为20-30％。
+80,forexProfitsText.profit3.title,Преимущество №3. Заголовок.,入门门槛低
+81,forexProfitsText.profit3.text|dot,Преимущество №3. Описание.,要在外汇市场上进行交易，没有必要具备基本知识，您可以在交易过程中学习正确的知识。
+82,forexProfitsText.profit4.title,Преимущество №4. Заголовок.,全天候交易
+83,forexProfitsText.profit4.text|dot,Преимущество №4. Описание.,外汇市场每周五天全天候工作，这使得您可以建立自己的工作时间表，因为它对您来说很方便。
+2.3.2. Описание рынка,,,
+84,forexAssetsText.title,Заголовок,了解有关外汇市场的更多信息
+85,forexAssetsText.text|dot,Подзаголовок,外汇市场是一个国际货币市场，被认为是世界上最大和最活跃的金融市场之一。 这个市场的交易是基于货币对进行的，包括流行的（欧元/美元）和更具异国情调的，例如，美元/港元。
+2.4. Металлы,,,
+2.4.1. Посадочный экран,,,
+86,metalsHeaderText.title,Заголовок,金属
+87,metalsHeaderText.text|dot,Подзаголовок,该领域最受欢迎的金融工具是各种金属的差价合约。 Company Name将为您提供大量的风险管理和预测工具，这将帮助您正确构建交易策略。
+88,metalsProfitsText.profit1.title,Преимущество №1. Заголовок.,引文的明确性
+89,metalsProfitsText.profit1.text|dot,Преимущество №1. Описание.,此金融工具的报价对于所有经纪商都是相同的，这可以最大限度地减少与价格差异相关的争议的发生。
+90,metalsProfitsText.profit2.title,Преимущество №2. Заголовок.,有关期货交易量的信息
+91,metalsProfitsText.profit2.text|dot,Преимущество №2. Описание.,关于期货市场交易量的信息是相当透明的，这反过来又有助于改善交易指标。
+92,metalsProfitsText.profit3.title,Преимущество №3. Заголовок.,使用杠杆
+93,metalsProfitsText.profit3.text|dot,Преимущество №3. Описание.,使用杠杆交易允许您只使用资产价值的一部分进行交易，这最终允许您使用少量资金。
+94,metalsProfitsText.profit4.title,Преимущество №4. Заголовок.,低点差值
+95,metalsProfitsText.profit4.text|dot,Преимущество №4. Описание.,货物合同的流动性远高于货物本身的流动性。
+2.4.2. Описание рынка,,,
+96,metalsAssetsText.title,Заголовок,了解更多关于金属市场的信息
+97,metalsAssetsText.text|dot,Подзаголовок,贵金属市场是一个经济关系领域，监管与各种贵金属（例如黄金）的交易操作。 这是一个辅助工具，可用于分散您的投资组合。
+2.5. Акции,,,
+2.5.1. Посадочный экран,,,
+98,stocksHeaderText.title,Заголовок,股票
+99,stocksHeaderText.text|dot,Подзаголовок,通过简单的帐户注册程序，立即开始买卖公司股票。
+100,stocksProfitsText.profit1.title,Преимущество №1. Заголовок.,低交易费用
+101,stocksProfitsText.profit1.text|dot,Преимущество №1. Описание.,Company Name有一个忠诚的操作佣金系统，其中交易者和经纪人保持在黑色。
+102,stocksProfitsText.profit2.title,Преимущество №2. Заголовок.,短期和长期投资
+103,stocksProfitsText.profit2.text|dot,Преимущество №2. Описание.,交易终端允许您进行长期投资，为未来准备金，以及短期投资，期望通过价格差异赚钱。
+104,stocksProfitsText.profit3.title,Преимущество №3. Заголовок.,不同公司的各种股票
+105,stocksProfitsText.profit3.text|dot,Преимущество №3. Описание.,Company Name将让您有机会购买各种公司的股票：大型和完善的或有前途的，但风险更大的创业公司。
+106,stocksProfitsText.profit4.title,Преимущество №4. Заголовок.,进入市场的最低门槛
+107,stocksProfitsText.profit4.text|dot,Преимущество №4. Описание.,没有必要有一个大的启动资金来交易股票，你可以从小额投资开始。
+2.5.2. Описание рынка,,,
+108,stocksAssetsText.title,Заголовок,了解有关股票市场的更多信息
+109,stocksAssetsText.text|dot,Подзаголовок,股票是股票市场上的证券类型之一。 通过购买股票，所有者获得公司资本的份额。 股票是投资股票市场最受欢迎的工具。
+2.6. Товары,,,
+2.6.1. Посадочный экран,,,
+110,commoditiesHeaderText.title,Заголовок,原材料
+111,commoditiesHeaderText.text|dot,Подзаголовок,Company Name将允许所有用户进行商品交易操作。 原材料市场包括农产品和能源产品。
+112,commoditiesProfitsText.profit1.title,Преимущество №1. Заголовок.,多元化
+113,commoditiesProfitsText.profit1.text|dot,Преимущество №1. Описание.,原材料成本与各种汇率之间的相关性相当低。
+114,commoditiesProfitsText.profit2.title,Преимущество №2. Заголовок.,杠杆
+115,commoditiesProfitsText.profit2.text|dot,Преимущество №2. Описание.,该平台有可能使用杠杆，这将允许您显着增加交易的利润。
+116,commoditiesProfitsText.profit3.title,Преимущество №3. Заголовок.,最低投资
+117,commoditiesProfitsText.profit3.text|dot,Преимущество №3. Описание.,原材料差价合约交易允许您在没有大量资金的情况下开始交易。 即使以最小的投资，您也可以在价格下跌或上涨时获利。
+118,commoditiesProfitsText.profit4.title,Преимущество №4. Заголовок.,原料品种
+119,commoditiesProfitsText.profit4.text|dot,Преимущество №4. Описание.,Company Name可以对任何商品进行交易操作。
+2.6.2. Описание рынка,,,
+120,commoditiesAssetsText.title,Заголовок,了解有关原材料市场的更多信息
+121,commoditiesAssetsText.text|dot,Подзаголовок,原材料是在自然环境中可用或从中提取的各种材料。 石油，天然气，矿石，木材等等都是原材料。 对于交易这些类型的商品，期货交易是最常用的，它允许您赚取差价。
+2.7. Индексы,,,
+2.7.1. Посадочный экран,,,
+122,indicesHeaderText.title,Заголовок,股票指数
+123,indicesHeaderText.text|dot,Подзаголовок,指数可以以联系格式交易价格差异。 这种金融工具具有低波动性，这反过来又使其成为投资组合差异化的绝佳工具，并且还允许您进行长期投资。
+124,indicesProfitsText.profit1.title,Преимущество №1. Заголовок.,低廉的费用和佣金
+125,indicesProfitsText.profit1.text|dot,Преимущество №1. Описание.,操作订单无需额外的佣金和费用。
+126,indicesProfitsText.profit2.title,Преимущество №2. Заголовок.,分析和预测
+127,indicesProfitsText.profit2.text|dot,Преимущество №2. Описание.,Company Name将为交易者提供各种金融分析工具，通过适当和有能力的分析，可以提高交易性能。
+128,indicesProfitsText.profit3.title,Преимущество №3. Заголовок.,入门门槛低
+129,indicesProfitsText.profit3.text|dot,Преимущество №3. Описание.,投资股票指数不需要在交易领域进行基本培训。
+130,indicesProfitsText.profit4.title,Преимущество №4. Заголовок.,低成本
+131,indicesProfitsText.profit4.text|dot,Преимущество №4. Описание.,投资指数的成本要低得多，这对交易者利润的最终指标有积极的影响。
+2.7.2. Описание рынка,,,
+132,indicesAssetsText.title,Заголовок,了解有关指数市场的更多信息
+133,indicesAssetsText.text|dot,Подзаголовок,股票指数是反映一个国家，整个行业或个别特定投资组合的总体状况的相对指标。 股票指数表征了各种证券的平均值，并揭示了整体动态。
+2.8. Криптовалюты,,,
+2.8.1. Посадочный экран,,,
+134,cryptoHeaderText.title,Заголовок,加密货币
+135,cryptoHeaderText.text|dot,Подзаголовок,数字货币并不意味着长期投资和背离的回报。 在加密货币上赚钱的唯一方法是买得更便宜，卖得更贵。 该工具有风险，相当辅助，很难预测价格动态，但在有利的情况下，利润可能超过所有其他基本投资工具。
+136,cryptoProfitsText.profit1.title,Преимущество №1. Заголовок.,轻松启动
+137,cryptoProfitsText.profit1.text|dot,Преимущество №1. Описание.,无需下载区块链并创建数字钱包。
+138,cryptoProfitsText.profit2.title,Преимущество №2. Заголовок.,快速执行
+139,cryptoProfitsText.profit2.text|dot,Преимущество №2. Описание.,Company Name平台允许您立即执行买卖加密货币的订单。
+140,cryptoProfitsText.profit3.title,Преимущество №3. Заголовок.,全天候支持
+141,cryptoProfitsText.profit3.text|dot,Преимущество №3. Описание.,操作员和技术专家随时准备回答问题并提供全天候协助。
+142,cryptoProfitsText.profit4.title,Преимущество №4. Заголовок.,杠杆
+143,cryptoProfitsText.profit4.text|dot,Преимущество №4. Описание.,受监管的杠杆可以让您获得更多的利润，同时有机会分散风险。
+2.8.2. Описание рынка,,,
+144,cryptoAssetsText.title,Заголовок,了解有关加密货币市场的更多信息
+145,cryptoAssetsText.text|dot,Подзаголовок,加密货币是一种分散的数字货币，涉及通过投机赚钱。 该工具具有高风险，但也具有较高的盈利指标。 将免费资金投资于加密货币是最有利的，在相反的情况下，最好选择更可预测的工具。
+3. Торговые условия,,,
+3.1. Посадочный экран,,,
+146,tradingHeaderText.title,Заголовок,阅读更多关于交易条件的信息
+147,tradingHeaderText.text|dot,Подзаголовок,在这里，您可以了解更多关于一些订单参数的信息，例如：手数，杠杆，掉期，点差，追加保证金和止损水平等等。 对这些指标进行有效的分析和预测将有助于显着增加您的交易操作利润。
+3.2. Калькулятор трейдера,,,
+148,tradingCalculatorText.title,Заголовок,交易者计算器
+149,tradingCalculatorText.text|dot,Подзаголовок,在线交易者计算器是一种工具，用于确定计划交易的可用资金水平，以及计算佣金金额。 要使用计算器，您必须指定初始参数。
+3.3. Расчетные данные,,,
+150,estimationText.offer_1,Инструмент,"工具 <div class=""description"">指示从列表中选择的金融工具</div>"
+151,estimationText.offer_2,Цена открытия,"价格 <div class=""description"">指示打开和关闭订单的估计价格，以找出订单的可能结果</div>"
+152,estimationText.offer_3,Объем сделки,"交易量<div class=""description"">指示确切的交易量</div>"
+153,estimationText.offer_4,"Своп, в пунктах","以點為單位<div class=""description"">根据卖出价和买价之间的差自动计算</div>"
+154,estimationText.offer_5,"Своп, в USD","掉期 以USD <div class=""description"">根据夜间转移头寸的费用自动计算</div>"
+155,estimationText.offer_6,Маржа в USD,"保证金<div class=""description"">指示的数据是交易所需的免费存款的最小金额</div>"
+156,estimationText.offer_7,Прибыль в USD,"利润 <div class=""description"">根据输入的参数显示可能的利润</div>"
+3.4. Пример расчета,,,
+157,estimationText.h2,Заголовок,如何交易者的计算器作品
+158,estimationText.ul_title,Подзаголовок,初步数据
+159,estimationText.li_1,Данные №1,仪器
+160,estimationText.li_2,Данные №2,交易量在许多
+161,estimationText.li_3,Данные №3,订单类型
+162,estimationText.li_4,Данные №4,开放价格
+163,estimationText.li_5,Данные №5,收盘价
+164,estimationText.li_6,Данные №6,保证金
+165,estimationText.li_7,Данные №7,利润
+4. О компании,,,
+4.1. О компании + Показатели,,,
+166,aboutHeaderText.title,Слоган-заголовок,Company Name将为您打开金融投资的世界
+167,aboutHeaderText.text|dot,Подзаголовок,在现代世界中，如果没有经济学和金融工具的知识，每年都变得越来越困难。 在Company Name平台上，您不仅可以学习如何交易和了解市场如何从内部运作，还可以为自己提供投资的被动收入。
+168,aboutCounterText.counter1.title,Показатель №1,<span class='indicator-number_1' data-indicator-number='184568'>0</span>
+169,aboutCounterText.counter1.text,Текст показателя №1,活跃用户
+170,aboutCounterText.counter2.title,Показатель №2,<span class='indicator-number_2' data-indicator-number='487500'>0</span>
+171,aboutCounterText.counter2.text,Текст показателя №2,每日开放oreders
+172,aboutCounterText.counter3.title,Показатель №3,<span class='indicator-number_3' data-indicator-number='200'>0</span>+
+173,aboutCounterText.counter3.text,Текст показателя №3,交易工具
+174,aboutCounterText.counter4.title,Показатель №4,<span class='indicator-number_4' data-indicator-number='150'>0</span> 万
+175,aboutCounterText.counter4.text,Текст показателя №4,美元的每日营业额
+176,aboutCounterText.counter5.title,Показатель №5,<span class='indicator-number_5' data-indicator-number='4'>0</span>
+177,aboutCounterText.counter5.text,Текст показателя №5,年在经纪市场上
+4.2. Вы в центре всего,,,
+178,aboutConditionsText.title,Заголовок,您的舒适和安全是我们的主要任务
+179,aboutConditionsText.text|dot,Подзаголовок,每天都有数百人工作，以确保交易平台的舒适，快速和安全操作，以便您有机会熟悉投资世界。 数百名专家分享他们的知识，以便您的交易为您带来更多的利润。 Company Name不仅仅是客户和交易所之间的中介，它还是新手交易者的老师，导师和助手。
+4.3. Цели и задачи компании,,,
+180,aboutGoalsText.h2,Общий заголовок,我们的团队有长期和基本的目标
+181,aboutGoalsText.goal1.title,Заголовок №1,目标#1
+182,aboutGoalsText.goal1.text|dot,Описание заголовка №1,通过制定各种策略和建议，使我们的交易者的收入增加30％。
+183,aboutGoalsText.goal2.title,Заголовок №2,目标#2
+184,aboutGoalsText.goal2.text|dot,Описание заголовка №2,"培训并使50,000新手交易者获得永久收入。"
+4.4. Больше возможностей для трейдинга,,,
+185,aboutQualityText.title,Заголовок №1,交易工具种类繁多
+186,aboutQualityText.text,Описание заголовка №1,Company Name每天都在努力引入新的交易工具。 在这个阶段，您已经可以快速安全地使用200多种工具。 本公司与国际主要金融代理商合作，在最短的时间内提供最新的报价。
+4.5. Наша история,,,
+187,aboutHistoryText.h2,Общий заголовок,历史
+188,aboutHistoryText.year1.title,2017 год. Заголовок,经纪活动开始
+189,aboutHistoryText.year1.text|dot,2017 год. Описание,公司总部于2018年初开业。 在开放的同时，我们的交易平台的第一个版本创建了。
+190,aboutHistoryText.year2.title,2018 год. Заголовок,扩大活动
+191,aboutHistoryText.year2.text|dot,2018 год. Описание,在2019，我们公司开始进入新市场，我们的代表处在6主要国家开设。 当时，我们的平台上已经有100个工作和完全调试的工具。
+192,aboutHistoryText.year3.title,2019 год. Заголовок,为交易者开发新的交易条件
+193,aboutHistoryText.year3.text|dot,2019 год. Описание,在2020年，我们将我们的交易终端更新为更现代的版本，并为我们的客户开发了更忠诚的条件。
+194,aboutHistoryText.year4.title,2020 год. Заголовок,引入新的金融工具
+195,aboutHistoryText.year4.text|dot,2020 год. Описание,在整个2021年，我们的团队一直致力于引入新的金融工具，目前已经有200种。
+4.6. Платформа для торговли разработанная для людей.,,,
+196,aboutPlatformText.title,Заголовок,现代交易平台
+197,aboutPlatformText.text|dot,Подзаголовок,Company Name交易平台与其竞争对手相比具有许多优势
+198,aboutPlatformText.advantage1,Преимущества №1,许多不同的预测工具
+199,aboutPlatformText.advantage2,Преимущества №2,无法进入负的帐户
+200,aboutPlatformText.advantage3,Преимущества №3,24/7支持服务
+201,aboutPlatformText.advantage4,Преимущества №4,高订单处理速度
+202,aboutPlatformText.advantage5,Преимущества №5,安全
+203,aboutPlatformText.advantage6,Преимущества №6,用户友好的界面
+204,aboutPlatformText.advantage7,Преимущества №7,账户所有操作的完整记录
+5. Аккредитации и лицензии.,,,
+5.1. Посадочный экран,,,
+205,licensesHeaderText.title,Заголовок,合作伙伴和监管机构
+206,licensesHeaderText.text,Подзаголовок к заголовку,Company Name的经纪活动受到许多严格的国际贸易监管机构的监管。
+5.2. Информация о регуляторах и банках,,,
+207,licensesListText.license1.title,Заголовок №1,ASIC
+208,licensesListText.license1.text,Описание №1,澳大利亚金融监管机构。 该监管机构的目的是确保对经纪公司活动的公平条件的控制。
+209,licensesListText.license2.title,Заголовок №2,DFSA
+210,licensesListText.license2.text,Описание №2,迪拜金融监管和监督局。 该监管机构监测emir境内国际金融中心的活动。
+211,licensesListText.license3.title,Заголовок №3,ESMA
+212,licensesListText.license3.text,Описание №3,欧洲证券市场监管局。 该监管机构控制欧盟境内的金融活动。
+213,licensesListText.license4.title,Заголовок №4,FSCA
+214,licensesListText.license4.text,Описание №4,南非金融服务管理局。 监管机构监测南非的金融交易。
+215,licensesListText.license5.title,Заголовок №5,FCA
+216,licensesListText.license5.text,Описание №5,英国金融监管和监督局。
+217,licensesListText.license6.title,Заголовок №6,CySEC
+218,licensesListText.license6.text,Описание №6,塞浦路斯证券交易委员会。
+219,licensesListText.license7.title,Заголовок №7,IFSC
+220,licensesListText.license7.text,Описание №7,伯利兹国际金融服务委员会。
+221,licensesListText.license8.title,Заголовок №8,SCB
+222,licensesListText.license8.text,Описание №8,巴哈马证券委员会。
+6. Ошибка 404.,,,
+223,headerText404.title,Заголовок,错误404
+224,headerText404.text,Подзаголовок,该页面不存在，请与支持人员联系。
+225,headerText404.textMainPage,Вернуться на главную страницу,回到主页面
+226,headerText404.textSupport,Служба технической поддержки,技术支持服务
+8. Формы,,,
+8.1. Заголовки форм,,,
+228,formsText.titleEnter,Вход в личный кабинет,您的个人区域
+229,formsText.titleCallback,Оставить заявку,提交申请
+230,formsText.titleTwoauth,Двухэтапная авторизация,双因素身份验证
+231,buttonText.signup,Регистрация,注册
+232,fotmsText.titleReminder,Восстановление пароля,重设密码
+8.2. Поля ввода,,,
+233,formsText.labelName,Введите ваше имя,名 *
+234,formsText.placeholderName,Введите ваше имя (placeholder),你的名字
+235,formsText.labelLastName,Введите вашу фамилию,姓 *
+236,formsText.placeholderLastName,Введите вашу фамилию (placeholder),你的姓氏
+237,formsText.labelMail,Введите ваш E-mail,电子邮件 *
+238,formsText.placeholderEmail,Введите ваш E-mail (placeholder),你的邮件
+239,formsText.labelPassword,Введите пароль,密码 *
+240,formsText.placeholderPassword,Введите пароль (placeholder),输入密码
+241,formsText.labelConfirmPassword,Подтвердите пароль,确认密码*
+242,formsText.labelPhone,Поле для ввода номера телефона,电话号码*
+243,formsText.placeholderPhone,Поле для ввода номера телефона (placeholder),你的电话号码
+244,formsText.labelCountry,Выберите страну,国家
+245,formsText.placeholderCountry,Выберите страну (placeholder),选择一个国家
+246,formsText.labelLanguage,Выберите язык,语
+247,formsText.placeholderLanguage,Выберите язык (placeholder),选择语言
+248,formsText.labelTime,Удобное время для звонка,合适的时间
+249,formsText.placeholderTime,Удобное время для звонка (placeholder),呼叫的时间
+250,formsText.lableTwoauth,Введите код двухэтапной авторизации,授权码*
+251,formsText.placeholderTwoauth,Введите код двухэтапной авторизации (placeholder),两级授权码
+252,formsText.labelPromo,Введите промокод,促销代码
+253,formsText.placeholderPromo,Введите промокод (placeholder),输入促销代码
+8.3. Дополнительный текст,,,
+254,formsText.text_required,* - обязательные поля,*  - 必填字段
+255,formsText.regRecommend,"Для пароля разрешены только латинские буквы, цифры и символы. ",密码仅允许使用拉丁字母，数字和符号。 密码必须至少包含一个大写字母，一个小写字母和一个数字。
+256,formsText.checkboxText,Обработка персональных данных (чекбокс),我同意个人资料的处理
+8.4. Уведомления,,,
+257,formsText.titleSuccess,Спасибо за отправку сообщения,感谢您发送邮件
+258,formsText.textSuccess,Спасибо за отправку сообщения текст,您的要求已成功处理！
+259,formsText.titleError,Ошибка отправки сообщения,发送邮件时出错
+260,formsText.textError,Ошибка отправки сообщения текст,等会再试
+309,formsText.titleAttention,Ошибка (заголовок),注意力！
+8.5. Ссылки в форме,,,
+261,formsText.forgotText,Забыли пароль?,忘记密码了吗？
+262,formsText.allreadyText,Уже есть учетная запись,已经有一个帐户
+9. Навигация,,,
+263,navText.index,Главная,主要
+264,navText.markets,Рынки,市场
+265,navText.about,О компании,关于公司
+266,navText.contacts,Контакты,往来
+267,navText.forex,Валюты,货币
+268,navText.metals,Металлы,金属
+269,navText.stocks,Акции,股票
+270,navText.commodities,Товары,商品
+271,navText.indices,Индексы,指数
+272,navText.crypto,Криптовалюты,加密貨幣
+273,navText.trading,Торговые условия,交易条件
+274,navText.licenses,Аккредитация и лицензии,资质认证和授权
+275,formsText.checkboxAgreement,Пользовательское соглашение,使用条款
+276,formsText.checkboxPolicy,Политика возврата средств,退款政策
+293,curLang,Текущий язык,Zh
+10. Кнопки,,,
+277,buttonText.login,Войти,登录
+278,buttonText.btnReg,Зарегистрироваться,注册
+279,buttonText.enterFormButton,Войти в кабинет,登录
+280,buttonText.btnSend,Отправить,发送
+281,buttonText.btnStartTrade,Начать торговать,开始交易
+282,buttonText.btnOpenAcc,Открыть счет,开帐户
+283,buttonText.btnCallback,Запросить звонок,要求电话
+284,buttonText.btnLearMore,Узнать больше,了解更多
+285,buttonText.btn404,Вернуться на главную,回到主页
+286,buttonText.btnSupport,Техническая поддержка,技术支援
+287,buttonText.btnPartner,Стать партнером,成为合作伙伴
+11. Контакты,,,
+288,contactsHeaderText.title,Заголовок,全天候，个性化的用户支持
+289,contactsHeaderText.text,Подзаголовок,请求电话，我们会尽快与您联系。
+290,contactsListText.contact2,Наша почта,我们的电子邮件
+291,contactsListText.contact3,Месторасположение,位置
+292,contactsListText.contact1,Международный номер,国际号码
+12. Тайтлы,,,
+293,titles.index,index,Company Name - 获得财政独立
+294,titles.notFound,404,404 - Company Name - 获得财政独立
+295,titles.licenses,licenses,认证和许可证 - Company Name - 获得财政独立
+296,titles.reminder,reminder,找回密碼 - Company Name - 获得财政独立
+297,titles.register,register,報到 - Company Name - 获得财政独立
+298,titles.login,login,入口 - Company Name - 获得财政独立
+299,titles.about,about,關於公司 - Company Name -赚取简单！
+300,titles.contacts,contacts,聯絡人 - Company Name - 24/7個人用戶支持
+301,titles.markets,markets,超过200种金融工具，用于在世界任何地方进行交易
+302,titles.commodities,commodities,商品 - 与Company Name 交易商品
+303,titles.crypto,crypto,加密貨幣 - 交易加密货币差价合约共同经纪商名称
+304,titles.forex,forex,貨幣是最穩定，最有前途的投資市場
+305,titles.indices,indices,指標 - 成为指数差价合约交易专家
+306,titles.metals,metals,金屬製品 - 有利可图的金属差价合约交易
+307,titles.stocks,stocks,股票 - ﾂ暗ｪﾂ氾环偲青団ﾂ法ﾂ人
+308,titles.trading,trading,交易條件 - Company Name 交易账户

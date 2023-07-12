@@ -1,0 +1,37 @@
+if accounts_type == "cold"
+	include ../../mixins/accountsMixinCold.pug
+else
+	include ../../mixins/accountsMixinHot.pug
+
+
+section.section.section-with-bg.section-accounts
+	.wrapper.wrapper_accounts
+		h2.h2-title.color-blue.h2-title__accounts !{indexAccountsText.h2[lang]}
+		.accounts-sliders-wrapper
+			.accounts-tab-list.js-accounts-tab-list
+				.accounts-tab-list__item
+					h3.accounts-list__title.h3-title !{indexAccountsText.account1.title[lang]}
+				.accounts-tab-list__item
+					h3.accounts-list__title.h3-title !{indexAccountsText.account2.title[lang]}
+				.accounts-tab-list__item
+					h3.accounts-list__title.h3-title !{indexAccountsText.account3.title[lang]}
+			.accounts-list.js-accounts-list
+				+account(1)
+				+account(2)
+				+account(3)
+		a(href=linkSignup).btn.btn_accounts !{buttonText.btnOpenAcc[lang]}
+	.accounts-decor-list.js-accounts-decor-list
+		.accounts-decor-list__item
+			.wrapper.wrapper-accounts-decor
+				img.accounts-decor.accounts-decor-2_1(src=baseDir + "assets/images/accounts-decor-2_1.svg" alt="accounts-slider-decor")
+				img.accounts-decor.accounts-decor-2_2(src=baseDir + "assets/images/accounts-decor-2_2.svg" alt="accounts-slider-decor")
+		.accounts-decor-list__item
+			.wrapper.wrapper-accounts-decor
+				img.accounts-decor.accounts-decor-1_1(src=baseDir + "assets/images/accounts-decor-1_1.svg" alt="accounts-slider-decor")
+				img.accounts-decor.accounts-decor-1_2(src=baseDir + "assets/images/accounts-decor-1_2.svg" alt="accounts-slider-decor")
+		.accounts-decor-list__item
+			.wrapper.wrapper-accounts-decor
+				img.accounts-decor.accounts-decor-3_1(src=baseDir + "assets/images/accounts-decor-3_1.svg" alt="accounts-slider-decor")
+				img.accounts-decor.accounts-decor-3_2(src=baseDir + "assets/images/accounts-decor-3_2.svg" alt="accounts-slider-decor")
+				img.accounts-decor.accounts-decor-3_3(src=baseDir + "assets/images/accounts-decor-3_3.svg" alt="accounts-slider-decor")
+

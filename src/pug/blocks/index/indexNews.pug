@@ -1,0 +1,11 @@
+section.section.section-news
+	.news-circle-decor
+		.wrapper.wrapper-circle-decor
+			img.circle-decor-news(src=baseDir + "assets/images/main-circle-2.svg" alt="blue-circle")
+	.bg-news
+	.wrapper.wrapper-news
+		h2.h2-title.color-blue.h2-title_news !{indexNewsText.h2[lang]}
+		.news-slider-wrapper(data-aos="fade-up")
+			.news-slider(class= "news-slider_" + lang)
+				.news-slider__items.data--js-news(class="news-slider__items-" + lang)
+			.news-pagination-wrapper-js.pagination-wrapper.pagination-wrapper_blue.pagination-wrapper_news
