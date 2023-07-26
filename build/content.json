@@ -1,0 +1,3033 @@
+{
+  "indexHeaderText": {
+    "slide1": {
+      "title": {
+        "de": "Einfacher und schneller Einstieg in die Finanzmärkte",
+        "en": "Easy and fast entry to the financial markets",
+        "es": "Entrada fácil y rápida a los mercados financieros",
+        "fr": "Entrée facile et rapide sur les marchés financiers",
+        "it": "Accesso facile e veloce ai mercati finanziari",
+        "ru": "Простой и быстрый вход на финансовые рынки",
+        "zh": "轻松快速地进入金融市场"
+      },
+      "text": {
+        "de": "Company Name wird es jedem ermöglichen, auf professionelle Trading-Tools zuzugreifen.",
+        "en": "Company Name will allow anyone to get access to professional trading instrumentss.",
+        "es": "Company Name permitirá a cualquier persona acceder a herramientas profesionales para el comercio.",
+        "fr": "Company Name permettra à quiconque d'accéder à des outils de trading professionnels.",
+        "it": "Company Name consentirà a chiunque di accedere a strumenti di trading professionali.",
+        "ru": "Company Name позволит любому человеку получить доступ к профессиональным инструментам для торговли.",
+        "zh": "Company Name将允许任何人访问专业交易工具。"
+      }
+    },
+    "slide2": {
+      "title": {
+        "de": "Hohe Geschwindigkeit und Sicherheit von Börsengeschäften",
+        "en": "High speed and security of exchange transactions",
+        "es": "Alta velocidad y seguridad de las transacciones bursátiles",
+        "fr": "Haute vitesse et sécurité des transactions boursières",
+        "it": "Alta velocità e sicurezza delle transazioni di Borsa",
+        "ru": "Высокая скорость и безопасность биржевых сделок",
+        "zh": "交换交易的高速度和安全性"
+      },
+      "text": {
+        "de": "Seriöse Regulierungsbehörden und eine moderne Plattform tragen dazu bei, schnelle und sichere Handelsgeschäfte zu ermöglichen.",
+        "en": "Reputable regulators and a modern platform help to ensure fast and safe trading operations.",
+        "es": "Los reguladores de buena reputación y la plataforma moderna ayudan a garantizar operaciones comerciales rápidas y seguras.",
+        "fr": "Les régulateurs réputés et la plate-forme moderne aident à assurer des transactions commerciales rapides et sûres.",
+        "it": "Regolatori affidabili e una piattaforma moderna aiutano a garantire operazioni di trading veloci e sicure.",
+        "ru": "Авторитетные регуляторы и современная платформа помогают обеспечить быстрые и безопасные торговые операции.",
+        "zh": "信誉良好的监管机构和现代化的平台有助于确保快速安全的交易操作。"
+      }
+    },
+    "slide3": {
+      "title": {
+        "de": "Eine gute Gelegenheit, heute mit dem Handel zu beginnen",
+        "en": "A good opportunity to start trading today",
+        "es": "Una buena oportunidad para comenzar a operar hoy",
+        "fr": "Une bonne occasion de commencer à trader dès aujourd'hui",
+        "it": "Una buona opportunità per iniziare a fare trading oggi",
+        "ru": "Хорошая возможность начать торговать уже сегодня",
+        "zh": "今天开始交易的好机会"
+      },
+      "text": {
+        "de": "Company Name ermöglicht es dem Händler, schnell ein Konto zu eröffnen und bereits am ersten Tag nach der Registrierung mit dem Handel zu beginnen.",
+        "en": "Company Name allows a trader to quickly open an account and start trading on the first day after registration.",
+        "es": "Company Name permite al operador abrir rápidamente una cuenta y comenzar a operar el primer día después del registro.",
+        "fr": "Company Name permet au trader d'ouvrir rapidement un compte et de commencer à trader dès le premier jour après l'inscription.",
+        "it": "Company Name consente al trader di aprire rapidamente un conto e iniziare a fare trading il primo giorno dopo la registrazione.",
+        "ru": "Company Name позволяет трейдеру быстро открыть счет и начать торговать уже в первый день после регистрации.",
+        "zh": "Company Name允许交易者在注册后的第一天快速开立账户并开始交易。"
+      }
+    },
+    "slide4": {
+      "title": {
+        "de": "Große Vielfalt an Handelsinstrumenten",
+        "en": "A wide variety of trading instruments",
+        "es": "Gran variedad de instrumentos comerciales",
+        "fr": "Une grande variété d'outils de trading",
+        "it": "Grande varietà di strumenti di trading",
+        "ru": "Большое разнообразние торговых инструментов",
+        "zh": "各种各样的交易工具"
+      },
+      "text": {
+        "de": "Company Name bietet viele Möglichkeiten für den Händler: Aktien, Anleihen, ETFs und vieles mehr.",
+        "en": "Company Name provides many opportunities for a trader: stocks, bonds, ETFs and much more.",
+        "es": "Company Name ofrece muchas oportunidades para el comerciante: acciones, bonos, ETF y más.",
+        "fr": "Company Name offre de nombreuses opportunités pour le commerçant: actions, obligations, ETF, etc.",
+        "it": "Company Name offre molte opportunità per il commerciante: Azioni, Obbligazioni, ETF e altro ancora.",
+        "ru": "Company Name предоставляет множество возможностей для трейдера: акции, облигации, ETF и многое другое.",
+        "zh": "Company Name为交易者提供了许多机会：股票，债券，Etf等等。"
+      }
+    }
+  },
+  "indexAdvantagesText": {
+    "h2": {
+      "de": "Warum Company Name?",
+      "en": "Why Company Name?",
+      "es": "¿Por Qué Company Name?",
+      "fr": "Pourquoi Company Name?",
+      "it": "Perché Company Name?",
+      "ru": "Почему Company Name?",
+      "zh": "为什么选择Company Name？"
+    },
+    "advantage1": {
+      "title": {
+        "de": "Niedrige Einstiegsschwelle",
+        "en": "Low threshold for entry",
+        "es": "Umbral bajo para la entrada",
+        "fr": "Seuil d'entrée bas",
+        "it": "Soglia bassa per l'ingresso",
+        "ru": "Низкий порог для входа",
+        "zh": "入门门槛低"
+      },
+      "text": {
+        "de": "Um den Handel zu starten, gibt es keine Notwendigkeit, eine große Menge zu investieren, können Sie mit minimalen Investitionen beginnen.",
+        "en": "To start trading, there is no need to invest a large amount, you can start with minimal investments.",
+        "es": "Para comenzar a operar, no es necesario invertir una gran cantidad, puede comenzar con inversiones mínimas.",
+        "fr": "Pour démarrer le commerce, il n'est pas nécessaire d'investir une grande quantité, vous pouvez commencer avec un investissement minimum.",
+        "it": "Per iniziare il commercio non è necessario investire una grande quantità, è possibile iniziare con un investimento minimo.",
+        "ru": "Для старта торговли нет необходимости инвестировать крупную сумму, можно начать с минимальных вложений.",
+        "zh": "要开始交易，不需要投入大量资金，您可以从最小的投资开始。"
+      }
+    },
+    "advantage2": {
+      "title": {
+        "de": "Einfacher Einzahlungs - und Auszahlungsprozess",
+        "en": "A simple process of depositing and withdrawing funds",
+        "es": "Proceso simple de depósito y retiro",
+        "fr": "Processus simple de dépôt et de retrait",
+        "it": "Semplice processo di deposito e prelievo",
+        "ru": "Простой процесс пополнения и снятия средств",
+        "zh": "存款和取款的简单过程"
+      },
+      "text": {
+        "de": "Die Auffüllung des Kontos und der Rückzug des Gewinns - der maximal durchsichtige Prozess, wir haben keine versteckten Provisionen.",
+        "en": "Replenishment of the account and withdrawal of profits is the most transparent process, we do not have any hidden commissions.",
+        "es": "La reposición de la cuenta y la retirada de beneficios - el proceso más transparente, no tenemos ninguna Comisión oculta.",
+        "fr": "Réapprovisionnement et retrait des bénéfices-le processus le plus transparent, nous n'avons pas de commissions cachées.",
+        "it": "Il deposito e il ritiro dei profitti sono il processo più trasparente possibile, non abbiamo commissioni nascoste.",
+        "ru": "Пополнение счета и вывод прибыли - максимально прозрачный процесс, у нас нет никаких скрытых комиссий.",
+        "zh": "补充账户和提取利润是最透明的过程，我们没有任何隐藏的佣金。"
+      }
+    },
+    "advantage3": {
+      "title": {
+        "de": "Maßgebliche Aufsichtsbehörden",
+        "en": "Reputable regulators",
+        "es": "Reguladores autorizados",
+        "fr": "Régulateurs réputés",
+        "it": "Regolatori autorevoli",
+        "ru": "Авторитетные регуляторы",
+        "zh": "信誉良好的监管机构"
+      },
+      "text": {
+        "de": "Die Tätigkeit von Company Name wird von den zuverlässigsten Regulierungsbehörden geregelt, nämlich ASIC, DFSA, FSCA.",
+        "en": "The activities of Company Name are regulated by the most reliable regulators, namely: ASIC, DFSA, FSCA.",
+        "es": "La actividad de Company Name está regulada por los reguladores más confiables, a saber: ASIC, DFSA, FSCA.",
+        "fr": "Les activités de Company Name sont régies par les régulateurs les plus fiables, à savoir ASIC, DFSA, FSCA.",
+        "it": "L'attività di Company Name è regolata dai regolatori più affidabili, vale a dire: ASIC, DFSA, FSCA.",
+        "ru": "Деятельность Company Name регламентируется самыми надежными регуляторами, а именно: ASIC, DFSA, FSCA.",
+        "zh": "Company Name的活动由最可靠的监管机构监管，即：ASIC，DFSA，FSCA。"
+      }
+    },
+    "advantage4": {
+      "title": {
+        "de": "Eine Vielzahl von Kontotypen",
+        "en": "Variety of account types",
+        "es": "Variedad de tipos de cuentas",
+        "fr": "Variété de types de comptes",
+        "it": "Varietà di tipi di account",
+        "ru": "Разнообразие типов счетов",
+        "zh": "多种账户类型"
+      },
+      "text": {
+        "de": "Unsere Plattform kann einen Kontotyp für jeden Händler anbieten: vom Anfänger bis zum Profi.",
+        "en": "Our platform can offer an account type for any trader: from a beginner to a professional.",
+        "es": "Nuestra plataforma puede ofrecer el tipo de cuenta para cualquier comerciante: desde principiante hasta profesional.",
+        "fr": "Notre plate-forme peut offrir un type de compte pour tout commerçant, du débutant au professionnel.",
+        "it": "La nostra piattaforma può offrire un tipo di conto per qualsiasi trader, dal principiante al professionista.",
+        "ru": "Наша платформа может предложить тип счета для любого трейдера: от начинающего до профессионала.",
+        "zh": "我们的平台可以为任何交易者提供账户类型：从初学者到专业人士。"
+      }
+    },
+    "advantage5": {
+      "title": {
+        "de": "Viele Alternativen für Eingabe und Ausgabe",
+        "en": "Many alternatives for input and output",
+        "es": "Muchas alternativas para entrada y salida",
+        "fr": "Beaucoup d'alternatives pour l'entrée et la sortie",
+        "it": "Molte alternative di input e output",
+        "ru": "Множество альтернатив для ввода и вывода",
+        "zh": "输入和输出的许多替代方案"
+      },
+      "text": {
+        "de": "Sie können das Konto auffüllen und Geld von ihm abheben, was für Sie bequem ist.",
+        "en": "You can top up your account and withdraw funds from it in any way that is convenient for you.",
+        "es": "Puede depositar y retirar fondos de su cuenta de cualquier manera conveniente para usted.",
+        "fr": "Vous pouvez recharger votre compte et retirer des fonds de n'importe quelle manière qui vous convient.",
+        "it": "Depositare fondi e prelevare fondi da esso può essere qualsiasi modo conveniente per voi.",
+        "ru": "Пополнять счет и выводить с него средства можно любым удобным для вас способом.",
+        "zh": "您可以以任何方便的方式为您的帐户充值并从中提取资金。"
+      }
+    },
+    "advantage6": {
+      "title": {
+        "de": "Kunden-Support rund um die Uhr",
+        "en": "Round-the-clock customer support",
+        "es": "Atención al cliente 24/7",
+        "fr": "Support client 24 heures sur 24",
+        "it": "Assistenza clienti 24 ore su 24",
+        "ru": "Круглосуточная поддержка клиентов",
+        "zh": "全天候客户支持"
+      },
+      "text": {
+        "de": "Unsere Betreiber und Techniker stehen Ihnen jederzeit zur Verfügung und beantworten alle Ihre Fragen.",
+        "en": "Our operators and technical specialists are ready to help and answer all your questions at any time.",
+        "es": "Nuestros operadores y técnicos están listos para ayudar y responder a todas sus preguntas en cualquier momento.",
+        "fr": "Nos opérateurs et techniciens sont prêts à vous aider et à répondre à toutes vos questions à tout moment.",
+        "it": "I nostri operatori e tecnici sono pronti ad aiutare e rispondere a tutte le vostre domande in qualsiasi momento.",
+        "ru": "Наши операторы и технические специалисты готовы помочь и ответить на все ваши вопросы в любое время.",
+        "zh": "我们的操作员和技术专家随时准备提供帮助并回答您的所有问题。"
+      }
+    }
+  },
+  "indexBenefitsText": {
+    "h2": {
+      "de": "Zusätzliche Vorteile",
+      "en": "Additional benefits",
+      "es": "Beneficios adicionales",
+      "fr": "Plus",
+      "it": "Ulteriori vantaggi",
+      "ru": "Дополнительные преимущества",
+      "zh": "其他优势"
+    },
+    "benefit1": {
+      "title": {
+        "de": "Risikomanagement",
+        "en": "Risk management",
+        "es": "Gestión de riesgos",
+        "fr": "Gestion des risques",
+        "it": "Gestione del rischio",
+        "ru": "Управление рисками",
+        "zh": "风险管理"
+      },
+      "text": {
+        "de": "Company Name ermöglicht es Ihnen, Risiken zu verwalten, unabhängig davon, welches Werkzeug Sie verwenden.",
+        "en": "Company Name allows you to manage risks regardless of which instrument you use.",
+        "es": "Company Name le permite administrar los riesgos independientemente de la herramienta que utilice.",
+        "fr": "Company Name vous permet de gérer les risques, quel que soit l'outil que vous utilisez.",
+        "it": "Company Name consente di gestire i rischi indipendentemente dallo strumento utilizzato.",
+        "ru": "Company Name позволяет управлять рисками независимо от того, какой инструмент вы используете.",
+        "zh": "Company Name允许您管理风险，无论您使用哪种工具。"
+      }
+    },
+    "benefit2": {
+      "title": {
+        "de": "Aktuelle Daten",
+        "en": "Current data",
+        "es": "Datos actuales",
+        "fr": "Données actualisées",
+        "it": "Dati attuali",
+        "ru": "Актуальные данные",
+        "zh": "当前数据"
+      },
+      "text": {
+        "de": "Internationale Finanzzentren übertragen die Daten direkt an die Company Name-Plattform.",
+        "en": "International financial centers transmit data directly to the Company Name platform.",
+        "es": "Los centros financieros internacionales transfieren datos directamente a la plataforma Company Name.",
+        "fr": "Les centres financiers internationaux transmettent les données directement à la plate-forme Company Name.",
+        "it": "I centri finanziari internazionali trasferiscono i dati direttamente alla piattaforma Company Name.",
+        "ru": "Международные финансовые центры передают данные напрямую на платформу Company Name.",
+        "zh": "国际金融中心将数据直接传输到Company Name平台。"
+      }
+    },
+    "benefit3": {
+      "title": {
+        "de": "Schutz der Interessen des Händlers",
+        "en": "Protection of the trader's interests",
+        "es": "Protección de los intereses del comerciante",
+        "fr": "Protéger les intérêts du commerçant",
+        "it": "Proteggere gli interessi del commerciante",
+        "ru": "Защита интересов трейдера",
+        "zh": "保护交易者的利益"
+      },
+      "text": {
+        "de": "Die Hauptaufgabe von Company Name ist es, Ihren Kunden einen sicheren und komfortablen Handel zu bieten.",
+        "en": "The main task of Company Name is to provide safe and comfortable trading for its clients.",
+        "es": "La tarea principal de Company Name es proporcionar a sus clientes un comercio seguro y cómodo.",
+        "fr": "L'objectif principal de Company Name est de fournir à ses clients un commerce sûr et confortable.",
+        "it": "Il compito principale di Company Name è quello di fornire ai propri clienti un commercio sicuro e confortevole.",
+        "ru": "Главная задача Company Name - обеспечить для своих клиентов безопасную и комфортную торговлю.",
+        "zh": "Company Name的主要任务是为客户提供安全和舒适的交易。"
+      }
+    },
+    "benefit4": {
+      "title": {
+        "de": "Informationen zur Kursdynamik",
+        "en": "Information about the dynamics of quotations",
+        "es": "Información sobre la dinámica de las cotizaciones",
+        "fr": "Informations sur la dynamique des cotations",
+        "it": "Informazioni sulla dinamica delle quotazioni",
+        "ru": "Информация о динамике котировок",
+        "zh": "有关报价动态的信息"
+      },
+      "text": {
+        "de": "Auf unserer Plattform können Sie die Geschichte der Kursbewegung analysieren und auf dieser Grundlage Ihre Strategie bestimmen.",
+        "en": "On our platform, you will be able to analyze the history of the movement of quotes and determine your strategy based on this.",
+        "es": "En nuestra plataforma, puede analizar la historia del movimiento de las cotizaciones y, en base a esto, determinar su estrategia.",
+        "fr": "Sur notre plate-forme, vous pouvez analyser l'historique du mouvement des citations et, sur cette base, déterminer votre stratégie.",
+        "it": "Sulla nostra piattaforma sarete in grado di analizzare la storia del movimento delle quotazioni e sulla base di questo per determinare la vostra strategia.",
+        "ru": "На нашей платформе вы сможете проанализировать историю движения котировок и на основе этого определить свою стратегию.",
+        "zh": "在我们的平台上，您将能够分析报价运动的历史记录，并基于此确定您的策略。"
+      }
+    }
+  },
+  "indexStepsText": {
+    "h2": {
+      "de": "Starten Sie den Handel in drei Stufen",
+      "en": "Start trading in three stages",
+      "es": "Comience a operar en tres etapas",
+      "fr": "Commencez à trader en trois étapes",
+      "it": "Inizia a fare trading in tre fasi",
+      "ru": "Начните торговать в три этапа",
+      "zh": "分三个阶段开始交易"
+    },
+    "step1": {
+      "title": {
+        "de": "Anmeldung auf der Plattform",
+        "en": "Registration on the platform",
+        "es": "Registro en la plataforma",
+        "fr": "Inscription sur la plateforme",
+        "it": "Registrazione sulla piattaforma",
+        "ru": "Регистрация на платформе",
+        "zh": "在平台上注册"
+      },
+      "text": {
+        "de": "Im ersten Schritt müssen Sie die Kontaktdaten angeben.",
+        "en": "At the first stage, you must specify the contact details.",
+        "es": "En el primer paso, debe proporcionar datos de contacto.",
+        "fr": "Dans la première étape, vous devez fournir les coordonnées.",
+        "it": "Nel primo passaggio è necessario fornire i dettagli di contatto.",
+        "ru": "На первом этапе необходимо указать контактные данные.",
+        "zh": "在第一阶段，您必须指定联系方式。"
+      }
+    },
+    "step2": {
+      "title": {
+        "de": "Kontotyp definieren",
+        "en": "Determine the account type",
+        "es": "Definir tipo de cuenta",
+        "fr": "Définir le type de compte",
+        "it": "Definire il tipo di conto",
+        "ru": "Определить тип счета",
+        "zh": "确定帐户类型"
+      },
+      "text": {
+        "de": "Die zweite Stufe beinhaltet die Wahl des Kontotyps, auf der Plattform gibt es mehrere von ihnen.",
+        "en": "The second stage involves choosing the type of account, there are several of them on the platform.",
+        "es": "La segunda etapa implica la elección del tipo de cuenta, en la plataforma hay varios de ellos.",
+        "fr": "La deuxième étape implique le choix du type de compte, il y en a plusieurs sur la plate-forme.",
+        "it": "La seconda fase prevede la scelta del tipo di account, sulla piattaforma sono presentati diversi.",
+        "ru": "Второй этап подразумевает выбор типа счета, на платформе их представлено несколько.",
+        "zh": "第二阶段涉及选择帐户类型，平台上有几个帐户。"
+      }
+    },
+    "step3": {
+      "title": {
+        "de": "Einzahlen",
+        "en": "Top up your account",
+        "es": "Depositar fondos",
+        "fr": "Recharger le compte",
+        "it": "Ricarica",
+        "ru": "Пополнить счет",
+        "zh": "为您的帐户充值"
+      },
+      "text": {
+        "de": "In der dritten Phase müssen Sie nur die Einzahlung auf dem Handelsterminal auffüllen und mit dem Handel beginnen.",
+        "en": "At the third stage, you only need to top up your deposit at the trading terminal and start trading.",
+        "es": "En la tercera etapa, solo necesita reponer el depósito en el terminal de operaciones y comenzar a operar.",
+        "fr": "Dans la troisième étape, il vous suffit de recharger le dépôt sur le terminal de trading et de commencer à trader.",
+        "it": "Nella terza fase, devi solo ricostituire il deposito sul terminale di trading e iniziare a fare trading.",
+        "ru": "На третьем этапе от вас требуется только пополнить депозит на торговом терминале и начать торговать.",
+        "zh": "在第三阶段，您只需要在交易终端充值您的存款并开始交易。"
+      }
+    }
+  },
+  "indexAccountsText": {
+    "h2": {
+      "de": "Kontoinformationen",
+      "en": "Account Information",
+      "es": "Información de la cuenta",
+      "fr": "Informations sur les comptes",
+      "it": "Informazioni sull'account",
+      "ru": "Информация об аккаунтах",
+      "zh": "账户信息"
+    },
+    "account1": {
+      "title": {
+        "de": "Anfänger",
+        "en": "Beginner",
+        "es": "Principiante",
+        "fr": "Débutant",
+        "it": "Principiante",
+        "ru": "Beginner",
+        "zh": "初学者"
+      },
+      "text": {
+        "de": "Diese Art von Konto ermöglicht die Verwendung der beliebtesten Tools und ermöglicht auch den Zugriff auf Schulungsmaterialien.",
+        "en": "This type of account allows you to use the most popular instrumentss, and also gives access to training materials.",
+        "es": "Este tipo de cuenta le permite usar las herramientas más populares y también le da acceso a materiales de capacitación.",
+        "fr": "Ce type de compte vous permet d'utiliser les outils les plus populaires et vous donne également accès à du matériel de formation.",
+        "it": "Questo tipo di account consente di utilizzare gli strumenti più popolari e fornisce anche l'accesso a materiale didattico.",
+        "ru": "Данный тип счета позволяет использовать самые популярные инструменты, а также дает доступ к обучающим материалам.",
+        "zh": "这种类型的帐户允许您使用最流行的工具，并且还可以访问培训材料。"
+      }
+    },
+    "account2": {
+      "title": {
+        "de": "Mitte",
+        "en": "Middle",
+        "es": "Medio",
+        "fr": "Milieu",
+        "it": "Medio",
+        "ru": "Middle",
+        "zh": "中"
+      },
+      "text": {
+        "de": "Noch mehr Handelsinstrumente und bessere Bedingungen für den Händler.",
+        "en": "Even more trading instrumentss and more favorable conditions for the trader.",
+        "es": "Aún más instrumentos comerciales y condiciones más favorables para el comerciante.",
+        "fr": "Encore plus d'outils de trading et de meilleures conditions pour le commerçant.",
+        "it": "Ancora più strumenti di trading e condizioni più favorevoli per il commerciante.",
+        "ru": "Еще больше торговых инструментов и более выгодные условия для трейдера.",
+        "zh": "更多的交易工具和交易者更有利的条件。"
+      }
+    },
+    "account3": {
+      "title": {
+        "de": "Spezialist",
+        "en": "Specialist",
+        "es": "Especialista",
+        "fr": "Spécialiste",
+        "it": "Specialista",
+        "ru": "Specialist",
+        "zh": "专家"
+      },
+      "text": {
+        "de": "Wenn Sie diesen Tarif wählen, erhalten Sie neben dem vollen Zugang zum Handelsterminal auch die Möglichkeit, Ihre Einzahlung zu versichern.",
+        "en": "By choosing this tariff, in addition to full access to the trading terminal, you also get the opportunity to insure your deposit.",
+        "es": "Al elegir esta tarifa, además del acceso completo a la terminal comercial, también tiene la oportunidad de asegurar su depósito.",
+        "fr": "En choisissant ce tarif, en plus de l'accès complet au terminal de trading, vous avez également la possibilité d'assurer votre dépôt.",
+        "it": "Scegliendo questa tariffa, oltre al pieno accesso al terminale di trading, hai anche la possibilità di assicurare il tuo deposito.",
+        "ru": "Выбрав этот тариф, помимо полного доступа к торговому терминалу, вы также получаете возможность застраховать свой депозит.",
+        "zh": "通过选择此关税，除了完全访问交易终端外，您还有机会为您的存款提供保险。"
+      }
+    },
+    "account_condition_1": {
+      "de": "Mindesteinzahlung",
+      "en": "Minimum deposit",
+      "es": "Depósito mínimo",
+      "fr": "Dépôt minimum",
+      "it": "Deposito minimo",
+      "ru": "Минимальный депозит",
+      "zh": "最低起存"
+    },
+    "account_condition_2": {
+      "de": "Hebel",
+      "en": "Leverage",
+      "es": "Apalancamiento",
+      "fr": "Influence",
+      "it": "Leva",
+      "ru": "Кредитное плечо",
+      "zh": "杠杆作用"
+    },
+    "account_condition_3": {
+      "de": "Sofortige Ausführung",
+      "en": "Instant execution",
+      "es": "Ejecución instantanea",
+      "fr": "Exécution instantanée",
+      "it": "Esecuzione istantanea",
+      "ru": "Моментальное исполнение",
+      "zh": "即时执行"
+    },
+    "account_condition_4": {
+      "de": "Handel mit Kryptowährungen und Metallen",
+      "en": "Cryptocurrencies and metals trading",
+      "es": "Comercio de criptomonedas y metales",
+      "fr": "Commerce de crypto-monnaies et métaux",
+      "it": "Criptovalute e commercio di metalli",
+      "ru": "Торговля криптовалютами и металлами",
+      "zh": "加密货币和金属交易"
+    },
+    "account_condition_5": {
+      "de": "PAMM-Konten investieren",
+      "en": "PAMM-accounts investing",
+      "es": "Inversión de cuentas PAMM",
+      "fr": "Investissement des comptes PAMM",
+      "it": "Investimenti in conti PAMM",
+      "ru": "Возможность инвестиций в ПАММ-счета",
+      "zh": "PAMM账户投资"
+    },
+    "account_condition_6": {
+      "de": "Kein Tausch",
+      "en": "No swap",
+      "es": "Sin intercambio",
+      "fr": "Pas d'échange",
+      "it": "Nessuno scambio",
+      "ru": "Отсутствие свопа",
+      "zh": "无掉期"
+    },
+    "account_condition_7": {
+      "de": "ETF and index trading",
+      "en": "ETF and index trading",
+      "es": "ETF y negociación de índices",
+      "fr": "ETF et trading d'indices",
+      "it": "ETF e l'indice di trading",
+      "ru": "Торговля ETF и индексами",
+      "zh": "ETF和指数交易"
+    },
+    "account_condition_8": {
+      "de": "Einlagensicherung",
+      "en": "Deposit insurance",
+      "es": "Seguro de depósito",
+      "fr": "L'assurance-dépôts",
+      "it": "Assicurazione sui depositi",
+      "ru": "Страхование депозитов",
+      "zh": "存款保险制度"
+    },
+    "account_condition_9": {
+      "de": "Persönlicher Manager",
+      "en": "Personal manager",
+      "es": "Gerente de personal",
+      "fr": "Manager personnel",
+      "it": "Manager personale",
+      "ru": "Персональный менеджер",
+      "zh": "个人管家"
+    },
+    "account_condition_10": {
+      "de": "Eröffnung eines persönlichen PAMM-Kontos",
+      "en": "Opening a personal PAMM-account",
+      "es": "Abrir una cuenta PAMM personal",
+      "fr": "Ouverture d'un compte PAMM personnel",
+      "it": "Apertura di un account PAMM personale",
+      "ru": "Открытие личного ПАММ-счета",
+      "zh": "打开个人PAMM账户"
+    },
+    "account_condition_11": {
+      "de": "Einlagenschutz",
+      "en": "Protection of deposits",
+      "es": "Protección de depósitos",
+      "fr": "Protection des dépôts",
+      "it": "Protezione dei depositi",
+      "ru": "Защита депозитов",
+      "zh": "存款保障"
+    },
+    "account_condition_12": {
+      "de": "24-Stunden-Support",
+      "en": "24-hour personal support",
+      "es": "Soporte",
+      "fr": "Le soutien de",
+      "it": "Supporto 24 ore su 24",
+      "ru": "Круглосуточная поддержка",
+      "zh": "全天候支持"
+    }
+  },
+  "indexNewsText": {
+    "h2": {
+      "de": "Neuesten Nachrichten aus der Wirtschaft",
+      "en": "Latest economic news",
+      "es": "Las últimas noticias económicas",
+      "fr": "Dernières nouvelles économiques",
+      "it": "Ultime notizie economiche",
+      "ru": "Последние экономические новости",
+      "zh": "最新经济新闻"
+    }
+  },
+  "footerContent": {
+    "de": "Company Name ist unter folgender Adresse registriert: France, Ile-de-France, Line A, Marne-la-Vallee Chessie station. Das Unternehmen wird gemäß den Anforderungen der Europäischen Börsenaufsichtsbehörde (Lizenznummer: 096/08), der australischen Securities and Investment Commission (ASIC) (19-365MR) und der britischen Finanzaufsichtsbehörde (FCA) FRN: 584283 betrieben.",
+    "en": "Company Name is registered at: France, Ile-de-France, Line A, Marne-la-Vallee Chessie station. The company's activities are carried out in accordance with the requirements of the European Securities Market Supervision Authority (license number: 096/08), the Australian Securities and Investments Commission (ASIC) (19-365MR) and the Financial Regulatory Authority of the United Kingdom (FCA) FRN: 584283.",
+    "es": "Company Name está registrada en France, Ile-de-France, Line A, Marne-la-Vallee Chessie station. La compañía Opera de acuerdo con los requisitos de la autoridad Europea de supervisión del mercado de valores (número de licencia: 096/08), la Comisión Australiana de valores e inversiones (ASIC) (19-365MR) y la Autoridad de regulación y supervisión financiera del Reino Unido (FCA) FRN: 584283.",
+    "fr": "La société Company Name est enregistrée à l'adresse suivante: France, Ile-de-France, Ligne a, Marne-la-Vallée Chessie station. L'activité de la société est en conformité avec les exigences de la direction Européenne de surveillance des marchés de valeurs mobilières (numéro de licence: 096/08), la commission Australienne des valeurs mobilières et des investissements (ASIC) (19-365MR) et le bureau de l'autorité des services financiers du royaume-Uni (FCA) FRN: 584283.",
+    "it": "Company Name è registrata presso France, Ile-de-France, Line a, Marne-La-Vallee Chessie station. Le attività della società sono svolte in conformità con i requisiti Dell'Autorità europea per la vigilanza del mercato dei titoli (numero di licenza: 096/08), L'Australian Securities and Investments Commission (ASIC) (19-365MR) e L'autorità per la regolamentazione e la vigilanza finanziaria del Regno Unito (FCA) FRN: 584283.",
+    "ru": "Компания Company Name зарегистрирована по адресу: France, Ile-de-France, Line A, Marne-la-Vallee Chessie station. Деятельность компании осуществляется в соответствии с требованиями Европейского управления по надзору за рынком ценных бумаг (номер лицензии: 096/08), Австралийской комиссией по ценным бумагам и инвестициям (ASIC) (19-365MR) и Управлением по финансовому регулированию и надзору Великобритании (FCA) FRN: 584283.",
+    "zh": "Company Name的注册地址为：France,Ile-de-France,Line A,Marne-la-Vallee Chessie station。 公司的活动按照欧洲证券市场监管局（许可证号：096/08），澳大利亚证券和投资委员会（ASIC）（19-365MR）和英国金融监管局（FCA）FRN：584283的要求进行。"
+  },
+  "marketsHeaderText": {
+    "title": {
+      "de": "Große Chancen für den Handel",
+      "en": "Huge trading opportunities",
+      "es": "Enormes oportunidades para el comercio",
+      "fr": "D'énormes opportunités commerciales",
+      "it": "Enormi opportunità di trading",
+      "ru": "Огромные возможности для торговли",
+      "zh": "巨大的交易机会"
+    },
+    "text": {
+      "de": "Company Name bietet Händlern von überall auf der Welt die Möglichkeit, mehr als 200 der beliebtesten Finanzinstrumente zu verwenden.",
+      "en": "The Company Name company provides an opportunity for traders from anywhere in the world to use over 200 of the most popular financial instruments.",
+      "es": "Company Name permite a los operadores de cualquier parte del mundo utilizar más de 200 de los instrumentos financieros más populares.",
+      "fr": "Company Name permet aux traders de partout dans le monde d'utiliser plus de 200 des instruments financiers les plus populaires.",
+      "it": "Company Name offre ai trader di tutto il mondo la possibilità di utilizzare oltre 200 degli strumenti finanziari più popolari.",
+      "ru": "Компания Company Name предоставляет возможность трейдерам из любой точки мира использовать свыше 200 самых популярных финансовых инструментов.",
+      "zh": "Company Name公司为来自世界任何地方的交易者提供了使用200多种最受欢迎的金融工具的机会。"
+    }
+  },
+  "commonMarketsText": {
+    "title_graph": {
+      "de": "Handelsinstrument Chart",
+      "en": "Trading instrument chart",
+      "es": "Trading diagrama de instrumento",
+      "fr": "Tableau de bord de négociation",
+      "it": "Chart strumento Trading",
+      "ru": "График торгового инструмента",
+      "zh": "交易工具图表"
+    },
+    "title_table": {
+      "de": "Instrumente Tisch",
+      "en": "Instruments table",
+      "es": "Mesa de instrumentos",
+      "fr": "Table instruments",
+      "it": "Tavolo Instruments",
+      "ru": "Таблица инструментов",
+      "zh": "仪器表"
+    },
+    "footnote": {
+      "de": "* Öffnen und Schließen Zeiten werden durch UTC 0 angezeigt",
+      "en": "* opening and closing hours are indicated by UTC +0",
+      "es": "* Horas de apertura y cierre se indican mediante UTC 0",
+      "fr": "* Heures d'ouverture et de fermeture sont indiqués par UTC +0",
+      "it": "* Apertura e chiusura sono indicati da UTC +0",
+      "ru": "* часы открытия и закрытия торгов указаны по UTC+0",
+      "zh": "*打开和关闭时间由UTC 0指示"
+    }
+  },
+  "marketsListText": {
+    "market1": {
+      "title": {
+        "de": "Währungspaare",
+        "en": "Currency pairs",
+        "es": "Pares de divisas",
+        "fr": "Forex",
+        "it": "Coppie di valute",
+        "ru": "Валютные пары",
+        "zh": "货币对"
+      },
+      "text": {
+        "de": "Der Erwerb von Währungen ist eines der beliebtesten Instrumente für Investitionen an den Finanzmärkten. Jede Sekunde wird eine große Anzahl von Transaktionen zum Verkauf und Kauf von Währungen auf der ganzen Welt durchgeführt.",
+        "en": "The purchase of foreign currency is one of the most popular instrumentss for investing on the financial markets. Every second, a huge number of operations for the sale and purchase of currency are carried out all over the world.",
+        "es": "La adquisición de divisas es una de las herramientas más populares para invertir en los mercados financieros. Cada segundo se lleva a cabo una gran cantidad de operaciones para la venta y compra de divisas en todo el mundo.",
+        "fr": "L'acquisition de devises est l'un des outils les plus populaires pour investir sur les marchés financiers. Chaque seconde est effectuée un grand nombre d'opérations de vente et d'achat de devises dans le monde entier.",
+        "it": "L'acquisto di valuta è uno degli strumenti più popolari per investire nei mercati finanziari. Ogni secondo viene effettuato un numero enorme di operazioni per la vendita e l'acquisto di valuta in tutto il mondo.",
+        "ru": "Приобретение валюты — один из самых популярных инструментов для инвестирования на финансовых рынках. Ежесекундно осуществляется огромное количество операций по продаже и покупке валюты во все мире.",
+        "zh": "购买外币是投资金融市场最受欢迎的工具之一。 每一秒，一个巨大的数量的业务的销售和购买的货币进行世界各地。"
+      }
+    },
+    "market2": {
+      "title": {
+        "de": "Metalle",
+        "en": "Metals",
+        "es": "Metales",
+        "fr": "Les métaux",
+        "it": "Metalli",
+        "ru": "Металлы",
+        "zh": "金属"
+      },
+      "text": {
+        "de": "Mit der Firma Company Name erhalten Sie die Möglichkeit, wertvolle Metalle wie Gold, Silber, Kupfer, Platin und andere zu erwerben.",
+        "en": "With the Company Name company, you will get the opportunity to purchase valuable metals, such as: gold, silver, copper, platinum and others.",
+        "es": "Con Company Name usted tendrá la oportunidad de comprar metales valiosos, tales como: oro, plata, cobre, platino y otros.",
+        "fr": "Avec Company Name, vous aurez la possibilité d'acheter des métaux précieux tels que l'or, l'argent, le cuivre, le platine et d'autres.",
+        "it": "Con Company Name avrai la possibilità di acquistare metalli preziosi come oro, argento, rame, platino e altri.",
+        "ru": "С компанией Company Name вы получите возможность приобрести ценные металлы, такие как: золото, серебро, медь, платина и другие.",
+        "zh": "通过Company Name公司，您将有机会购买有价值的金属，如：金，银，铜，铂等。"
+      }
+    },
+    "market3": {
+      "title": {
+        "de": "Aktien",
+        "en": "Stocks",
+        "es": "Acciones",
+        "fr": "Réserves",
+        "it": "Titoli azionari",
+        "ru": "Акции",
+        "zh": "股票"
+      },
+      "text": {
+        "de": "Aktien verschiedener Unternehmen-die zweitbeliebteste, nach dem Devisenhandel, ein Werkzeug für die Durchführung von Operationen an der Börse.",
+        "en": "Shares of various companies are the second most popular instrument, after currency trading, for performing operations on a trading exchange.",
+        "es": "Las acciones de varias compañías son la segunda más popular, después del comercio de divisas, una herramienta para realizar operaciones en el intercambio comercial.",
+        "fr": "Les actions de diverses sociétés-le deuxième plus populaire, après la négociation de devises, un outil pour effectuer des opérations sur la bourse de commerce.",
+        "it": "Le azioni di varie società sono la seconda più popolare, dopo il trading di valuta, uno strumento per effettuare operazioni sullo scambio commerciale.",
+        "ru": "Акции различных компаний - второй по популярности, после торговли валютой, инструмент для осуществления операций на торговой бирже.",
+        "zh": "各种公司的股票是第二个最受欢迎的工具，仅次于货币交易，用于在交易所进行操作。"
+      }
+    },
+    "market4": {
+      "title": {
+        "de": "Commodities",
+        "en": "Commodities",
+        "es": "Productos básicos",
+        "fr": "Commodities",
+        "it": "Commodities",
+        "ru": "Сырьевые товары",
+        "zh": "原材料"
+      },
+      "text": {
+        "de": "Auf der Company Name-Plattform haben Sie die Möglichkeit, landwirtschaftliche Produkte, Energieprodukte und andere zu handeln.",
+        "en": "On the Company Name platform, you will have the opportunity to trade agricultural commodities, energy commodities and others.",
+        "es": "En la plataforma Company Name, tendrá la oportunidad de comerciar con productos agrícolas, productos energéticos y otros.",
+        "fr": "Sur la plate-forme Company Name, vous aurez la possibilité d'échanger des produits agricoles, des produits énergétiques et autres.",
+        "it": "Sulla piattaforma Company Name avrai la possibilità di scambiare prodotti agricoli, prodotti energetici e altro ancora.",
+        "ru": "На платформе Company Name у вас будет возможность торговать сельскохозяйственной продукцией, энергетическими продуктами и другими.",
+        "zh": "在Company Name平台上，您将有机会交易农产品，能源产品等。"
+      }
+    },
+    "market5": {
+      "title": {
+        "de": "Indizes",
+        "en": "Indices",
+        "es": "Índices",
+        "fr": "Indices",
+        "it": "Indici",
+        "ru": "Индексы",
+        "zh": "索引"
+      },
+      "text": {
+        "de": "Aktienindizes sind eine Alternative zu anderen Finanzmärkten und haben ihre Vorteile, nämlich langfristig zu investieren und sofortige Diversifizierung, da die Aktien mehrerer großer Unternehmen gleichzeitig gehandelt werden.",
+        "en": "Stock indices are an alternative to other financial markets and have their own advantages, namely: investing in the long term and instant diversification, since the shares of several large companies are traded at once.",
+        "es": "Los índices bursátiles son una alternativa a otros mercados financieros y tienen sus ventajas, a saber, la inversión a largo plazo y la diversificación instantánea, ya que las acciones de varias grandes compañías se negocian a la vez.",
+        "fr": "Les indices boursiers sont une alternative aux autres marchés financiers et ont leurs avantages, à savoir investir à long terme et se diversifier instantanément, car les actions de plusieurs grandes sociétés sont négociées à la fois.",
+        "it": "Gli indici azionari sono un'alternativa altri mercati finanziari e hanno i loro vantaggi, vale a dire: investire a lungo termine e la diversificazione istantanea, così come negoziate le azioni più grandi aziende.",
+        "ru": "Фондовые индексы являются альтернативой других финансовых рынков и имеют свои преимущества, а именно: инвестирование в долгосрочной перспективе и мгновенная диверсификация, так как торгуются акции сразу нескольких крупных компаний.",
+        "zh": "股票指数是其他金融市场的替代品，有自己的优势，即：长期投资和即时多样化，因为几家大公司的股票一次交易。"
+      }
+    },
+    "market6": {
+      "title": {
+        "de": "Kryptowährung",
+        "en": "Cryptocurrency",
+        "es": "Criptomoneda",
+        "fr": "Crypto-monnaie",
+        "it": "Cryptocurrencies",
+        "ru": "Криптовалюта",
+        "zh": "加密货币"
+      },
+      "text": {
+        "de": "Ein relativ neues Finanzinstrument, hat hohe Risiken, aber aufgrund der starken Dynamik der Preise ermöglicht es Ihnen, die investierten Mittel aufgrund der Differenz zwischen dem Kaufpreis und dem Verkaufspreis zu multiplizieren.",
+        "en": "A relatively new financial instrument, it has high risks, but due to the strong price dynamics, it makes it possible to increase the invested funds due to the difference between the purchase price and the sale price.",
+        "es": "Un instrumento financiero relativamente nuevo tiene altos riesgos, pero debido a la fuerte dinámica de los precios ofrece la oportunidad de multiplicar los fondos invertidos debido a la diferencia entre el precio de compra y el precio de venta.",
+        "fr": "Un instrument financier relativement nouveau présente des risques élevés, mais en raison de la forte dynamique des prix, il est possible d'augmenter les fonds investis en raison de la différence entre le prix d'achat et le prix de vente.",
+        "it": "Relativamente nuovo strumento finanziario, ha alti rischi, ma a causa della forte dinamica dei prezzi dà la possibilità di aumentare i fondi investiti dalla differenza tra il prezzo di acquisto e prezzo di vendita.",
+        "ru": "Относительно новый финансовый инструмент, обладает высокими рисками, но из-за сильной динамики цен дает возможность приумножить вложенные средства за счет разницы между ценой покупки и ценой продажи.",
+        "zh": "相对较新的金融工具，它具有较高的风险，但由于强大的价格动态，它使得由于购买价格和销售价格之间的差异而增加投资资金成为可能。"
+      }
+    }
+  },
+  "forexHeaderText": {
+    "title": {
+      "de": "Forex",
+      "en": "Forex",
+      "es": "Forex",
+      "fr": "Forex",
+      "it": "Forex",
+      "ru": "Forex",
+      "zh": "外汇"
+    },
+    "text": {
+      "de": "Werden Sie Teil des Finanzmarktes durch den Handel mit Währungspaaren. Im Handelsterminal Company Name gibt es viele angewandte Werkzeuge, um den zukünftigen Preis einer bestimmten Währung zu analysieren und vorherzusagen. Dies wird Ihnen helfen, immer im Plus zu bleiben.",
+      "en": "Become a part of the financial market for trading currency pairs. The Company Name trading terminal has many application instrumentss for analyzing and predicting the future price of a particular currency. This will help you always stay in the black.",
+      "es": "Conviértase en parte del mercado financiero por el comercio de pares de divisas. En el terminal comercial Company Name hay muchas herramientas de aplicación para analizar y predecir el precio futuro de una moneda en particular. Esto te ayudará a mantenerte siempre en el negro.",
+      "fr": "Faites partie du marché financier en négociant des paires de devises. Dans le terminal de trading Company Name, Il existe de nombreux outils d'application pour analyser et prédire le prix futur d'une devise particulière. Cela vous aidera à rester toujours dans le noir.",
+      "it": "Entra a far parte del mercato finanziario per il trading di coppie di valute. Nel terminale di trading Company Name ci sono molti strumenti applicativi per analizzare e prevedere il prezzo futuro di una determinata valuta. Questo ti aiuterà a rimanere sempre in nero.",
+      "ru": "Станьте частью финансового рынка по торговле валютными парами. В торговом терминале Company Name есть множество прикладных инструментов для анализа и прогнозирования будущей цены на ту или иную валюту. Это поможет вам всегда оставаться в плюсе.",
+      "zh": "成为金融市场交易货币对的一部分。 Company Name交易终端具有许多应用工具，用于分析和预测特定货币的未来价格。 这将帮助您始终保持黑色。"
+    }
+  },
+  "forexProfitsText": {
+    "profit1": {
+      "title": {
+        "de": "Handel von überall auf der Welt",
+        "en": "Trade from anywhere in the world",
+        "es": "Comercio desde cualquier parte del mundo",
+        "fr": "Commerce de partout dans le monde",
+        "it": "Commercio da qualsiasi parte del mondo",
+        "ru": "Торговля из любой точки мира",
+        "zh": "在世界任何地方进行交易"
+      },
+      "text": {
+        "de": "Es spielt keine Rolle, wo Sie sich gerade befinden, wenn Sie Zugang zum Internet haben - Sie können Transaktionen an der Börse durchführen.",
+        "en": "It doesn't matter where you are at the moment, if you have access to the Internet, you will be able to make transactions on the exchange.",
+        "es": "No importa dónde se encuentre actualmente, si tiene acceso a Internet, podrá realizar transacciones en el intercambio.",
+        "fr": "Peu importe où vous êtes actuellement, si vous avez accès à Internet, vous pourrez effectuer des transactions sur la bourse.",
+        "it": "Non importa dove ti trovi in questo momento, se hai accesso a Internet - sarai in grado di effettuare transazioni sullo scambio.",
+        "ru": "Неважно, где вы находитесь в данный момент, если у вас есть доступ к интернету - вы сможете совершать операции на бирже.",
+        "zh": "不要紧，你在哪里的那一刻，如果你可以访问互联网，你将能够在交易所进行交易。"
+      }
+    },
+    "profit2": {
+      "title": {
+        "de": "Hohe Rendite",
+        "en": "High profitability",
+        "es": "Alto rendimiento",
+        "fr": "Rendement élevé",
+        "it": "Rendimento elevato",
+        "ru": "Высокая доходность",
+        "zh": "高盈利能力"
+      },
+      "text": {
+        "de": "Im Vergleich zum Aktienmarkt hat der Devisenhandel eine höhere Rendite. Die durchschnittliche Rendite des Devisenhandels beträgt 20-30%.",
+        "en": "In comparison with the stock market, currency trading has a higher yield. The average rate of return on foreign exchange trading is 20-30%.",
+        "es": "En comparación con el mercado de valores, el comercio de divisas tiene un rendimiento más alto. El rendimiento promedio del comercio de divisas es de 20-30%.",
+        "fr": "Par rapport au marché boursier, le trading de devises a des rendements plus élevés. Le rendement moyen du commerce des devises est de 20-30%.",
+        "it": "Rispetto al mercato azionario, il trading valutario ha un rendimento più elevato. Tasso medio di rendimento del commercio di valuta 20-30%.",
+        "ru": "В сравнении с фондовым рынком валютный трейдинг имеет более высокую доходность. Средний показатель доходности валютной торговли 20-30%.",
+        "zh": "与股票市场相比，货币交易具有更高的收益率。 外汇交易的平均回报率为20-30％。"
+      }
+    },
+    "profit3": {
+      "title": {
+        "de": "Niedrige Einstiegsschwelle",
+        "en": "Low threshold for entry",
+        "es": "Umbral bajo para la entrada",
+        "fr": "Seuil d'entrée bas",
+        "it": "Soglia bassa per l'ingresso",
+        "ru": "Низкий порог для входа",
+        "zh": "入门门槛低"
+      },
+      "text": {
+        "de": "Um auf dem Devisenmarkt zu handeln, ist es nicht notwendig, grundlegende Kenntnisse zu haben, Sie können direkt im Prozess des Handels ausgebildet werden.",
+        "en": "To trade on the foreign exchange market, it is not necessary to have fundamental knowledge, you can learn right in the process of trading.",
+        "es": "Para el comercio en el mercado de divisas no es necesario tener conocimientos fundamentales, puede aprender directamente en el proceso de negociación.",
+        "fr": "Pour le commerce sur le marché des changes, il n'est pas nécessaire d'avoir des connaissances fondamentales, vous pouvez être formé directement dans le processus de négociation.",
+        "it": "Per il trading sul mercato valutario non è necessario avere conoscenze fondamentali, è possibile imparare direttamente nel processo di negoziazione.",
+        "ru": "Для торговли на валютном рынке необязательно обладать фундаментальными знаниями, можно обучаться прямо в процессе торговли.",
+        "zh": "要在外汇市场上进行交易，没有必要具备基本知识，您可以在交易过程中学习正确的知识。"
+      }
+    },
+    "profit4": {
+      "title": {
+        "de": "24-Stunden-Handel",
+        "en": "Round-the-clock trading",
+        "es": "Recepción comercio",
+        "fr": "Commerce 24 heures sur 24",
+        "it": "Trading 24 ore su 24",
+        "ru": "Круглосуточная торговля",
+        "zh": "全天候交易"
+      },
+      "text": {
+        "de": "Der Devisenmarkt arbeitet rund um die Uhr an fünf Tagen in der Woche, es gibt die Möglichkeit, Ihren Arbeitsplan so zu gestalten, wie Sie sich wohl fühlen.",
+        "en": "The foreign exchange market works around the clock five days a week, this makes it possible to build your working schedule as it is convenient for you.",
+        "es": "El mercado de divisas funciona durante todo el día cinco días a la semana, esto le da la oportunidad de construir su horario de trabajo de la manera que le resulte conveniente.",
+        "fr": "Le marché des changes fonctionne autour de l'horloge cinq jours par semaine, il vous permet de construire votre horaire de travail comme vous le souhaitez.",
+        "it": "Il mercato dei cambi funziona tutto il giorno cinque giorni alla settimana, Questo ti dà l'opportunità di costruire il tuo programma di lavoro nel modo che preferisci.",
+        "ru": "Валютный рынок работает круглосуточно пять дней в неделю, это дает возможность выстроить свой рабочий график так, как вам удобно.",
+        "zh": "外汇市场每周五天全天候工作，这使得您可以建立自己的工作时间表，因为它对您来说很方便。"
+      }
+    }
+  },
+  "forexAssetsText": {
+    "title": {
+      "de": "Erfahren Sie mehr über den Devisenmarkt",
+      "en": "Learn more about the foreign exchange market",
+      "es": "Obtenga más información sobre el mercado de divisas",
+      "fr": "En savoir plus sur le marché des changes",
+      "it": "Scopri di più sul mercato valutario",
+      "ru": "Узнайте больше о валютном рынке",
+      "zh": "了解有关外汇市场的更多信息"
+    },
+    "text": {
+      "de": "Der Forex-Markt ist ein internationaler Devisenmarkt, der als einer der größten und aktivsten Finanzmärkte der Welt gilt. Der Handel auf diesem Markt wird auf der Grundlage von Währungspaaren durchgeführt, sowohl populär (EUR/USD) als auch exotischer, zum Beispiel USD/HKD.",
+      "en": "The Forex market is an international currency market, considered one of the largest and most active financial markets in the world. Trading on this market is conducted on the basis of currency pairs, both popular (EUR/USD) and more exotic, for example, USD/HKD.",
+      "es": "El mercado Forex es un mercado internacional de divisas, considerado uno de los mercados financieros más grandes y activos del mundo. El comercio en este mercado se realiza sobre la base de pares de divisas, tanto populares (EUR/USD) como más exóticos, por ejemplo, USD/HKD.",
+      "fr": "Le marché Forex est un marché international de devises, considéré comme l'un des marchés financiers les plus importants et les plus actifs au monde. Le trading sur ce marché est basé sur des paires de devises populaires (EUR/USD) et plus exotiques, par exemple USD/HKD.",
+      "it": "Il mercato Forex è un mercato internazionale di valuta, considerato uno dei mercati finanziari più grandi e attivi al mondo. Il trading in questo mercato è basato su coppie di valute, sia popolari (EUR / USD) che più esotiche, ad esempio USD / HKD.",
+      "ru": "Рынок Forex - это международный рынок валюты, считается одним из самых крупных и активных финансовых рынкох в мире. Торговля на данном рынке ведется на основе валютных пар, как популярных (EUR/USD), так и более экзотических, например USD/HKD.",
+      "zh": "外汇市场是一个国际货币市场，被认为是世界上最大和最活跃的金融市场之一。 这个市场的交易是基于货币对进行的，包括流行的（欧元/美元）和更具异国情调的，例如，美元/港元。"
+    }
+  },
+  "metalsHeaderText": {
+    "title": {
+      "de": "Metalle",
+      "en": "Metals",
+      "es": "Metales",
+      "fr": "Métaux",
+      "it": "Metalli",
+      "ru": "Металлы",
+      "zh": "金属"
+    },
+    "text": {
+      "de": "Die beliebtesten Finanzinstrumente in diesem Bereich sind CFDs für verschiedene Arten von Metallen. Company Name wird eine Vielzahl von Tools für das Risikomanagement und die Vorhersage zur Verfügung stellen, die Ihnen helfen, die Handelsstrategie richtig aufzubauen.",
+      "en": "The most popular financial instruments in this area are CFDs for various types of metals. Company Name will provide you with a lot of instrumentss for risk management and forecasting, which will help you correctly build a trading strategy.",
+      "es": "Los instrumentos financieros más populares en esta área son los CFD en varios tipos de metales. Company Name proporcionará muchas herramientas de gestión de riesgos y previsión para ayudar a construir una estrategia comercial de manera competente.",
+      "fr": "Les instruments financiers les plus populaires dans ce domaine sont les CFD sur différents types de métaux. Company Name fournira de nombreux outils pour la gestion des risques et la prévision, qui vous aideront à construire correctement une stratégie de trading.",
+      "it": "Gli strumenti finanziari più popolari in questo settore sono i CFD su vari tipi di metalli. Company Name fornirà molti strumenti per la gestione del rischio e la previsione che aiuteranno a costruire correttamente una strategia di trading.",
+      "ru": "Самыми популярными финансовыми инструментами в данной области являются CFD на различные виды металлов. Company Name предоставит в пользование множество инструментов для риск-менеджмента и прогнозирования, которые помогут грамотно выстроить стратегию торговли.",
+      "zh": "该领域最受欢迎的金融工具是各种金属的差价合约。 Company Name将为您提供大量的风险管理和预测工具，这将帮助您正确构建交易策略。"
+    }
+  },
+  "metalsProfitsText": {
+    "profit1": {
+      "title": {
+        "de": "Eindeutigkeit der Zitate",
+        "en": "Unambiguity of quotations",
+        "es": "La ambigüedad de las cotizaciones",
+        "fr": "L'unicité des citations",
+        "it": "Citazioni univocità",
+        "ru": "Однозначность котировок",
+        "zh": "引文的明确性"
+      },
+      "text": {
+        "de": "Die Zitate für dieses Finanzinstrument sind für alle Broker einheitlich, dies minimiert das Auftreten von strittigen Situationen im Zusammenhang mit Preisunterschiede.",
+        "en": "Quotes for this financial instrument are the same for all brokers, this minimizes the occurrence of disputes related to price discrepancies.",
+        "es": "Las cotizaciones para este instrumento financiero son las mismas para todos los corredores, esto minimiza la aparición de situaciones controvertidas relacionadas con la divergencia de precios.",
+        "fr": "Les citations pour cet instrument financier sont uniformes pour tous les courtiers, ce qui minimise l'apparition de situations controversées liées à la divergence des prix.",
+        "it": "Le quotazioni per questo strumento finanziario sono uniformi per tutti i broker, questo riduce al minimo l'emergere di situazioni controverse associate alla discrepanza dei Prezzi.",
+        "ru": "Котировки для данного финансового инструмента едины для всех брокеров, это минимизирует возникновение спорных ситуаций, связанных с расхождением цен.",
+        "zh": "此金融工具的报价对于所有经纪商都是相同的，这可以最大限度地减少与价格差异相关的争议的发生。"
+      }
+    },
+    "profit2": {
+      "title": {
+        "de": "Informationen zu Futures-Volumina",
+        "en": "Information about futures volumes",
+        "es": "Información sobre los volúmenes de futuros",
+        "fr": "Informations sur les volumes à terme",
+        "it": "Informazioni sui volumi dei futures",
+        "ru": "Информация об объемах фьючерса",
+        "zh": "有关期货交易量的信息"
+      },
+      "text": {
+        "de": "Die Informationen über das Volumen des Futures-Marktes sind ziemlich transparent, dies trägt wiederum zur Verbesserung der Handelsindikatoren bei.",
+        "en": "Information about the volumes of the futures market is quite transparent, this, in turn, contributes to the improvement of trading indicators.",
+        "es": "La información sobre los volúmenes del mercado de futuros es bastante transparente, esto, a su vez, contribuye a mejorar el rendimiento comercial.",
+        "fr": "L'information sur les volumes du marché à terme est assez transparente, ce qui contribue à améliorer les indicateurs de négociation.",
+        "it": "Le informazioni sui volumi del mercato dei futures sono abbastanza trasparenti, questo, a sua volta, contribuisce al miglioramento degli indicatori di trading.",
+        "ru": "Информация об объемах рынка фьючерсов является довольно прозрачной, это, в свою очередь, способствует улучшению показателей торговли.",
+        "zh": "关于期货市场交易量的信息是相当透明的，这反过来又有助于改善交易指标。"
+      }
+    },
+    "profit3": {
+      "title": {
+        "de": "Verwendung von Leverage",
+        "en": "Using leverage",
+        "es": "Uso del apalancamiento",
+        "fr": "Utilisation de l'effet de levier",
+        "it": "Uso della leva",
+        "ru": "Использование кредитного плеча",
+        "zh": "使用杠杆"
+      },
+      "text": {
+        "de": "Der Handel mit Leverage ermöglicht den Handel mit nur einem Bruchteil des Wertes des Vermögenswerts, was es letztlich ermöglicht, mit wenig Kapital zu arbeiten.",
+        "en": "Trading with leverage allows you to trade with only a part of the asset value, which ultimately allows you to work with a small capital.",
+        "es": "El comercio de apalancamiento le permite operar con solo una fracción del valor del activo, lo que en Última instancia le permite operar con poco capital.",
+        "fr": "Le trading à effet de levier vous permet de négocier en n'ayant qu'une fraction de la valeur d'un actif, ce qui vous permet finalement de travailler avec peu de capital.",
+        "it": "Il trading con leva ti consente di fare trading avendo solo una frazione del valore di un bene, che alla fine ti consente di lavorare con poco capitale.",
+        "ru": "Торговля с кредитным плечом позволяет торговать, имея только часть стоимости актива, что в конечном итоге позволяет работать с небольшим капиталом.",
+        "zh": "使用杠杆交易允许您只使用资产价值的一部分进行交易，这最终允许您使用少量资金。"
+      }
+    },
+    "profit4": {
+      "title": {
+        "de": "Niedriger Spread-Wert",
+        "en": "Low spread value",
+        "es": "Spread bajo",
+        "fr": "Spread faible",
+        "it": "Spread basso",
+        "ru": "Низкая величина спреда",
+        "zh": "低点差值"
+      },
+      "text": {
+        "de": "Die Liquidität des Vertrags für die Ware ist viel höher als die Liquidität der Ware selbst.",
+        "en": "The liquidity of the contract for the goods is much higher than the liquidity of the goods themselves.",
+        "es": "La liquidez del contrato de bienes es mucho mayor que la liquidez del producto en sí.",
+        "fr": "La liquidité du contrat pour les marchandises est beaucoup plus élevée que la liquidité de la marchandise elle-même.",
+        "it": "La liquidità del contratto per una merce è molto più alta della liquidità della merce stessa.",
+        "ru": "Ликвидность контракта на товар значительно выше, нежели ликвидность самого товара.",
+        "zh": "货物合同的流动性远高于货物本身的流动性。"
+      }
+    }
+  },
+  "metalsAssetsText": {
+    "title": {
+      "de": "Erfahren Sie mehr über den Metallmarkt",
+      "en": "Learn more about the metal market",
+      "es": "Obtenga más información sobre el mercado de metales",
+      "fr": "En savoir plus sur le marché des métaux",
+      "it": "Scopri di più sul mercato dei metalli",
+      "ru": "Узнайте больше о рынке металлов",
+      "zh": "了解更多关于金属市场的信息"
+    },
+    "text": {
+      "de": "Der Edelmetallmarkt ist ein Bereich der wirtschaftlichen Beziehungen, der die Durchführung von Handelsgeschäften mit verschiedenen Edelmetallen, wie Gold, regelt. Es ist ein unterstützendes Werkzeug, mit dem Sie Ihr Anlageportfolio diversifizieren können.",
+      "en": "The precious metals market is an area of economic relations that regulates trading operations with various precious metals, for example, gold. This is an auxiliary instrument that can be used to diversify your investment portfolio.",
+      "es": "El mercado de metales preciosos es un área de relaciones económicas que regula las operaciones comerciales con varios metales preciosos, como el oro. Es una herramienta auxiliar que se puede utilizar para diversificar su cartera de inversiones.",
+      "fr": "Le marché des métaux précieux est le domaine des relations économiques qui régit les transactions commerciales avec divers métaux précieux, par exemple l'or. C'est un outil auxiliaire qui peut être utilisé pour diversifier votre portefeuille d'investissement.",
+      "it": "Il mercato dei metalli preziosi è un'area delle relazioni economiche che regola lo svolgimento delle operazioni commerciali con vari metalli preziosi, come l'oro. È uno strumento di supporto che può essere utilizzato per diversificare il proprio portafoglio di investimenti.",
+      "ru": "Рынок драгоценных металлов — область экономических отношений, которая регулирует проведение торговых операций с различными драгоценными металлами, например золотом. Это вспомогательный инструмент, который можно использовать для диверсификации своего инвестиционного портфеля.",
+      "zh": "贵金属市场是一个经济关系领域，监管与各种贵金属（例如黄金）的交易操作。 这是一个辅助工具，可用于分散您的投资组合。"
+    }
+  },
+  "stocksHeaderText": {
+    "title": {
+      "de": "Aktien",
+      "en": "Stocks",
+      "es": "Acciones",
+      "fr": "Actions",
+      "it": "Titoli azionari",
+      "ru": "Акции",
+      "zh": "股票"
+    },
+    "text": {
+      "de": "Gehen Sie durch die einfache Prozedur der Registrierung des Kontos und beginnen Sie, die Aktien der Gesellschaften schon jetzt zu kaufen und zu verkaufen.",
+      "en": "Go through a simple account registration procedure and start buying and selling shares of companies right now.",
+      "es": "Siga el procedimiento simple para registrar una cuenta y comience a comprar y vender acciones de compañías ahora.",
+      "fr": "Passez par la procédure simple d'enregistrement d'un compte et commencer à acheter et vendre des actions de sociétés dès maintenant.",
+      "it": "Passa attraverso una semplice procedura di registrazione dell'account e inizia a comprare e vendere azioni di società ora.",
+      "ru": "Пройдите простую процедуру регистрации аккаунта и начинайте покупать и продавать акции компаний уже сейчас.",
+      "zh": "通过简单的帐户注册程序，立即开始买卖公司股票。"
+    }
+  },
+  "stocksProfitsText": {
+    "profit1": {
+      "title": {
+        "de": "Niedrige Provisionen für Operationen",
+        "en": "Low transaction fees",
+        "es": "Bajas comisiones por operaciones",
+        "fr": "Faibles commissions sur les opérations",
+        "it": "Commissioni basse per le operazioni",
+        "ru": "Низкие комиссии на проведение операций",
+        "zh": "低交易费用"
+      },
+      "text": {
+        "de": "Company Name hat ein loyales System von Provisionen für Transaktionen, bei denen der Händler und der Broker im Plus bleiben.",
+        "en": "Company Name has a loyal system of commissions for operations, in which the trader and the broker remain in the black.",
+        "es": "Company Name tiene un sistema de comisiones leal en la operación, en la que el comerciante y el corredor permanecen en negro.",
+        "fr": "Company Name dispose d'un système de commissions loyales sur les transactions, dans lequel le commerçant et le courtier restent dans le noir.",
+        "it": "Company Name ha un sistema fedele di commissioni sulle operazioni in cui il trader e il broker rimangono in nero.",
+        "ru": "Company Name имеет лояльную систему комиссий на операции, при которой трейдер и брокер остаются в плюсе.",
+        "zh": "Company Name有一个忠诚的操作佣金系统，其中交易者和经纪人保持在黑色。"
+      }
+    },
+    "profit2": {
+      "title": {
+        "de": "Kurz-und langfristige Investitionen",
+        "en": "Short-term and long-term investments",
+        "es": "Inversión a corto y largo plazo",
+        "fr": "Investissements à court terme et à long terme",
+        "it": "Investimenti a breve e lungo termine",
+        "ru": "Короткосрочное и долгосрочные инвестиции",
+        "zh": "短期和长期投资"
+      },
+      "text": {
+        "de": "Handelsterminal ermöglicht es Ihnen, sowohl langfristige Investitionen zu tätigen, mit einem Vorteil für die Zukunft und kurzfristig, mit der Erwartung, auf der Preisdifferenz zu verdienen.",
+        "en": "The trading terminal allows you to make both long-term investments, with a reserve for the future, and short-term ones, with the expectation of making money on the price difference.",
+        "es": "El terminal comercial le permite realizar inversiones a largo plazo, con una reserva para el futuro, y a corto plazo, con la esperanza de ganar en la diferencia de precios.",
+        "fr": "Le terminal de trading vous permet de faire des investissements à long terme, avec une marge pour l'avenir, et à court terme, avec l'espoir de gagner de l'argent sur la différence de prix.",
+        "it": "Il terminale di trading ti consente di effettuare sia investimenti a lungo termine, con un back-end per il futuro, sia a breve termine, con l'aspettativa di guadagnare sulla differenza di prezzo.",
+        "ru": "Торговый терминал позволяет вам совершать как долгосрочные инвестиции, с заделом на будущее, так и краткосрочные, с расчетом заработать на разнице цен.",
+        "zh": "交易终端允许您进行长期投资，为未来准备金，以及短期投资，期望通过价格差异赚钱。"
+      }
+    },
+    "profit3": {
+      "title": {
+        "de": "Vielzahl von Aktien verschiedener Unternehmen",
+        "en": "A variety of shares of different companies",
+        "es": "Diversidad de acciones de diferentes empresas",
+        "fr": "Variété d'actions de différentes sociétés",
+        "it": "Varietà di azioni di diverse società",
+        "ru": "Разнообразие акций различных компаний",
+        "zh": "不同公司的各种股票"
+      },
+      "text": {
+        "de": "Company Name gibt Ihnen die Möglichkeit, Aktien einer Vielzahl von Unternehmen zu kaufen: große und etablierte oder vielversprechende, aber riskantere Start-ups.",
+        "en": "Company Name will give you the opportunity to purchase shares of a variety of companies: large and well-established or promising, but more risky startups.",
+        "es": "Company Name le dará la posibilidad de comprar acciones de una variedad de empresas: grandes y bien establecidas o prometedoras, pero más riesgosas nuevas empresas.",
+        "fr": "Company Name vous donnera la possibilité d'acheter des actions d'une variété de sociétés: grandes et bien établies ou prometteuses, mais plus risquées startups.",
+        "it": "Company Name ti darà la possibilità di acquistare azioni di una varietà di aziende: start-up grandi e consolidate o promettenti, ma più rischiose.",
+        "ru": "Company Name даст вам возможно приобрести акции самых различных компаний: крупных и устоявшихся или же перспективных, но более рисковых стартапов.",
+        "zh": "Company Name将让您有机会购买各种公司的股票：大型和完善的或有前途的，但风险更大的创业公司。"
+      }
+    },
+    "profit4": {
+      "title": {
+        "de": "Minimale Markteintrittsschwelle",
+        "en": "The minimum threshold for entering the market",
+        "es": "Umbral mínimo de entrada al mercado",
+        "fr": "Seuil minimum d'entrée sur le marché",
+        "it": "Soglia minima di ingresso sul mercato",
+        "ru": "Минимальный порог вхождения на рынок",
+        "zh": "进入市场的最低门槛"
+      },
+      "text": {
+        "de": "Es ist nicht notwendig, ein großes Startkapital für den Aktienhandel zu haben, Sie können mit kleinen Investitionen beginnen.",
+        "en": "There is no need to have a large start-up capital to trade stocks, you can start with small investments.",
+        "es": "No es necesario tener un gran capital inicial para el comercio de acciones, puede comenzar con pequeñas inversiones.",
+        "fr": "Il n'est pas nécessaire d'avoir un grand capital de départ pour négocier des actions, vous pouvez commencer avec de petits investissements.",
+        "it": "Non è necessario avere un grande capitale iniziale per il trading di azioni, è possibile iniziare con piccoli investimenti.",
+        "ru": "Нет необходимости иметь большой стартовый капитал для торговли акциями, можно начать с небольших вложений.",
+        "zh": "没有必要有一个大的启动资金来交易股票，你可以从小额投资开始。"
+      }
+    }
+  },
+  "stocksAssetsText": {
+    "title": {
+      "de": "Erfahren Sie mehr über den Aktienmarkt",
+      "en": "Learn more about the stock market",
+      "es": "Obtenga más información sobre el mercado de valores",
+      "fr": "En savoir plus sur le marché boursier",
+      "it": "Scopri di più sul mercato azionario",
+      "ru": "Узнайте больше о рынке акций",
+      "zh": "了解有关股票市场的更多信息"
+    },
+    "text": {
+      "de": "Aktien sind eine Art von Wertpapieren an der Börse. Durch den Kauf einer Aktie erhält der Eigentümer einen Anteil am Kapital des Unternehmens. Aktien sind das beliebteste Instrument, um an der Börse zu investieren.",
+      "en": "Shares are one of the types of securities on the stock market. By buying a share, the owner receives a share in the company's capital. Stocks are the most popular instrument for investing on the stock market.",
+      "es": "Las acciones son un tipo de valores en el mercado de valores. Al comprar una acción, el propietario obtiene una participación en el capital de la compañía. Las acciones son la herramienta más popular para invertir en el mercado de valores.",
+      "fr": "Les actions sont un type de titres sur le marché boursier. En achetant une action, le propriétaire reçoit une participation dans le capital de la société. Les actions sont l'outil le plus populaire pour investir sur le marché boursier.",
+      "it": "Le azioni sono un tipo di titoli nel mercato azionario. Acquistando un'azione, il proprietario riceve una partecipazione nel capitale della società. Le azioni sono lo strumento più popolare per investire nel mercato azionario.",
+      "ru": "Акции – это один из видов ценных бумаг на фондовом рынке. Покупая акцию, владелец получает долю в капитале компании. Акции являются самым популярным инструментом для инвестирования на фондовом рынке.",
+      "zh": "股票是股票市场上的证券类型之一。 通过购买股票，所有者获得公司资本的份额。 股票是投资股票市场最受欢迎的工具。"
+    }
+  },
+  "commoditiesHeaderText": {
+    "title": {
+      "de": "Commodities",
+      "en": "Commodities",
+      "es": "Materia prima",
+      "fr": "Matières premières",
+      "it": "Commodities",
+      "ru": "Товары",
+      "zh": "原材料"
+    },
+    "text": {
+      "de": "Company Name ermöglicht es allen Benutzern, Transaktionen für den Handel mit Rohstoffen durchzuführen. Der Rohstoffmarkt umfasst landwirtschaftliche Produkte und Energieprodukte.",
+      "en": "Company Name will allow all users to perform commodity trading operations. The raw materials market includes agricultural commodities and energy commodities.",
+      "es": "Company Name permitirá a todos los usuarios realizar operaciones de comercio de productos básicos. El mercado de materias primas incluye productos agrícolas y productos energéticos.",
+      "fr": "Company Name permettra à tous les utilisateurs d'effectuer des transactions sur le commerce des produits de base. Le marché des matières premières comprend les produits agricoles et les produits énergétiques.",
+      "it": "Company Name consentirà a tutti gli utenti di effettuare operazioni di trading di materie prime. Il mercato delle materie prime comprende prodotti agricoli e prodotti energetici.",
+      "ru": "Company Name позволит всем пользователям осуществлять операции по торговле сырьевыми товарами. Рынок сырья включает в себя сельсхохозяйственную продукцию и энергетические продукты.",
+      "zh": "Company Name将允许所有用户进行商品交易操作。 原材料市场包括农产品和能源产品。"
+    }
+  },
+  "commoditiesProfitsText": {
+    "profit1": {
+      "title": {
+        "de": "Diversifikation",
+        "en": "Diversification",
+        "es": "Diversificación",
+        "fr": "Diversification",
+        "it": "Diversificazione",
+        "ru": "Диверсификация",
+        "zh": "多元化"
+      },
+      "text": {
+        "de": "Die Korrelation zwischen den Rohstoffkosten und den verschiedenen Börsenkursen ist ziemlich gering.",
+        "en": "The correlation between the cost of raw materials and various exchange rates is quite low.",
+        "es": "La correlación entre el costo de las materias primas y los diferentes tipos de cambio es bastante baja.",
+        "fr": "La corrélation entre le coût des matières premières et les différents taux de change est assez faible.",
+        "it": "La correlazione tra il costo delle materie prime e i diversi tassi di cambio è piuttosto bassa.",
+        "ru": "Корреляция между стоимостью сырья и различными биржевыми курсами довольно низкая.",
+        "zh": "原材料成本与各种汇率之间的相关性相当低。"
+      }
+    },
+    "profit2": {
+      "title": {
+        "de": "Hebelwirkung",
+        "en": "Leverage",
+        "es": "Apalancamiento",
+        "fr": "Effet de levier",
+        "it": "Leva",
+        "ru": "Кредитное плечо",
+        "zh": "杠杆"
+      },
+      "text": {
+        "de": "Auf der Plattform gibt es die Möglichkeit, Hebelwirkung zu verwenden, die Ihnen erlaubt, die Gewinne aus dem Handel deutlich zu erhöhen.",
+        "en": "The platform has the possibility of using leverage, which will allow you to significantly increase the profit from trading.",
+        "es": "La plataforma tiene la posibilidad de utilizar el apalancamiento, lo que le permitirá aumentar significativamente las ganancias comerciales.",
+        "fr": "La plate-forme a la possibilité d'utiliser l'effet de levier, ce qui vous permettra d'augmenter considérablement les bénéfices du commerce.",
+        "it": "La piattaforma ha la possibilità di utilizzare la leva, che vi permetterà di aumentare significativamente i profitti dal commercio.",
+        "ru": "На платформе есть возможность использования кредитного плеча, что позволит вам значительно увеличить прибыль от торговли.",
+        "zh": "该平台有可能使用杠杆，这将允许您显着增加交易的利润。"
+      }
+    },
+    "profit3": {
+      "title": {
+        "de": "Minimale Investitionen",
+        "en": "Minimum investment",
+        "es": "Inversión mínima",
+        "fr": "Investissement minimum",
+        "it": "Allegati minimi",
+        "ru": "Минимальные вложения",
+        "zh": "最低投资"
+      },
+      "text": {
+        "de": "CFD - Handel mit Rohstoffen ermöglicht es Ihnen, den Handel ohne viel Kapital zu starten. Selbst mit minimalen Investitionen können Sie bei einem fallenden oder steigenden Preis profitieren.",
+        "en": "CFD trading in raw materials allows you to start trading without a lot of capital. Even with minimal investment, you can make a profit on a fall or increase in the price.",
+        "es": "CFD - el comercio de materias primas le permite comenzar a operar sin mucho capital. Incluso con una inversión mínima, podrá obtener ganancias en una caída o aumento de precios.",
+        "fr": "CFD-le trading de matières premières vous permet de commencer à trader sans beaucoup de capital. Même avec un investissement minimal, vous serez en mesure de tirer profit de la baisse ou de la hausse des prix.",
+        "it": "CFD-trading di materie prime consente di iniziare il trading senza un sacco di capitale. Anche con un investimento minimo, sarai in grado di trarre profitto dalla caduta o dall'aumento del prezzo.",
+        "ru": "CFD-торговля сырьем позволяет начать трейдинг без большого капитала. Даже с минимальными инвестициями вы сможете получить прибыль на падении или повышении цены.",
+        "zh": "原材料差价合约交易允许您在没有大量资金的情况下开始交易。 即使以最小的投资，您也可以在价格下跌或上涨时获利。"
+      }
+    },
+    "profit4": {
+      "title": {
+        "de": "Vielzahl von Rohstoffen",
+        "en": "Variety of raw materials",
+        "es": "Diversidad de productos básicos",
+        "fr": "Diversité des produits de base",
+        "it": "Varietà di materie prime",
+        "ru": "Разнообразие сырьевых товаров",
+        "zh": "原料品种"
+      },
+      "text": {
+        "de": "Company Name ermöglicht die Durchführung von Transaktionen für den Handel mit beliebigen Rohstoffen.",
+        "en": "Company Name makes it possible to conduct operations on trading any commodities.",
+        "es": "Company Name hace posible realizar operaciones de comercio de cualquier producto básico.",
+        "fr": "Company Name permet d'effectuer des opérations sur le commerce de tous les produits de base.",
+        "it": "Company Name rende possibile effettuare operazioni di negoziazione di qualsiasi merce.",
+        "ru": "Company Name делает возможным проведение операций по торговле любыми сырьевыми товарами.",
+        "zh": "Company Name可以对任何商品进行交易操作。"
+      }
+    }
+  },
+  "commoditiesAssetsText": {
+    "title": {
+      "de": "Erfahren Sie mehr über den Rohstoffmarkt",
+      "en": "Learn more about the raw materials market",
+      "es": "Obtenga más información sobre el mercado de materias primas",
+      "fr": "En savoir plus sur le marché des matières premières",
+      "it": "Scopri di più sul mercato delle materie prime",
+      "ru": "Узнайте больше о рынке товаров",
+      "zh": "了解有关原材料市场的更多信息"
+    },
+    "text": {
+      "de": "Rohstoffe sind verschiedene Materialien, die in der natürlichen Umgebung vorhanden sind oder daraus gewonnen werden. Öl, Gas, Erz, Holz und mehr sind alle Rohstoffe. Für den Handel mit diesen Arten von Waren wird am häufigsten Futures-Handel verwendet, mit dem Sie auf Preisdifferenzen verdienen können.",
+      "en": "Commodities are various materials that are available in the natural environment or are extracted from it. Oil, gas, ore, wood and much more are all raw materials. For trading these types of goods, futures trading is most often used, which allows you to earn on the price difference.",
+      "es": "Los productos básicos son diversos materiales que se encuentran en el medio natural o se extraen de él. El petróleo, el gas, el mineral, la madera y más son todas materias primas. Para el comercio de estos tipos de bienes, el comercio de futuros se utiliza con mayor frecuencia, lo que le permite ganar en la diferencia de precios.",
+      "fr": "Les matières premières sont les différents matériaux présents dans l'environnement naturel ou en sont extraits. Le pétrole, le gaz, le minerai, le bois et plus sont tous des produits de base. Pour le commerce de ces types de marchandises, le plus souvent utilisé le commerce à terme, ce qui vous permet de gagner de l'argent sur la différence de prix.",
+      "it": "Le materie prime sono materiali diversi che sono disponibili o estratti dall'ambiente naturale. Petrolio, gas, minerale, legno e altro ancora sono tutte materie prime. Per il trading di questi tipi di merci, il trading a termine viene spesso utilizzato, che consente di guadagnare sulla differenza di prezzo.",
+      "ru": "Сырьевые товары - это различные материалы, которые имеются в природной среде или извлекаются из нее. Нефть, газ, руда, древесина и многое другое - это все сырьевые товары. Для торговли данными видами товаров чаще всего используется фьючесная торговля, которая позволяет зарабатывать на разнице цен.",
+      "zh": "原材料是在自然环境中可用或从中提取的各种材料。 石油，天然气，矿石，木材等等都是原材料。 对于交易这些类型的商品，期货交易是最常用的，它允许您赚取差价。"
+    }
+  },
+  "indicesHeaderText": {
+    "title": {
+      "de": "Indizes",
+      "en": "Stock indices",
+      "es": "Índices bursátiles",
+      "fr": "Indice boursier",
+      "it": "Indici azionari",
+      "ru": "Фондовые индексы",
+      "zh": "股票指数"
+    },
+    "text": {
+      "de": "Indizes bieten die Möglichkeit, in einem Kontaktformat für die Preisdifferenz zu handeln. Dieses Finanzinstrument hat eine geringe Volatilität, was es wiederum zu einem großartigen Werkzeug für die Difersifizierung eines Anlageportfolios macht und auch langfristige Investitionen ermöglicht.",
+      "en": "Indices make it possible to trade in the contact format for the price difference. This financial instrument has low volatility, which, in turn, makes it an excellent instrument for the differentiation of the investment portfolio, and also allows you to make long-term investments.",
+      "es": "Los índices ofrecen la oportunidad de operar en un formato de contacto por diferencia de precio. Este instrumento financiero tiene una baja volatilidad, lo que a su vez lo convierte en una excelente herramienta para la difersificación de la cartera de inversiones y también permite inversiones a largo plazo.",
+      "fr": "Les indices offrent la possibilité de négocier dans un format de contact pour la différence de prix. Cet instrument financier a une faible volatilité, ce qui en fait un excellent outil pour la diffusivité du portefeuille d'investissement et permet également des investissements à long terme.",
+      "it": "Gli indici offrono la possibilità di scambiare in un formato di contatto per la differenza di prezzo. Questo strumento finanziario ha una bassa volatilità, che a sua volta lo rende un ottimo strumento per la difersibilità del portafoglio di investimenti e consente anche investimenti a lungo termine.",
+      "ru": "Индексы дают возможность торговать в формате контакта на разницу цен. У этого финансового инструмента низкая волатильность, что, в свою очередь, делает его отличным инструментом для диферсификации инвестиционного портфеля, а также позволяет осуществлять долгосрочные инвестиции.",
+      "zh": "指数可以以联系格式交易价格差异。 这种金融工具具有低波动性，这反过来又使其成为投资组合差异化的绝佳工具，并且还允许您进行长期投资。"
+    }
+  },
+  "indicesProfitsText": {
+    "profit1": {
+      "title": {
+        "de": "Niedrige Gebühren und Provisionen",
+        "en": "Low fees and commissions",
+        "es": "Tarifas y comisiones bajas",
+        "fr": "Frais et commissions faibles",
+        "it": "Commissioni e commissioni basse",
+        "ru": "Низкие сборы и комиссии",
+        "zh": "低廉的费用和佣金"
+      },
+      "text": {
+        "de": "Aufträge für die Durchführung von Operationen werden ohne zusätzliche Gebühren und Gebühren durchgeführt.",
+        "en": "Orders for operations are made without additional commissions and fees.",
+        "es": "Las órdenes de operación se realizan sin comisiones ni tarifas adicionales.",
+        "fr": "Les ordres d & apos; opérations sont délivrés sans frais ni frais supplémentaires.",
+        "it": "Gli ordini per le operazioni vengono effettuati senza commissioni e commissioni aggiuntive.",
+        "ru": "Приказы на осуществление операций производятся без дополнительных комиссий и сборов.",
+        "zh": "操作订单无需额外的佣金和费用。"
+      }
+    },
+    "profit2": {
+      "title": {
+        "de": "Analyse und Vorhersage",
+        "en": "Analysis and forecasting",
+        "es": "Análisis y Predicción",
+        "fr": "Analyse et prévision",
+        "it": "Analisi e previsione",
+        "ru": "Анализ и прогнозирование",
+        "zh": "分析和预测"
+      },
+      "text": {
+        "de": "Company Name bietet Händlern viele Finanzanalysewerkzeuge, die mit einer angemessenen und kompetenten Analyse die Handelsindikatoren erhöhen können.",
+        "en": "Company Name will provide traders with a variety of financial analytical instruments that, with proper and competent analysis, can increase trading performance.",
+        "es": "Company Name proporcionará a los operadores muchas herramientas analíticas financieras que, con un análisis adecuado y competente, le permiten aumentar el rendimiento comercial.",
+        "fr": "Company Name fournira aux traders de nombreux outils d'analyse financière qui, avec une analyse appropriée et compétente, vous permettent d'augmenter les indicateurs de trading.",
+        "it": "Company Name fornirà ai trader molti strumenti analitici finanziari che, con un'analisi adeguata e competente, consentono di aumentare le prestazioni del trading.",
+        "ru": "Company Name предоставлет трейдерам множество финансовых аналитических инструментов, которые, при должном и грамотном анализе, позволяют увеличить показатели торговли.",
+        "zh": "Company Name将为交易者提供各种金融分析工具，通过适当和有能力的分析，可以提高交易性能。"
+      }
+    },
+    "profit3": {
+      "title": {
+        "de": "Niedrige Vorkommen Schwelle",
+        "en": "Low entry threshold",
+        "es": "Umbral de ocurrencia bajo",
+        "fr": "Seuil d'occurrence bas",
+        "it": "Soglia di ingresso bassa",
+        "ru": "Низкий порог вхождения",
+        "zh": "入门门槛低"
+      },
+      "text": {
+        "de": "Investitionen in Aktienindizes erfordern keine grundlegende Ausbildung im Handel.",
+        "en": "Investing in stock indices does not require fundamental training in the field of trading.",
+        "es": "Invertir en índices bursátiles no requiere formación fundamental en el comercio.",
+        "fr": "Investir dans des indices boursiers ne nécessite pas de formation fondamentale dans le commerce.",
+        "it": "Investire in indici azionari non richiede una formazione fondamentale nel campo del trading.",
+        "ru": "Инвестиции в фондовые индексы не требует фундаментальной подготовки в области торговли.",
+        "zh": "投资股票指数不需要在交易领域进行基本培训。"
+      }
+    },
+    "profit4": {
+      "title": {
+        "de": "Niedrige Kosten",
+        "en": "Low costs",
+        "es": "Bajos costos",
+        "fr": "Faible coût",
+        "it": "Bassi costi",
+        "ru": "Низкие издержки",
+        "zh": "低成本"
+      },
+      "text": {
+        "de": "Die Investition von Kapital in Indizes trägt viel weniger Kosten, was sich positiv auf den Gewinn des Händlers auswirkt.",
+        "en": "Investing in indices carries much less costs, which has a positive effect on the final indicator of the trader's profit.",
+        "es": "Invertir capital en índices conlleva muchos menos costos, lo que tiene un efecto positivo en el resultado final del operador.",
+        "fr": "L'investissement en capital dans les indices comporte beaucoup moins de coûts, ce qui a un effet positif sur le chiffre final des bénéfices du trader.",
+        "it": "L'investimento di capitale negli indici comporta costi molto inferiori, il che influisce positivamente sull'indicatore finale del profitto del trader.",
+        "ru": "Вложение капитала в индексы несет гораздо меньше издержек, что положительно влияет на итоговый показатель прибыли трейдера.",
+        "zh": "投资指数的成本要低得多，这对交易者利润的最终指标有积极的影响。"
+      }
+    }
+  },
+  "indicesAssetsText": {
+    "title": {
+      "de": "Erfahren Sie mehr über den Markt Indizes",
+      "en": "Learn more about the index market",
+      "es": "Obtenga más información sobre el mercado de índices",
+      "fr": "En savoir plus sur le marché des indices",
+      "it": "Scopri di più sul mercato degli indici",
+      "ru": "Узнайте больше о рынке индексов",
+      "zh": "了解有关指数市场的更多信息"
+    },
+    "text": {
+      "de": "Aktienindizes sind relative Indikatoren, die den allgemeinen Zustand eines Landes, einer Branche als Ganzes oder eines privaten Anlageportfolios widerspiegeln. Aktienindizes charakterisieren den durchschnittlichen Wert verschiedener Wertpapiere und zeigen die Gesamtdynamik.",
+      "en": "Stock indices are relative indicators that reflect the general state of a country, an industry as a whole, or individual specific investment portfolios. Stock indices characterize the average value of various securities and reveal the overall dynamics.",
+      "es": "Los índices bursátiles son indicadores relativos que reflejan el estado general de un país, la industria en general o las carteras de inversión específicas del sector privado. Los índices bursátiles caracterizan el valor promedio de varios valores y revelan la dinámica general.",
+      "fr": "Les indices boursiers sont des indicateurs relatifs qui reflètent la santé globale d'un pays, d'une industrie dans son ensemble ou de portefeuilles d'investissement particuliers. Les indices boursiers caractérisent la valeur moyenne de divers titres et révèlent la dynamique globale.",
+      "it": "Gli indici azionari sono indicatori relativi che riflettono lo stato generale di un paese, un'industria nel suo complesso o portafogli di investimento specifici privati. Gli indici azionari caratterizzano il valore medio dei vari titoli e rivelano le dinamiche generali.",
+      "ru": "Фондовые индексы - это относительные показатели, которые отражают общее состояние страны, отрасли в целом или частных конкретных инвестиционных портфелей. Фондовые индексы характеризуют усредненную стоимость различных ценных бумаг и выявляют общую динамику.",
+      "zh": "股票指数是反映一个国家，整个行业或个别特定投资组合的总体状况的相对指标。 股票指数表征了各种证券的平均值，并揭示了整体动态。"
+    }
+  },
+  "cryptoHeaderText": {
+    "title": {
+      "de": "Cryptocurrencies",
+      "en": "Cryptocurrency",
+      "es": "Criptomoneda",
+      "fr": "Crypto-monnaie",
+      "it": "Cryptocurrencies",
+      "ru": "Криптовалюта",
+      "zh": "加密货币"
+    },
+    "text": {
+      "de": "Digitales Geld bedeutet keine langfristigen Investitionen und Dividendenrenditen. Die einzige soposob verdienen Kryptowährung-billiger zu kaufen und teurer zu verkaufen. Das Instrument ist riskant und eher unterstützend, die Preisdynamik ist schwer vorherzusagen, aber unter günstigen Umständen können die Gewinne alle anderen fundamentalen Instrumente für Investitionen übertreffen.",
+      "en": "Digital money does not imply long-term investments and returns from divergences. The only way to make money on cryptocurrency is to buy cheaper and sell more expensive. The instrument is risky and rather auxiliary, it is difficult to predict the price dynamics, but, under favorable circumstances, the profit may exceed all other fundamental instruments for investment.",
+      "es": "El dinero digital no implica inversiones a largo plazo y rendimientos de dividendos. La única cosa que ganar en criptomoneda es comprar más barato y vender más caro. El instrumento es arriesgado y más bien auxiliar, la dinámica de los precios es difícil de predecir, pero, en circunstancias favorables, las ganancias pueden superar a todas las demás herramientas fundamentales para la inversión.",
+      "fr": "L'argent numérique n'implique pas d'investissement à long terme et de rendement sur les divedends. Le seul moyen de gagner de l'argent sur la crypto - monnaie est d'acheter moins cher et de vendre plus cher. L'instrument est risqué et plutôt accessoire, la dynamique des prix est difficile à prévoir, mais, dans des circonstances favorables, le profit peut surpasser tous les autres instruments fondamentaux à investir.",
+      "it": "Il denaro digitale non implica investimenti a lungo termine e rendimenti da divedend. L'unico sopocom per fare soldi su Criptovaluta-comprare più economico e vendere di più. Lo strumento è rischioso e piuttosto ausiliario, la dinamica dei Prezzi è difficile da prevedere, ma, in circostanze favorevoli, il profitto può superare tutti gli altri strumenti fondamentali da investire.",
+      "ru": "Цифровые деньги не подразумевают долгосрочные инвестиции и доходность от диведендов. Единственный сопособ заработать на криптовалюте - покупать дешевле и продавать дороже. Инструмент является рисковым и скорее вспомогательным, динамику цен сложно прогнозировать, но, при благоприятных обстоятельствах, прибыль может превосходить все остальные фундаментальные инструменты для инвестирования.",
+      "zh": "数字货币并不意味着长期投资和背离的回报。 在加密货币上赚钱的唯一方法是买得更便宜，卖得更贵。 该工具有风险，相当辅助，很难预测价格动态，但在有利的情况下，利润可能超过所有其他基本投资工具。"
+    }
+  },
+  "cryptoProfitsText": {
+    "profit1": {
+      "title": {
+        "de": "Einfacher Start",
+        "en": "Easy start",
+        "es": "Fácil de empezar",
+        "fr": "Démarrage facile",
+        "it": "Inizio facile",
+        "ru": "Легкий старт",
+        "zh": "轻松启动"
+      },
+      "text": {
+        "de": "Keine Notwendigkeit, die Blockchain herunterzuladen und eine digitale Brieftasche zu erstellen.",
+        "en": "There is no need to download the blockchain and create a digital wallet.",
+        "es": "No es necesario descargar blockchain y crear una billetera digital.",
+        "fr": "Il n'est pas nécessaire de télécharger la blockchain et de créer un portefeuille numérique.",
+        "it": "Non è necessario scaricare blockchain e creare un portafoglio digitale.",
+        "ru": "Нет необходимости скачивать блокчейн и создавать цифровой кошелек.",
+        "zh": "无需下载区块链并创建数字钱包。"
+      }
+    },
+    "profit2": {
+      "title": {
+        "de": "Schnelle Ausführung",
+        "en": "Fast execution",
+        "es": "Ejecución rápida",
+        "fr": "Exécution rapide",
+        "it": "Esecuzione rapida",
+        "ru": "Быстрое исполнение",
+        "zh": "快速执行"
+      },
+      "text": {
+        "de": "Die Company Name-Plattform ermöglicht es Ihnen, sofort Aufträge für den Kauf und Verkauf von Kryptowährung auszuführen.",
+        "en": "The Company Name platform allows you to instantly execute orders to buy and sell cryptocurrency.",
+        "es": "La plataforma Company Name le permite ejecutar instantáneamente órdenes de compra y venta de criptomonedas.",
+        "fr": "La plate-forme Company Name vous permet d'exécuter instantanément les ordres d'achat et de vente de crypto-monnaie.",
+        "it": "La piattaforma Company Name consente di eseguire immediatamente gli ordini per l'acquisto e la vendita di criptovaluta.",
+        "ru": "Платформа Company Name позволяет моментально исполнять приказы на покупку и продажу криптовалюты.",
+        "zh": "Company Name平台允许您立即执行买卖加密货币的订单。"
+      }
+    },
+    "profit3": {
+      "title": {
+        "de": "24-Stunden-Support",
+        "en": "Round-the-clock support",
+        "es": "Soporte",
+        "fr": "Le soutien de",
+        "it": "Supporto 24 ore su 24",
+        "ru": "Круглосуточная поддержка",
+        "zh": "全天候支持"
+      },
+      "text": {
+        "de": "Betreiber und Techniker sind bereit, Fragen zu beantworten und 24/7 zu unterstützen.",
+        "en": "Operators and technical specialists are ready to answer questions and provide assistance 24/7.",
+        "es": "Los operadores y técnicos están listos para responder preguntas y brindar asistencia 24/7.",
+        "fr": "Les opérateurs et les techniciens sont prêts à répondre aux questions et à fournir une assistance 24h / 24 et 7j / 7.",
+        "it": "Operatori e tecnici sono a disposizione per rispondere alle domande e fornire assistenza 24/7.",
+        "ru": "Операторы и технические специалисты готовы ответить на вопросы и оказать помощь 24/7.",
+        "zh": "操作员和技术专家随时准备回答问题并提供全天候协助。"
+      }
+    },
+    "profit4": {
+      "title": {
+        "de": "Hebelwirkung",
+        "en": "Leverage",
+        "es": "Apalancamiento",
+        "fr": "Effet de levier",
+        "it": "Leva",
+        "ru": "Кредитное плечо",
+        "zh": "杠杆"
+      },
+      "text": {
+        "de": "Einstellbare Hebelwirkung ermöglicht es Ihnen, mehr Gewinn zu erzielen, während es möglich ist, Risiken zu verteilen.",
+        "en": "Regulated leverage allows you to get more profit, while there is an opportunity to distribute risks.",
+        "es": "El apalancamiento regulado permite obtener más ganancias, mientras que existe la posibilidad de distribuir los riesgos.",
+        "fr": "L'effet de levier réglable permet d'obtenir plus de profits, tout en offrant la possibilité de répartir les risques.",
+        "it": "La leva regolabile consente di ottenere maggiori profitti, mentre c'è la possibilità di distribuire i rischi.",
+        "ru": "Регулируемое кредитное плечо позволяет получать больше прибыли, при этом есть возможность распределить риски.",
+        "zh": "受监管的杠杆可以让您获得更多的利润，同时有机会分散风险。"
+      }
+    }
+  },
+  "cryptoAssetsText": {
+    "title": {
+      "de": "Erfahren Sie mehr über den Kryptowährungsmarkt",
+      "en": "Learn more about the cryptocurrency market",
+      "es": "Obtenga más información sobre el mercado de criptomonedas",
+      "fr": "En savoir plus sur le marché de la crypto-monnaie",
+      "it": "Leggi le condizioni di trading in dettaglio",
+      "ru": "Узнайте больше о рынке криптовалюты",
+      "zh": "了解有关加密货币市场的更多信息"
+    },
+    "text": {
+      "de": "Kryptowährung ist eine dezentralisierte digitale Währung, die auf Spekulationen beruht. Das Instrument hat hohe Risiken, aber auch hohe Renditen. Es ist am besten, in Kryptowährung freie Mittel zu investieren, im Gegensatz zum Fall ist es besser, die vorhersagbareren Werkzeuge zu wählen.",
+      "en": "Cryptocurrency is a decentralized digital currency that involves making money on speculation. The instrument has high risks, but also high profitability indicators. It is most expedient to invest free funds in cryptocurrency, in the opposite case, it is better to choose more predictable instruments.",
+      "es": "La criptomoneda es una moneda digital descentralizada que implica ganancias por especulación. El instrumento tiene altos riesgos, pero también altos rendimientos. Es más conveniente invertir en criptomoneda fondos libres, en el caso contrario, es mejor elegir instrumentos más predecibles.",
+      "fr": "La crypto-monnaie est une monnaie numérique décentralisée qui implique des gains sur la spéculation. L'instrument présente des risques élevés, mais aussi des taux de rendement élevés. Il est préférable d'investir dans des fonds libres de crypto-monnaie, dans le cas contraire, il est préférable de choisir des outils plus prévisibles.",
+      "it": "Qui puoi imparare di più su alcuni parametri degli ordini, come: volume del lotto, leva, swap, spread, Margin Call e Stop Out e molti altri. L'analisi competente e la previsione di questi indicatori contribuirà ad aumentare significativamente i profitti dalle operazioni di trading.",
+      "ru": "Криптовалюта - это децентрализированная цифровая валюта, которая предполагает заработок на спекуляции. Инструмент обладает высокими рисками, но и высокими показателями доходности. Целесообразнее всего инвестировать в криптовалюту свободные средства, в противносм случае лучше выбрать более прогнозируемые инструменты.",
+      "zh": "加密货币是一种分散的数字货币，涉及通过投机赚钱。 该工具具有高风险，但也具有较高的盈利指标。 将免费资金投资于加密货币是最有利的，在相反的情况下，最好选择更可预测的工具。"
+    }
+  },
+  "tradingHeaderText": {
+    "title": {
+      "de": "Lesen Sie mehr über die Handelsbedingungen",
+      "en": "Read more about the trading conditions",
+      "es": "Lea más detalles sobre las condiciones comerciales",
+      "fr": "Consultez les conditions commerciales pour plus de détails",
+      "it": "Ulteriori informazioni sulle condizioni di trading",
+      "ru": "Детальнее ознакомьтесь с торговыми условиями",
+      "zh": "阅读更多关于交易条件的信息"
+    },
+    "text": {
+      "de": "Hier können Sie mehr über einige Parameter von Orders erfahren, wie zum Beispiel: Menge, Hebelwirkung, Swap, Spread, Margin Call und Stop Out und viele andere. Eine kompetente Analyse und Vorhersage dieser Indikatoren wird dazu beitragen, Ihren Gewinn aus dem Handel deutlich zu erhöhen.",
+      "en": "Here you can learn more about some order parameters, such as: lot volume, leverage, Swap, Spread, Margin Call and Stop Out level, and many others. Competent analysis and forecasting of these indicators will help to significantly increase your profit from trading operations.",
+      "es": "Aquí puede obtener más información sobre algunos parámetros de órdenes, como: volumen de lote, apalancamiento, swap, spread, Margin Call y Stop Out y muchos otros. El análisis competente y la Predicción de estos indicadores ayudará a aumentar significativamente su beneficio de las operaciones comerciales.",
+      "fr": "Ici, vous pouvez en savoir plus sur certains paramètres des ordres, tels que: volume du lot, effet de levier, swap, spread, Margin Call et Stop Out et bien d'autres. Une analyse compétente et la prévision de ces indicateurs aidera à augmenter considérablement vos bénéfices des opérations commerciales.",
+      "it": "Qui si può familiarizzare con tali parametri di offerte, come i requisiti di margine, volume di lotto, leva finanziaria, la diffusione, di swap, i livelli di Margin Call e stop out. La conoscenza di questi parametri vi aiuterà nella pianificazione di successo di offerte commerciali.",
+      "ru": "Тут вы сможете узнать подробнее про некоторые параметры ордеров, такие как: объем лота, кредитное плечо, своп, спред, уровень Margin Call и Stop Out и многих других. Грамотный анализ и прогнозирование этих показателей поможет значительно увеличить вашу прибыль от торговых операций.",
+      "zh": "在这里，您可以了解更多关于一些订单参数的信息，例如：手数，杠杆，掉期，点差，追加保证金和止损水平等等。 对这些指标进行有效的分析和预测将有助于显着增加您的交易操作利润。"
+    }
+  },
+  "tradingCalculatorText": {
+    "title": {
+      "de": "Rechner des Händlers",
+      "en": "Trader's Calculator",
+      "es": "Calculadora del comerciante",
+      "fr": "Calculatrice trader",
+      "it": "Calcolatore del commerciante",
+      "ru": "Калькулятор трейдера",
+      "zh": "交易者计算器"
+    },
+    "text": {
+      "de": "Der Online-Rechner des Händlers ist ein Werkzeug, das verwendet wird, um das Niveau der freien Mittel für die geplante Transaktion zu bestimmen und auch die Höhe der Provision zu berechnen. Um den Rechner zu verwenden, müssen Sie die ursprünglichen Parameter angeben.",
+      "en": "An online trader's calculator is a instrument that is used to determine the level of available funds for a planned transaction, as well as to calculate the amount of commission. To use the calculator, you must specify the initial parameters.",
+      "es": "La Calculadora en línea del comerciante es una herramienta que se utiliza para determinar el nivel de fondos disponibles para la transacción planificada, así como para calcular el Tamaño de la Comisión. Para usar la Calculadora, debe especificar los parámetros originales.",
+      "fr": "La calculatrice de trader en ligne est un outil qui est utilisé pour déterminer le niveau de fonds disponibles pour la transaction prévue, ainsi que pour calculer le montant de la Commission. Pour utiliser la calculatrice, vous devez spécifier les paramètres d'origine.",
+      "it": "Il calcolatore online del commerciante è uno strumento che viene utilizzato per determinare il livello di fondi liberi per la transazione pianificata, nonché per calcolare l'importo della Commissione. Per utilizzare la calcolatrice, è necessario specificare i parametri originali.",
+      "ru": "Онлайн-калькулятор трейдера - это инструмент, который используется для определения уровня свободных средств для планируемой сделки, а также для просчета размера комиссии. Чтобы использовать калькулятор, необходимо указать исходные параметры.",
+      "zh": "在线交易者计算器是一种工具，用于确定计划交易的可用资金水平，以及计算佣金金额。 要使用计算器，您必须指定初始参数。"
+    }
+  },
+  "estimationText": {
+    "offer_1": {
+      "de": "Instrument: <div class=\"description\">geben Sie das ausgewählte Finanzinstrument aus der Liste an</div>",
+      "en": "Instrument: <div class=\"description\">specify the selected financial instrument from the list</div>",
+      "es": "Instrumento: <div class=\"description\">especifique el instrumento financiero seleccionado de la lista</div>",
+      "fr": "Instrument: <div class=\"description\">préciser l'instrument financier sélectionné dans la liste</div>",
+      "it": "Strumento: <div class=\"description\">specificare lo strumento finanziario selezionato dall'elenco</div>",
+      "ru": "Инструмент: <div class=\"description\">указывайте выбранный финансовый инструмент из списка</div>",
+      "zh": "工具 <div class=\"description\">指示从列表中选择的金融工具</div>"
+    },
+    "offer_2": {
+      "de": "Preis: <div class=\"description\">geben Sie den geschätzten Preis für die Eröffnung und Schließung der Bestellung an, um das mögliche Ergebnis der Bestellung zu sehen</div>",
+      "en": "Price: <div class=\"description\">specify the estimated price of opening and closing the order to see the possible result</div>",
+      "es": "Precio: <div class=\"description\">especifique el precio estimado de apertura y cierre de la orden para ver el posible resultado de la misma</div>",
+      "fr": "Prix: <div class=\"description\">préciser le prix estimé de l'ouverture et de la clôture de l'ordre pour voir le résultat possible de l'ordre</div>",
+      "it": "Prezzo: <div class=\"description\">specificare il prezzo stimato di apertura e chiusura dell'ordine per vedere il possibile risultato dell'ordine</div>",
+      "ru": "Цена: <div class=\"description\">укажите предположительную цену открытия и закрытия ордера, чтобы узнать возможный результат</div>",
+      "zh": "价格 <div class=\"description\">指示打开和关闭订单的估计价格，以找出订单的可能结果</div>"
+    },
+    "offer_3": {
+      "de": "Handelsvolumen: <div class=\"description\">genaue Angabe des Handelsvolumens in Losen</div>",
+      "en": "Trade volume: <div class=\"description\">specify exact trade volume in lots</div>",
+      "es": "Volumen comercial: <div class=\"description\">especificar el volumen comercial exacto de los lotes</div>",
+      "fr": "Volume des échanges: <div class=\"description\">préciser le volume exact des échanges en lots</div>",
+      "it": "Volume degli scambi: <div class=\"description\">specificare il volume esatto degli scambi in lotti</div>",
+      "ru": "Объем сделки: <div class=\"description\">укажите точный объем сделки в лотах</div>",
+      "zh": "交易量<div class=\"description\">指示确切的交易量</div>"
+    },
+    "offer_4": {
+      "de": "Swap in punkten: <div class=\"description\">wird automatisch auf der Grundlage der Differenz zwischen Ask- und Bid-Preisen berechnet</div>",
+      "en": "Swap in points: <div class=\"description\">calculated automatically based on the difference between Ask and Bid prices</div>",
+      "es": "Swap en puntos: <div class=\"description\">calculado automáticamente en base a la diferencia entre los precios de compra y venta</div>",
+      "fr": "Swap en points: <div class=\"description\">calculé automatiquement sur la base de la différence entre les prix d'achat et de vente</div>",
+      "it": "Swap in punti: <div class=\"description\">calcolato automaticamente in base alla differenza tra i prezzi Ask e Bid</div>",
+      "ru": "Своп в пунктах: <div class=\"description\">просчитывается автоматически исходя из разницы между ценами Ask и Bid</div>",
+      "zh": "以點為單位<div class=\"description\">根据卖出价和买价之间的差自动计算</div>"
+    },
+    "offer_5": {
+      "de": "Swap in USD: <div class=\"description\">automatisch berechnet auf der Grundlage der Kosten für den Positions-Rollover in der Nacht</div>",
+      "en": "Swap in USD: <div class=\"description\">calculated automatically based on the cost of position rollover at night</div>",
+      "es": "Swap en USD: <div class=\"description\">calculado automáticamente basado en el coste de la rotación de la posición por la noche</div>",
+      "fr": "Swap en USD: <div class=\"description\">calculé automatiquement sur la base du coût de la reconduction de la position pendant la nuit</div>",
+      "it": "Swap in USD: <div class=\"description\">calcolato automaticamente in base al costo del rollover della posizione di notte</div>",
+      "ru": "Своп в USD: <div class=\"description\">просчитывается автоматически исходя из стоимости переноса позиции в ночное время</div>",
+      "zh": "掉期 以USD <div class=\"description\">根据夜间转移头寸的费用自动计算</div>"
+    },
+    "offer_6": {
+      "de": "Marge: <div class=\"description\">die angegebenen Daten sind der Mindestbetrag der kostenlosen Einzahlung, der für die Durchführung einer Transaktion erforderlich ist</div>",
+      "en": "Margin: <div class=\"description\">the specified data is the minimum amount of free deposit required to make a transaction</div>",
+      "es": "Margen: <div class=\"description\">los datos especificados son la cantidad mínima de depósito libre que se requiere para realizar una transacción</div>",
+      "fr": "Marge: <div class=\"description\">les données spécifiées sont le montant minimum de dépôt gratuit requis pour effectuer une transaction</div>",
+      "it": "Margine: <div class=\"description\">i dati specificati sono l'importo minimo di deposito gratuito richiesto per effettuare una transazione</div>",
+      "ru": "Маржа: <div class=\"description\">указанные данные - это минимальный размер свободного депозита, который необходим для осуществления сделки</div>",
+      "zh": "保证金<div class=\"description\">指示的数据是交易所需的免费存款的最小金额</div>"
+    },
+    "offer_7": {
+      "de": "Gewinn: <div class=\"description\">angabe des wahrscheinlichen Gewinns auf der Grundlage der aktuellen Parameter</div>",
+      "en": "Profit: <div class=\"description\">indication of probable profit based on current parameters</div>",
+      "es": "Ganancia: <div class=\"description\">indicación de la ganancia probable basada en los parámetros actuales</div>",
+      "fr": "Profit: <div class=\"description\">indication du profit probable sur la base des paramètres actuels</div>",
+      "it": "Utile: <div class=\"description\">indicazione dell'utile probabile sulla base dei parametri correnti</div>",
+      "ru": "Прибыль: <div class=\"description\">указывается вероятная прибыль на основании введенных параметров</div>",
+      "zh": "利润 <div class=\"description\">根据输入的参数显示可能的利润</div>"
+    },
+    "h2": {
+      "de": "Wie der Rechner Werke des Händlers",
+      "en": "How the trader's calculator works",
+      "es": "Cómo funciona la calculadora del comerciante",
+      "fr": "Comment les travaux de la calculatrice de l'opérateur",
+      "it": "Come funziona calcolatore del commerciante",
+      "ru": "Как работает калькулятор трейдера",
+      "zh": "如何交易者的计算器作品"
+    },
+    "ul_title": {
+      "de": "Erste Daten",
+      "en": "Initial data",
+      "es": "Datos iniciales",
+      "fr": "Donnée initiale",
+      "it": "Dati iniziali",
+      "ru": "Исходные данные",
+      "zh": "初步数据"
+    },
+    "li_1": {
+      "de": "Instrument",
+      "en": "Instrument",
+      "es": "Instrumento",
+      "fr": "Instrument",
+      "it": "Strumento",
+      "ru": "Инструмент",
+      "zh": "仪器"
+    },
+    "li_2": {
+      "de": "Eröffnungskurs",
+      "en": "Opening price",
+      "es": "Precio de apertura",
+      "fr": "Prix ​​d'ouverture",
+      "it": "Prezzo di apertura",
+      "ru": "Цена открытия",
+      "zh": "交易量在许多"
+    },
+    "li_3": {
+      "de": "Transaktionsvolumen",
+      "en": "Volume",
+      "es": "Volumen",
+      "fr": "Volume",
+      "it": "Volume",
+      "ru": "Объем сделки",
+      "zh": "订单类型"
+    },
+    "li_4": {
+      "de": "Swap in punkten",
+      "en": "Swap in points",
+      "es": "Swap en puntos",
+      "fr": "Swap en points",
+      "it": "Swap in punti",
+      "ru": "Своп в пунктах",
+      "zh": "开放价格"
+    },
+    "li_5": {
+      "de": "Swap in USD",
+      "en": "Swap in USD",
+      "es": "Swap en USD",
+      "fr": "Swap en USD",
+      "it": "Swap in USD",
+      "ru": "Своп в USD",
+      "zh": "收盘价"
+    },
+    "li_6": {
+      "de": "Margin",
+      "en": "Margin",
+      "es": "Margen",
+      "fr": "Marge",
+      "it": "Margine",
+      "ru": "Маржа",
+      "zh": "保证金"
+    },
+    "li_7": {
+      "de": "Profitieren",
+      "en": "Profit",
+      "es": "Lucro",
+      "fr": "Profit",
+      "it": "Profitto",
+      "ru": "Прибыль",
+      "zh": "利润"
+    }
+  },
+  "aboutHeaderText": {
+    "title": {
+      "de": "Company Name öffnet Ihnen die Welt der finanziellen Investitionen",
+      "en": "Company Name will open the world of financial investments to you",
+      "es": "Company Name te abrirá el mundo de la inversión financiera",
+      "fr": "Company Name vous ouvrira le monde de l'investissement financier",
+      "it": "Company Name ti aprirà il mondo degli investimenti finanziari",
+      "ru": "Company Name откроет вам мир финансовых инвестиций",
+      "zh": "Company Name将为您打开金融投资的世界"
+    },
+    "text": {
+      "de": "In der modernen Welt ist es jedes Jahr schwieriger, ohne Kenntnisse der Wirtschaft und Finanzinstrumente auszukommen. Auf der Company Name-Plattform können Sie nicht nur lernen, den Handel und verstehen, wie der Markt von innen funktioniert, sondern auch eine passive Rendite auf Investitionen zu sichern.",
+      "en": "In the modern world, it is becoming more and more difficult to do without knowledge of economics and financial instruments every year. On the Company Name platform, you will not only be able to learn how to trade and understand how the market works from the inside, but also provide yourself with passive income from investments.",
+      "es": "En el mundo moderno, cada año es más difícil prescindir del conocimiento de la economía y los instrumentos financieros. En la plataforma Company Name, no solo podrá aprender a operar y comprender cómo funciona el mercado desde adentro, sino también asegurarse de obtener ingresos pasivos de las inversiones.",
+      "fr": "Dans le monde moderne, chaque année, il est de plus en plus difficile de se passer de connaissances économiques et d'instruments financiers. Sur la plate-forme Company Name, vous pouvez non seulement apprendre à trader et comprendre le fonctionnement du marché de l'intérieur, mais aussi vous fournir un retour sur investissement passif.",
+      "it": "Nel mondo di oggi ogni anno è sempre più difficile fare a meno della conoscenza dell'economia e degli strumenti finanziari. Sulla piattaforma Company Name, non solo sarai in grado di imparare a fare trading e capire come funziona il mercato dall'interno, ma anche di fornirti rendimenti passivi sugli investimenti.",
+      "ru": "В современном мире с каждым годом все сложнее обходиться без знаний экономики и финансовых инструментов. На платформе Company Name вы не только сможете обучиться торговле и понять, как работает рынок изнутри, но и обеспечить себе пассивных доход от инвестиций.",
+      "zh": "在现代世界中，如果没有经济学和金融工具的知识，每年都变得越来越困难。 在Company Name平台上，您不仅可以学习如何交易和了解市场如何从内部运作，还可以为自己提供投资的被动收入。"
+    }
+  },
+  "aboutCounterText": {
+    "counter1": {
+      "title": {
+        "de": "<span class='indicator-number_1' data-indicator-number='184568'>0</span>",
+        "en": "<span class='indicator-number_1' data-indicator-number='184568'>0</span>",
+        "es": "<span class='indicator-number_1' data-indicator-number='184568'>0</span>",
+        "fr": "<span class='indicator-number_1' data-indicator-number='184568'>0</span>",
+        "it": "<span class='indicator-number_1' data-indicator-number='184568'>0</span>",
+        "ru": "<span class='indicator-number_1' data-indicator-number='184568'>0</span>",
+        "zh": "<span class='indicator-number_1' data-indicator-number='184568'>0</span>"
+      },
+      "text": {
+        "de": "aktive Benutzer",
+        "en": "active users",
+        "es": "usuarios activos",
+        "fr": "utilisateurs actifs",
+        "it": "utenti attivi",
+        "ru": "активных пользователей",
+        "zh": "活跃用户"
+      }
+    },
+    "counter2": {
+      "title": {
+        "de": "<span class='indicator-number_2' data-indicator-number='487500'>0</span>",
+        "en": "<span class='indicator-number_2' data-indicator-number='487500'>0</span>",
+        "es": "<span class='indicator-number_2' data-indicator-number='487500'>0</span>",
+        "fr": "<span class='indicator-number_2' data-indicator-number='487500'>0</span>",
+        "it": "<span class='indicator-number_2' data-indicator-number='487500'>0</span>",
+        "ru": "<span class='indicator-number_2' data-indicator-number='487500'>0</span>",
+        "zh": "<span class='indicator-number_2' data-indicator-number='487500'>0</span>"
+      },
+      "text": {
+        "de": "täglich geöffnet",
+        "en": "open oreders daily",
+        "es": "open oreders diariamente",
+        "fr": "oreders ouverts tous les jours",
+        "it": "oratori aperti tutti i giorni",
+        "ru": "открытых оредеров ежедневно",
+        "zh": "每日开放oreders"
+      }
+    },
+    "counter3": {
+      "title": {
+        "de": "<span class='indicator-number_3' data-indicator-number='200'>0</span>+",
+        "en": "<span class='indicator-number_3' data-indicator-number='200'>0</span>+",
+        "es": "<span class='indicator-number_3' data-indicator-number='200'>0</span>+",
+        "fr": "<span class='indicator-number_3' data-indicator-number='200'>0</span>+",
+        "it": "<span class='indicator-number_3' data-indicator-number='200'>0</span>+",
+        "ru": "<span class='indicator-number_3' data-indicator-number='200'>0</span>+",
+        "zh": "<span class='indicator-number_3' data-indicator-number='200'>0</span>+"
+      },
+      "text": {
+        "de": "Handelsinstrumente",
+        "en": "trading instruments",
+        "es": "instrumentos comerciales",
+        "fr": "instruments de négociation",
+        "it": "strumenti di trading",
+        "ru": "торговых инструментов",
+        "zh": "交易工具"
+      }
+    },
+    "counter4": {
+      "title": {
+        "de": "<span class='indicator-number_4' data-indicator-number='150'>0</span> mio",
+        "en": "<span class='indicator-number_4' data-indicator-number='150'>0</span> mln",
+        "es": "<span class='indicator-number_4' data-indicator-number='150'>0</span> mln",
+        "fr": "<span class='indicator-number_4' data-indicator-number='150'>0</span> mln",
+        "it": "<span class='indicator-number_4' data-indicator-number='150'>0</span> mln",
+        "ru": "<span class='indicator-number_4' data-indicator-number='150'>0</span> млн",
+        "zh": "<span class='indicator-number_4' data-indicator-number='150'>0</span> 万"
+      },
+      "text": {
+        "de": "dollar täglich Umsatz",
+        "en": "dollars daily trading volume",
+        "es": "volumen de negocios diario",
+        "fr": "dollars chiffre d'affaires quotidien",
+        "it": "dollari fatturato giornaliero",
+        "ru": "долларов ежедневный оборот",
+        "zh": "美元的每日营业额"
+      }
+    },
+    "counter5": {
+      "title": {
+        "de": "<span class='indicator-number_5' data-indicator-number='4'>0</span>",
+        "en": "<span class='indicator-number_5' data-indicator-number='4'>0</span>th",
+        "es": "<span class='indicator-number_5' data-indicator-number='4'>0</span>años",
+        "fr": "<span class='indicator-number_5' data-indicator-number='4'>0</span>",
+        "it": "<span class='indicator-number_5' data-indicator-number='4'>0</span>°",
+        "ru": "<span class='indicator-number_5' data-indicator-number='4'>0</span>-й",
+        "zh": "<span class='indicator-number_5' data-indicator-number='4'>0</span>"
+      },
+      "text": {
+        "de": "jahr auf dem Broker-Markt",
+        "en": "year on the market",
+        "es": "años en el mercado de corredores",
+        "fr": "années sur le marché des courtiers",
+        "it": "anni nel mercato dei broker",
+        "ru": "года на рынке брокеров",
+        "zh": "年在经纪市场上"
+      }
+    }
+  },
+  "aboutConditionsText": {
+    "title": {
+      "de": "Ihr Komfort und Sicherheit ist unsere Hauptaufgabe",
+      "en": "Your comfort and safety is our main task",
+      "es": "Su comodidad y seguridad - nuestra tarea principal",
+      "fr": "Votre confort et votre sécurité sont notre objectif principal",
+      "it": "Il vostro comfort e la sicurezza sono il nostro obiettivo principale",
+      "ru": "Ваш комфорт и безопасность - основная наша задача",
+      "zh": "您的舒适和安全是我们的主要任务"
+    },
+    "text": {
+      "de": "Hunderte von Menschen arbeiten täglich, um einen komfortablen, schnellen und sicheren Betrieb der Handelsplattform zu gewährleisten, damit Sie die Möglichkeit haben, die Welt der Investitionen kennen zu lernen. Hunderte von Experten teilen ihr Wissen, damit Ihr Handel Ihnen mehr Gewinn bringt. Company Name ist nicht nur ein Vermittler zwischen dem Kunden und der Börse, es ist sowohl ein Lehrer als auch ein Mentor und ein Assistent für Anfänger.",
+      "en": "Hundreds of people work every day to ensure a comfortable, fast and safe operation of the trading platform so that you have the opportunity to get acquainted with the world of investment. Hundreds of experts share their knowledge so that your trading brings you more profit. Company Name is not just an intermediary between the client and the exchange, it is also a teacher, mentor, and assistant for novice traders.",
+      "es": "Cientos de personas trabajan diariamente para garantizar un funcionamiento cómodo, rápido y seguro de la plataforma de negociación para que tenga la oportunidad de familiarizarse con el mundo de la inversión. Cientos de expertos comparten sus conocimientos para que su comercio le traiga más ganancias. Company Name no es solo un intermediario entre el cliente y el intercambio, es un maestro, un mentor y un asistente para los operadores novatos.",
+      "fr": "Des centaines de personnes travaillent chaque jour pour assurer un fonctionnement confortable, rapide et sûr de la plateforme de trading afin que vous ayez l'occasion de vous familiariser avec le monde de l'investissement. Des centaines d'experts partagent leurs connaissances afin que votre commerce vous apporte plus de profit. Company Name n'est pas seulement un intermédiaire entre le client et l'échange, c'est à la fois un enseignant, un mentor et un Assistant pour les traders débutants.",
+      "it": "Centinaia di persone lavorano ogni giorno per garantire un funzionamento comodo, veloce e sicuro della piattaforma di trading in modo da avere l'opportunità di conoscere il mondo degli investimenti. Centinaia di esperti condividono le loro conoscenze in modo che il tuo trading ti porti più profitto. Company Name non è solo un intermediario tra il cliente e lo scambio, è un insegnante, un mentore e un assistente per i trader principianti.",
+      "ru": "Сотни людей ежедневно трудятся для обеспечения комфортной, быстрой и безопасной работы торговой платформы для того, чтобы у вас появилась возможность познакомиться с миром инвестиций. Сотни экспертов делятся своими знаниями, чтобы ваша торговля приносила вам больше прибыли. Company Name - это не просто посредник между клиентом и биржой, это и учитель, и наставник, и помощник для начинающих трейдеров.",
+      "zh": "每天都有数百人工作，以确保交易平台的舒适，快速和安全操作，以便您有机会熟悉投资世界。 数百名专家分享他们的知识，以便您的交易为您带来更多的利润。 Company Name不仅仅是客户和交易所之间的中介，它还是新手交易者的老师，导师和助手。"
+    }
+  },
+  "aboutGoalsText": {
+    "h2": {
+      "de": "Vor unserem Team stehen langfristige und grundlegende Ziele",
+      "en": "Our team has long-term and fundamental goals",
+      "es": "Nuestro equipo tiene objetivos a largo plazo y fundamentales",
+      "fr": "Notre équipe a des objectifs à long terme et fondamentaux",
+      "it": "Il nostro team affronta obiettivi a lungo termine e fondamentali",
+      "ru": "Перед нашей командой стоят долгосрочные и фундаментальные цели",
+      "zh": "我们的团队有长期和基本的目标"
+    },
+    "goal1": {
+      "title": {
+        "de": "Ziel Nr. 1",
+        "en": "Goal #1",
+        "es": "Objetivo # 1",
+        "fr": "Objectif No 1",
+        "it": "Obiettivo #1",
+        "ru": "Цель №1",
+        "zh": "目标#1"
+      },
+      "text": {
+        "de": "Erhöhen Sie den Umsatz unserer Händler um 30%, indem Sie verschiedene Strategien und Empfehlungen entwickeln.",
+        "en": "Increase the income of our traders by 30% by developing various strategies and recommendations.",
+        "es": "Aumentar los ingresos de nuestros comerciantes en un 30%, mediante el desarrollo de diversas estrategias y recomendaciones.",
+        "fr": "Augmenter les revenus de nos traders de 30%, en développant diverses stratégies et recommandations.",
+        "it": "Aumentare il reddito dei nostri commercianti del 30%, attraverso lo sviluppo di diverse strategie e raccomandazioni.",
+        "ru": "Увеличить доход наших трейдеров на 30%, путем разработки различных стратегий и рекомендаций.",
+        "zh": "通过制定各种策略和建议，使我们的交易者的收入增加30％。"
+      }
+    },
+    "goal2": {
+      "title": {
+        "de": "Ziel Nr. 2",
+        "en": "Goal #2",
+        "es": "Objetivo # 2",
+        "fr": "Objectif No 2",
+        "it": "Obiettivo #2",
+        "ru": "Цель №2",
+        "zh": "目标#2"
+      },
+      "text": {
+        "de": "Ausbilden und auf ein konstantes Einkommen von 50.000 Anfänger Händler bringen.",
+        "en": "To train and bring 50,000 novice traders to a permanent income.",
+        "es": "Entrenar y retirar a un ingreso constante de 50.000 comerciantes novatos.",
+        "fr": "Former et mettre sur un revenu constant de 50.000 traders débutants.",
+        "it": "Formare e dedurre un reddito costante di 50.000 trader principianti.",
+        "ru": "Обучить и вывести на постоянный доход 50000 начинающих трейдеров.",
+        "zh": "培训并使50,000新手交易者获得永久收入。"
+      }
+    }
+  },
+  "aboutQualityText": {
+    "title": {
+      "de": "Große Weite und eine Vielzahl von Handelsinstrumenten",
+      "en": "Large scope and variety of trading instruments",
+      "es": "Gran amplitud y variedad de instrumentos comerciales",
+      "fr": "Un grand espace et une variété d'outils de trading",
+      "it": "Grande spazio e varietà di strumenti di trading",
+      "ru": "Большой простор и разнообразие торговых инструментов",
+      "zh": "交易工具种类繁多"
+    },
+    "text": {
+      "de": "Company Name arbeitet täglich an der Einführung neuer Handelsinstrumente. Zu diesem Zeitpunkt können Sie bereits mehr als 200 Werkzeuge schnell und sicher verwenden. Unser Unternehmen arbeitet mit großen internationalen Finanzagenten zusammen und bietet die aktuellsten Angebote in kürzester Zeit.",
+      "en": "Company Name is working daily on the introduction of new trading instruments. At this stage, you can already use more than 200 instruments quickly and safely. Our company cooperates with major international financial agents and provides the most up-to-date quotes in the shortest possible time.",
+      "es": "Company Name trabaja diariamente para introducir nuevas herramientas para el comercio. En esta etapa, ya puede usar más de 200 herramientas de forma rápida y segura. Nuestra empresa coopera con los principales agentes financieros internacionales y proporciona las cotizaciones más actuales en el menor tiempo posible.",
+      "fr": "Company Name travaille quotidiennement à l'introduction de nouveaux outils de trading. À ce stade, vous pouvez déjà utiliser plus de 200 outils rapidement et en toute sécurité. Notre société coopère avec de grands agents financiers internationaux et fournit les citations les plus récentes dans les plus brefs délais.",
+      "it": "Company Name lavora quotidianamente per introdurre nuovi strumenti di trading. A questo punto, puoi già utilizzare più di 200 strumenti in modo rapido e sicuro. La nostra azienda collabora con i principali agenti finanziari internazionali e fornisce le quotazioni più aggiornate nel più breve tempo possibile.",
+      "ru": "Company Name ежедневно работает над внедрением новых инструментов для торговли. На данном этапе вы уже можете быстро и безопасно использовать более 200 инструментов. Наша компания сотрудничает с крупными международными финансовыми агентами и предоставляет самые актуальные котировки в максимально короткий срок.",
+      "zh": "Company Name每天都在努力引入新的交易工具。 在这个阶段，您已经可以快速安全地使用200多种工具。 本公司与国际主要金融代理商合作，在最短的时间内提供最新的报价。"
+    }
+  },
+  "aboutHistoryText": {
+    "h2": {
+      "de": "Die Geschichte",
+      "en": "History",
+      "es": "Historia",
+      "fr": "Histoire",
+      "it": "Storia",
+      "ru": "История",
+      "zh": "历史"
+    },
+    "year1": {
+      "title": {
+        "de": "Start der Brokerage-Aktivität",
+        "en": "Start of brokerage activity",
+        "es": "Inicio de la actividad de corretaje",
+        "fr": "Démarrage du courtage",
+        "it": "Inizio del brokeraggio",
+        "ru": "Старт брокерской деятельности",
+        "zh": "经纪活动开始"
+      },
+      "text": {
+        "de": "Der Hauptsitz des Unternehmens wurde Anfang 2018 eröffnet. Parallel zur Eröffnung wurde die erste Version unserer Handelsplattform erstellt.",
+        "en": "The company's main office opened in early 2018. In parallel with the opening, the first version of our trading platform was created.",
+        "es": "La oficina principal de la compañía abrió a principios de 2018. Paralelamente a la apertura, se creó la primera versión de nuestra plataforma comercial.",
+        "fr": "Le siège social de la société a ouvert ses portes début 2018. Parallèlement à l'ouverture, la première version de notre plateforme de trading a été créée.",
+        "it": "La sede principale della società è stata aperta all'inizio dell'Anno 2018. Parallelamente all'apertura, è stata creata la prima versione della nostra piattaforma di trading.",
+        "ru": "Главный офис компании открылся в начале 2018 года. Параллельно с открытием была создана первая версия нашей торговой платформы.",
+        "zh": "公司总部于2018年初开业。 在开放的同时，我们的交易平台的第一个版本创建了。"
+      }
+    },
+    "year2": {
+      "title": {
+        "de": "Ausweitung der Aktivitäten",
+        "en": "Expansion of activities",
+        "es": "Ampliación de actividades",
+        "fr": "Expansion des activités",
+        "it": "Espansione di attività",
+        "ru": "Расширение деятельности",
+        "zh": "扩大活动"
+      },
+      "text": {
+        "de": "Im Jahr 2019 begann unser Unternehmen, neue Märkte zu erschließen und unsere Vertretung wurde in 6 großen Ländern eröffnet. Zu diesem Zeitpunkt gab es bereits 100 funktionierende und vollständig funktionierende Tools auf unserer Plattform.",
+        "en": "In 2019, our company began to enter new markets and our representative office was opened in 6 major countries. At that time, there were already 100 working and fully debugged instrumentss on our platform.",
+        "es": "En 2019, nuestra empresa comenzó a ingresar a nuevos mercados y nuestra oficina de representación se abrió en 6 países principales. En ese momento, nuestra plataforma ya tenía herramientas 100 en funcionamiento y completamente depuradas.",
+        "fr": "En 2019, notre société a commencé à pénétrer de nouveaux marchés et notre bureau de représentation a ouvert ses portes dans 6 grands pays. À ce moment-là, notre plate-forme avait déjà 100 outils en cours d'exécution et entièrement débogués.",
+        "it": "Nel 2019, la nostra azienda ha iniziato a entrare in nuovi mercati e la nostra rappresentanza è stata aperta in 6 grandi paesi. A quel tempo, la nostra piattaforma aveva già 100 strumenti funzionanti e completamente funzionanti.",
+        "ru": "В 2019 году наша компания начала выходить на новые рынки и наше представительство открылось в 6 крупных городах. На тот момент на нашей платформе было уже 100 работающих и полностью отлаженных инструментов.",
+        "zh": "在2019，我们公司开始进入新市场，我们的代表处在6主要国家开设。 当时，我们的平台上已经有100个工作和完全调试的工具。"
+      }
+    },
+    "year3": {
+      "title": {
+        "de": "Entwicklung neuer Handelsbedingungen für Händler",
+        "en": "Development of new trading conditions for traders",
+        "es": "Desarrollo de nuevas condiciones comerciales para los comerciantes",
+        "fr": "Développer de nouveaux environnements de trading pour les traders",
+        "it": "Sviluppare nuove condizioni di trading per i commercianti",
+        "ru": "Разработка новых торговых условий для трейдеров",
+        "zh": "为交易者开发新的交易条件"
+      },
+      "text": {
+        "de": "Im Jahr 2020 haben wir unser Handelsterminal auf eine modernere Version aktualisiert und auch loyalere Konditionen für unsere Kunden entwickelt.",
+        "en": "In 2020, we updated our trading terminal to a more modern version, and also developed more loyal conditions for our customers.",
+        "es": "En 2020, actualizamos nuestro terminal comercial a una versión más moderna y también desarrollamos términos más leales para nuestros clientes.",
+        "fr": "En 2020, nous avons mis à niveau notre terminal commercial vers une version plus moderne et avons également développé des conditions plus fidèles pour nos clients.",
+        "it": "Nel 2020, abbiamo aggiornato il nostro terminale di trading a una versione più moderna e abbiamo anche sviluppato un ambiente più leale per i nostri clienti.",
+        "ru": "В 2020 году мы обновили наш торговый терминал до более современной версии, а также разработали более лояльные условия для наших клиентов.",
+        "zh": "在2020年，我们将我们的交易终端更新为更现代的版本，并为我们的客户开发了更忠诚的条件。"
+      }
+    },
+    "year4": {
+      "title": {
+        "de": "Einführung neuer Finanzinstrumente",
+        "en": "Introduction of new financial instruments",
+        "es": "Introducción de nuevos instrumentos financieros",
+        "fr": "Introduction de nouveaux instruments financiers",
+        "it": "Introduzione di nuovi strumenti finanziari",
+        "ru": "Введение новых финансовых инструментов",
+        "zh": "引入新的金融工具"
+      },
+      "text": {
+        "de": "Alle 2021 unser Team arbeitete an der Einführung neuer Finanzinstrumente, im Moment gibt es bereits 200.",
+        "en": "Throughout 2021, our team has been working on the introduction of new financial instruments, at the moment there are already 200 of them.",
+        "es": "Todo el 2021 nuestro equipo ha trabajado en la introducción de nuevos instrumentos financieros, en este momento ya hay 200.",
+        "fr": "Tout au long de 2021, notre équipe a travaillé sur l'introduction de nouveaux instruments financiers, à l'heure actuelle, il y en a déjà 200.",
+        "it": "Tutto il 2021 il nostro team ha lavorato sull'introduzione di nuovi strumenti finanziari, al momento ce ne sono già 200.",
+        "ru": "Весь 2021 наша команда работала над введением новых финансовых инструментов, на данный момент их уже насчитывается 200.",
+        "zh": "在整个2021年，我们的团队一直致力于引入新的金融工具，目前已经有200种。"
+      }
+    }
+  },
+  "aboutPlatformText": {
+    "title": {
+      "de": "Moderne Handelsplattform",
+      "en": "Modern trading platform",
+      "es": "Plataforma comercial moderna",
+      "fr": "Plateforme de trading moderne",
+      "it": "Piattaforma di trading moderna",
+      "ru": "Современная торговая платформа",
+      "zh": "现代交易平台"
+    },
+    "text": {
+      "de": "Die Handelsplattform Company Name hat eine Reihe von Vorteilen gegenüber der Konkurrenz.",
+      "en": "The Company Name trading platform has a number of advantages over its competitors.",
+      "es": "La plataforma comercial Company Name tiene varias ventajas sobre sus competidores.",
+      "fr": "La plateforme de trading Company Name présente plusieurs avantages par rapport à ses concurrents.",
+      "it": "La piattaforma di trading Company Name ha diversi vantaggi rispetto ai concorrenti.",
+      "ru": "Торговая платформа Company Name имеет ряд преимуществ перед конкурентами.",
+      "zh": "Company Name交易平台与其竞争对手相比具有许多优势。"
+    },
+    "advantage1": {
+      "de": "Viele verschiedene Werkzeuge für die Vorhersage",
+      "en": "Many different instrumentss for forecasting",
+      "es": "Muchas herramientas de Predicción diferentes",
+      "fr": "De nombreux outils de prédiction différents",
+      "it": "Molti diversi strumenti di previsione",
+      "ru": "Множество различных инструментов для прогнозирования",
+      "zh": "许多不同的预测工具"
+    },
+    "advantage2": {
+      "de": "Die Unfähigkeit, ins Minus zu gehen",
+      "en": "The inability to go into the negative on the account",
+      "es": "La imposibilidad de ir a menos en la cuenta",
+      "fr": "L'impossibilité de partir en moins sur le compte",
+      "it": "L'impossibilità di andare in negativo",
+      "ru": "Невозможность уйти в минус по счету",
+      "zh": "无法进入负的帐户"
+    },
+    "advantage3": {
+      "de": "24/7 Support",
+      "en": "24/7 Support service",
+      "es": "Soporte 24/7",
+      "fr": "Assistance 24/7",
+      "it": "Assistenza clienti 24/7",
+      "ru": "Служба поддержки 24/7",
+      "zh": "24/7支持服务"
+    },
+    "advantage4": {
+      "de": "Schnelle Auftragsbearbeitung",
+      "en": "High order processing speed",
+      "es": "Alta velocidad de procesamiento de órdenes",
+      "fr": "Traitement rapide des ordres",
+      "it": "Alta velocità di elaborazione degli ordini",
+      "ru": "Высокая скорость обработки ордеров",
+      "zh": "高订单处理速度"
+    },
+    "advantage5": {
+      "de": "Sicherheit",
+      "en": "Safety",
+      "es": "Seguridad",
+      "fr": "Sécurité",
+      "it": "Sicurezza",
+      "ru": "Безопасность",
+      "zh": "安全"
+    },
+    "advantage6": {
+      "de": "User-Friendly Schnittstelle",
+      "en": "User-friendly interface",
+      "es": "Interfaz user-friendly",
+      "fr": "Interface utilisateur conviviale",
+      "it": "Interfaccia utente-amico",
+      "ru": "Юзер-френдли интерфейс",
+      "zh": "用户友好的界面"
+    },
+    "advantage7": {
+      "de": "Vollständige Aufzeichnung aller Kontobewegungen",
+      "en": "Full record of all operations on the account",
+      "es": "Registro completo de todas las transacciones de la cuenta",
+      "fr": "Enregistrement complet de toutes les transactions sur le compte",
+      "it": "Registrazione completa di tutte le transazioni sul conto",
+      "ru": "Полная запись обо всех операциях по счету",
+      "zh": "账户所有操作的完整记录"
+    }
+  },
+  "licensesHeaderText": {
+    "title": {
+      "de": "Partner und Aufsichtsbehörden",
+      "en": "Partners and regulators",
+      "es": "Socios y reguladores",
+      "fr": "Partenaires et régulateurs",
+      "it": "Partner e regolatori",
+      "ru": "Партнеры и регуляторы",
+      "zh": "合作伙伴和监管机构"
+    },
+    "text": {
+      "de": "Die Brokerage-Aktivitäten von Company Name werden von vielen strengen internationalen Handelsaufsichtsbehörden reguliert.",
+      "en": "Company Name's brokerage activity is regulated by many strict regulators of international trade",
+      "es": "La actividad de corretaje de Company Name está regulada por muchos reguladores estrictos del comercio internacional.",
+      "fr": "Les activités de courtage de Company Name sont régies par de nombreux régulateurs stricts du commerce international.",
+      "it": "L'attività di intermediazione della società Company Name è regolata da molti regolatori rigorosi del commercio internazionale.",
+      "ru": "Брокерская деятельность компании Company Name регулируется множеством строгих регуляторов международной торговли.",
+      "zh": "Company Name的经纪活动受到许多严格的国际贸易监管机构的监管。"
+    }
+  },
+  "licensesListText": {
+    "license1": {
+      "title": {
+        "de": "ASIC",
+        "en": "ASIC",
+        "es": "ASIC",
+        "fr": "ASIC",
+        "it": "ASIC",
+        "ru": "ASIC",
+        "zh": "ASIC"
+      },
+      "text": {
+        "de": "Australische Finanzaufsichtsbehörde. Der Zweck dieser Regulierungsbehörde ist es, die Kontrolle über die fairen Bedingungen der Brokerage - Unternehmen zu gewährleisten.",
+        "en": "The Australian Financial Regulator. The purpose of this regulator is to ensure control over the fair conditions of the brokerage companies ' activities.",
+        "es": "Regulador financiero australiano. El objetivo de este regulador es garantizar el control de las condiciones honestas de las empresas de corretaje.",
+        "fr": "Régulateur financier australien. Le but de ce régulateur est d'assurer le contrôle des conditions équitables des sociétés de courtage.",
+        "it": "Regolatore finanziario australiano. Lo scopo di questo regolatore è quello di garantire il controllo delle condizioni oneste delle attività delle società di brokeraggio.",
+        "ru": "Австралийский финансовый регулятор. Цель данного регулятора - обеспечение контроля за честными условиями деятельности брокерских компаний.",
+        "zh": "澳大利亚金融监管机构。 该监管机构的目的是确保对经纪公司活动的公平条件的控制。"
+      }
+    },
+    "license2": {
+      "title": {
+        "de": "DFSA",
+        "en": "DFSA",
+        "es": "DFSA",
+        "fr": "DFSA",
+        "it": "DFSA",
+        "ru": "DFSA",
+        "zh": "DFSA"
+      },
+      "text": {
+        "de": "Dubai Financial Regulatory and Surveillance Authority. Diese Regulierungsbehörde überwacht die Aktivitäten der internationalen Finanzzentren auf dem Territorium des Emirats.",
+        "en": "Dubai Financial Regulation and Supervision Authority. This regulator monitors the activities of international financial centers in the territory of the emirate.",
+        "es": "Autoridad de regulación y supervisión financiera de Dubai. Este regulador controla las actividades de los centros financieros internacionales en el territorio del emirato.",
+        "fr": "Dubai Financial Regulatory and supervision Authority. Ce régulateur supervise les activités des centres financiers internationaux sur le territoire de l'émirat.",
+        "it": "Dubai Financial regulatory and supervision Authority. Questo regolatore controlla le attività dei centri finanziari internazionali nel territorio dell'Emirato.",
+        "ru": "Управление по финансовому регулированию и надзору Дубая. Данный регулятор осуществляет контроль за деятельностью международных финансовых центров на территории эмирата.",
+        "zh": "迪拜金融监管和监督局。 该监管机构监测emir境内国际金融中心的活动。"
+      }
+    },
+    "license3": {
+      "title": {
+        "de": "ESMA",
+        "en": "ESMA",
+        "es": "ESMA",
+        "fr": "ESMA",
+        "it": "ESMA",
+        "ru": "ESMA",
+        "zh": "ESMA"
+      },
+      "text": {
+        "de": "Europäische Wertpapieraufsichtsbehörde. Diese Regulierungsbehörde überwacht die Finanztätigkeit auf dem Territorium der Europäischen Union.",
+        "en": "The European Securities Market Supervision Authority. This regulator controls financial activities on the territory of the European Union.",
+        "es": "Oficina Europea de supervisión del mercado de valores. Este regulador controla las actividades financieras en el territorio de la Unión Europea.",
+        "fr": "L'autorité européenne de surveillance des marchés des valeurs mobilières. Ce régulateur contrôle les activités financières sur le territoire de l'Union Européenne.",
+        "it": "L'Autorità europea per la supervisione del mercato dei titoli. Questo regolatore controlla le attività finanziarie nel territorio Dell'Unione Europea.",
+        "ru": "Европейского управления по надзору за рынком ценных бумаг. Данный регулятор контролирует финансовую деятельность на территории Европойского союза.",
+        "zh": "欧洲证券市场监管局。 该监管机构控制欧盟境内的金融活动。"
+      }
+    },
+    "license4": {
+      "title": {
+        "de": "FSCA",
+        "en": "FSCA",
+        "es": "FSCA",
+        "fr": "FSCA",
+        "it": "FSCA",
+        "ru": "FSCA",
+        "zh": "FSCA"
+      },
+      "text": {
+        "de": "Südafrika Financial Services Authority. Die Regulierungsbehörde überwacht die Finanztransaktionen in Südafrika.",
+        "en": "The Financial Services Authority of South Africa. The regulator monitors financial transactions in South Africa.",
+        "es": "Oficina de servicios financieros de Sudáfrica. El regulador controla las transacciones financieras en Sudáfrica.",
+        "fr": "Autorité Sud-africaine des services financiers. Le régulateur supervise les opérations financières sur le territoire de l'Afrique du Sud.",
+        "it": "Ufficio Servizi Finanziari del Sud Africa. Il regolatore controlla le transazioni finanziarie sul territorio del Sudafrica.",
+        "ru": "Управление по финансовым услугам Южной Африки. Регулятор осуществляет контроль за финансовыми операциями на территории ЮАР.",
+        "zh": "南非金融服务管理局。 监管机构监测南非的金融交易。"
+      }
+    },
+    "license5": {
+      "title": {
+        "de": "FCA",
+        "en": "FCA",
+        "es": "FCA",
+        "fr": "FCA",
+        "it": "FCA",
+        "ru": "FCA",
+        "zh": "FCA"
+      },
+      "text": {
+        "de": "Der britischen Finanzaufsichtsbehörde.",
+        "en": "The Financial Regulation and Supervision Authority of the United Kingdom.",
+        "es": "La autoridad de regulación y supervisión financiera del Reino Unido.",
+        "fr": "L'autorité de réglementation et de surveillance financière du Royaume-Uni.",
+        "it": "Dalla Financial regulatory and supervision Authority del Regno Unito.",
+        "ru": "Управлением по финансовому регулированию и надзору Великобритании.",
+        "zh": "英国金融监管和监督局。"
+      }
+    },
+    "license6": {
+      "title": {
+        "de": "CySEC",
+        "en": "CySEC",
+        "es": "CySEC",
+        "fr": "CySEC",
+        "it": "CySEC",
+        "ru": "CySEC",
+        "zh": "CySEC"
+      },
+      "text": {
+        "de": "Zypern Securities and Exchange Commission. Führt die Regulierung der Tätigkeit von Finanzunternehmen auf dem Territorium des Landes durch.",
+        "en": "Cyprus Securities and Exchange Commission. Performs the regulation of the activities of financial companies in the country.",
+        "es": "Comisión de bolsa y valores de Chipre. Realiza la regulación de las actividades de las empresas financieras en el territorio del país.",
+        "fr": "Chypre Securities and Exchange Commission. Effectue la réglementation des activités des sociétés financières sur le territoire du pays.",
+        "it": "Cipro Securities and Exchange Commission. Svolge la regolamentazione delle attività delle società finanziarie nel paese.",
+        "ru": "Кипрская комиссия по ценным бумагам и биржам. Выполняет регулирование деятельности финансовых компаний на территории страны.",
+        "zh": "塞浦路斯证券交易委员会。"
+      }
+    },
+    "license7": {
+      "title": {
+        "de": "IFSC",
+        "en": "IFSC",
+        "es": "IFSC",
+        "fr": "IFSC",
+        "it": "IFSC",
+        "ru": "IFSC",
+        "zh": "IFSC"
+      },
+      "text": {
+        "de": "Belize International Financial Services Commission.",
+        "en": "The Belize International Financial Services Commission.",
+        "es": "Comisión de servicios financieros internacionales de Belice.",
+        "fr": "Commission des services financiers internationaux du Belize.",
+        "it": "Commissione per i servizi finanziari internazionali del Belize.",
+        "ru": "Комиссия по международным финансовым услугам Белиза.",
+        "zh": "伯利兹国际金融服务委员会。"
+      }
+    },
+    "license8": {
+      "title": {
+        "de": "SCB",
+        "en": "SCB",
+        "es": "SCB",
+        "fr": "SCB",
+        "it": "SCB",
+        "ru": "SCB",
+        "zh": "SCB"
+      },
+      "text": {
+        "de": "Die Bahamas Securities Commission.",
+        "en": "Securities Commission of the Bahamas.",
+        "es": "Comisión de valores de las Bahamas.",
+        "fr": "Commission des valeurs mobilières des Bahamas.",
+        "it": "Commissione titoli delle Bahamas.",
+        "ru": "Комиссия по ценным бумагам Багамский островов.",
+        "zh": "巴哈马证券委员会。"
+      }
+    }
+  },
+  "headerText404": {
+    "title": {
+      "de": "Fehler 404",
+      "en": "Error 404",
+      "es": "Error 404",
+      "fr": "Erreur 404",
+      "it": "Errore 404",
+      "ru": "Ошибка 404",
+      "zh": "错误404"
+    },
+    "text": {
+      "de": "Diese Seite existiert nicht, bitte wenden Sie sich an den Support.",
+      "en": "This page does not exist, please contact support.",
+      "es": "Esta página no existe, comuníquese con el soporte.",
+      "fr": "Cette page n'existe pas, veuillez contacter le support.",
+      "it": "Questa pagina non esiste, contatta l'assistenza.",
+      "ru": "Данной страницы не существует, обратитесь в службу поддержки.",
+      "zh": "该页面不存在，请与支持人员联系。"
+    },
+    "textMainPage": {
+      "de": "Zurück zur Hauptseite",
+      "en": "Back to the main page",
+      "es": "Volver a la página principal",
+      "fr": "Retour à la page principale",
+      "it": "Torna alla pagina principale",
+      "ru": "Вернуться на главную страницу",
+      "zh": "回到主页面"
+    },
+    "textSupport": {
+      "de": "Technischer Kundendienst",
+      "en": "Technical support service",
+      "es": "Servicio de soporte técnico",
+      "fr": "Service d'assistance technique",
+      "it": "Servizio di supporto tecnico",
+      "ru": "Служба технической поддержки",
+      "zh": "技术支持服务"
+    }
+  },
+  "formsText": {
+    "titleEnter": {
+      "de": "Ihr Personal Area",
+      "en": "Your Personal Area",
+      "es": "Su área personal",
+      "fr": "Votre espace personnel",
+      "it": "Tua area personale",
+      "ru": "Вход в личный кабинет",
+      "zh": "您的个人区域"
+    },
+    "titleCallback": {
+      "de": "Reichen Sie Ihre Bewerbung ein",
+      "en": "Submit your application",
+      "es": "Envíe su solicitud",
+      "fr": "Soumettez votre demande",
+      "it": "Invia la tua domanda",
+      "ru": "Оставить заявку",
+      "zh": "提交申请"
+    },
+    "titleTwoauth": {
+      "de": "Zwei-Faktor-Authentifizierung",
+      "en": "Two-factor authentication",
+      "es": "Autenticación de dos factores",
+      "fr": "L'authentification à deux facteurs",
+      "it": "Autenticazione a due fattori",
+      "ru": "Двухфакторная авторизация",
+      "zh": "双因素身份验证"
+    },
+    "labelName": {
+      "de": "Name *",
+      "en": "Name *",
+      "es": "Nombre *",
+      "fr": "Prénom *",
+      "it": "Nome *",
+      "ru": "Имя *",
+      "zh": "名 *"
+    },
+    "placeholderName": {
+      "de": "Dein Namen",
+      "en": "Your name",
+      "es": "Tu nombre",
+      "fr": "Votre nom",
+      "it": "Tuo nome",
+      "ru": "Ваше имя",
+      "zh": "你的名字"
+    },
+    "labelLastName": {
+      "de": "Nachname *",
+      "en": "Surname *",
+      "es": "Apellido *",
+      "fr": "Nom de famille *",
+      "it": "Cognome *",
+      "ru": "Фамилия *",
+      "zh": "姓 *"
+    },
+    "placeholderLastName": {
+      "de": "Dein Namen",
+      "en": "Your surname",
+      "es": "Tu apellido",
+      "fr": "Votre nom de famille",
+      "it": "Tuo сognome",
+      "ru": "Ваша фамилия",
+      "zh": "你的姓氏"
+    },
+    "labelMail": {
+      "de": "E-mail *",
+      "en": "E-mail *",
+      "es": "Email *",
+      "fr": "Email *",
+      "it": "E-mail *",
+      "ru": "E-mail *",
+      "zh": "电子邮件 *"
+    },
+    "placeholderEmail": {
+      "de": "Dein E-Mail",
+      "en": "Your E-mail",
+      "es": "Tu correo electrónico",
+      "fr": "Votre Email",
+      "it": "Tuo E-mail",
+      "ru": "Ваш E-mail",
+      "zh": "你的邮件"
+    },
+    "labelPassword": {
+      "de": "Passwort *",
+      "en": "Password *",
+      "es": "Contraseña *",
+      "fr": "Mot de passe *",
+      "it": "Password*",
+      "ru": "Пароль *",
+      "zh": "密码 *"
+    },
+    "placeholderPassword": {
+      "de": "Passwort eingeben",
+      "en": "Enter password",
+      "es": "Introducir contraseña",
+      "fr": "Entrer mot de passe",
+      "it": "Inserire password",
+      "ru": "Введите пароль",
+      "zh": "输入密码"
+    },
+    "labelConfirmPassword": {
+      "de": "Passwort bestätigen *",
+      "en": "Confirm password *",
+      "es": "Confirmar contraseña *",
+      "fr": "Confirmez mot de passe *",
+      "it": "Confermare password *",
+      "ru": "Подтвердите пароль *",
+      "zh": "确认密码*"
+    },
+    "labelPhone": {
+      "de": "Telefonnummer *",
+      "en": "Phone number *",
+      "es": "Telefono *",
+      "fr": "Téléphone *",
+      "it": "Telefono *",
+      "ru": "Телефон *",
+      "zh": "电话号码*"
+    },
+    "placeholderPhone": {
+      "de": "Dein Telefonnummer",
+      "en": "Your phone number",
+      "es": "Tu teléfono",
+      "fr": "Votre téléphone",
+      "it": "Tuo telefono",
+      "ru": "Ваш телефон",
+      "zh": "你的电话号码"
+    },
+    "labelCountry": {
+      "de": "Land *",
+      "en": "Country",
+      "es": "Un país",
+      "fr": "Un pays",
+      "it": "Un paese",
+      "ru": "Страна",
+      "zh": "国家"
+    },
+    "placeholderCountry": {
+      "de": "Wählen Sie das Land",
+      "en": "Choose country",
+      "es": "Elija el país",
+      "fr": "Choisissez le pays",
+      "it": "Scegli il paese",
+      "ru": "Выберите страну",
+      "zh": "选择一个国家"
+    },
+    "labelLanguage": {
+      "de": "Sprache wählen",
+      "en": "Language",
+      "es": "Lengua",
+      "fr": "Langue",
+      "it": "Lingua",
+      "ru": "Язык",
+      "zh": "语"
+    },
+    "placeholderLanguage": {
+      "de": "Sprache wählen",
+      "en": "Choose language",
+      "es": "Elige lengua",
+      "fr": "Choisissez la langue",
+      "it": "Scegli la lingua",
+      "ru": "Выберите язык",
+      "zh": "选择语言"
+    },
+    "labelTime": {
+      "de": "Bequeme Zeit",
+      "en": "Time to call",
+      "es": "Tiempo conveniente",
+      "fr": "L'heure qui convient",
+      "it": "Tempo conveniente",
+      "ru": "Удобное время",
+      "zh": "合适的时间"
+    },
+    "placeholderTime": {
+      "de": "Beste Zeit zum Anrufen",
+      "en": "Best time to call",
+      "es": "Mejor hora para llamar",
+      "fr": "Entrez le temps d'appeler",
+      "it": "Immettere l'ora per chiamare",
+      "ru": "Время для звонка",
+      "zh": "呼叫的时间"
+    },
+    "lableTwoauth": {
+      "de": "2SV-Code *",
+      "en": "Authorization code *",
+      "es": "Código de Autorización *",
+      "fr": "Code d'autorisation *",
+      "it": "Codice di autorizzazione *",
+      "ru": "Код авторизации *",
+      "zh": "授权码*"
+    },
+    "placeholderTwoauth": {
+      "de": "Geben 2SV-Code",
+      "en": "Two-stage authorization code",
+      "es": "Ingrese código 2SV",
+      "fr": "Code d'autorisation en deux étapes",
+      "it": "Inserisci codice 2SV",
+      "ru": "Код двухэтапной авторизации",
+      "zh": "两级授权码"
+    },
+    "labelPromo": {
+      "de": "Gutscheincode",
+      "en": "Promotional code",
+      "es": "Promocional",
+      "fr": "Code promotionnel",
+      "it": "Promozionale",
+      "ru": "Промокод",
+      "zh": "促销代码"
+    },
+    "placeholderPromo": {
+      "de": "Geben Gutscheincode",
+      "en": "Enter promotional code",
+      "es": "Código promocional",
+      "fr": "Entrez code promotionnel",
+      "it": "Inserire codice promozionale",
+      "ru": "Введите промокод",
+      "zh": "输入促销代码"
+    },
+    "text_required": {
+      "de": "* - Benötigte Felder",
+      "en": "* - required field",
+      "es": "* - Campos requeridos",
+      "fr": "* - Champs obligatoires",
+      "it": "* - campi richiesti",
+      "ru": "* - обязательное поле",
+      "zh": "* - 必填字段"
+    },
+    "regRecommend": {
+      "de": "Für das Passwort sind nur lateinische Buchstaben, Zahlen und Symbole zulässig. Das Passwort muss mindestens einen Großbuchstaben, einen Kleinbuchstaben und eine Zahl enthalten.",
+      "en": "Only Latin letters, numbers and symbols are allowed for the password. The password must contain at least one uppercase letter, one lowercase letter and one number.",
+      "es": "Solo se permiten letras, números y símbolos latinos para la contraseña. La contraseña debe contener al menos una letra mayúscula, una letra minúscula y un número.",
+      "fr": "Seuls les lettres, chiffres et symboles latins sont autorisés pour le mot de passe. Le mot de passe doit contenir au moins une lettre majuscule, une lettre minuscule et un chiffre.",
+      "it": "Per la password sono consentiti solo lettere, numeri e simboli latini. La password deve contenere almeno una lettera maiuscola, una lettera minuscola e un numero.",
+      "ru": "Для пароля разрешены только латинские буквы, цифры и символы. Пароль должен содержать как минимум одну заглавную букву, одну строчную букву и одну цифру.",
+      "zh": "密码仅允许使用拉丁字母，数字和符号。 密码必须至少包含一个大写字母，一个小写字母和一个数字。"
+    },
+    "checkboxText": {
+      "de": "Ich stimme der Verarbeitung personenbezogener Daten",
+      "en": "I agree to the processing of personal data",
+      "es": "Estoy de acuerdo con el tratamiento de datos personales",
+      "fr": "Je suis d'accord pour le traitement des données personnelles",
+      "it": "Acconsento al trattamento dei dati personali",
+      "ru": "Я согласен на обработку персональных данных",
+      "zh": "我同意个人资料的处理"
+    },
+    "titleSuccess": {
+      "de": "Vielen Dank für das Senden einer Nachricht",
+      "en": "Thank you for sending a message",
+      "es": "Gracias por el envío de un mensaje",
+      "fr": "Merci d'envoyer un message",
+      "it": "Grazie per l'invio di un messaggio",
+      "ru": "Спасибо за отправку сообщения",
+      "zh": "感谢您发送邮件"
+    },
+    "textSuccess": {
+      "de": "Wir werden Sie in Kürze kontaktieren.",
+      "en": "We will contact you shortly.",
+      "es": "Lo contactaremos a la brevedad.",
+      "fr": "Nous vous contacterons sous peu.",
+      "it": "Ti contatteremo a breve.",
+      "ru": "Мы свяжемся с вами в ближайшее время.",
+      "zh": "您的要求已成功处理！"
+    },
+    "titleError": {
+      "de": "Fehler beim Senden der Nachricht",
+      "en": "Error sending message",
+      "es": "El envío de mensajes de error",
+      "fr": "Erreur d'envoi",
+      "it": "Errore di invio del messaggio",
+      "ru": "Ошибка отправки сообщения",
+      "zh": "发送邮件时出错"
+    },
+    "textError": {
+      "de": "Versuche es später",
+      "en": "Try later",
+      "es": "Intenta más tarde",
+      "fr": "Essayer plus tard",
+      "it": "Prova più tardi",
+      "ru": "Попробуйте позднее",
+      "zh": "等会再试"
+    },
+    "titleAttention": {
+      "de": "Achtung!",
+      "en": "Attention!",
+      "es": "¡Atención!",
+      "fr": "Attention!",
+      "it": "Attenzione!",
+      "ru": "Внимание!",
+      "zh": "注意力！"
+    },
+    "forgotText": {
+      "de": "Haben Sie Ihr Passwort vergessen?",
+      "en": "Forgot your password?",
+      "es": "¿Olvidaste tu contraseña?",
+      "fr": "Mot de passe oublié?",
+      "it": "Hai dimenticato la password?",
+      "ru": "Забыли пароль?",
+      "zh": "忘记密码了吗？"
+    },
+    "allreadyText": {
+      "de": "Sie haben bereits ein Konto",
+      "en": "Already have an account",
+      "es": "Ya tienes una cuenta",
+      "fr": "Vous avez déjà un compte",
+      "it": "Hai già un account",
+      "ru": "Уже есть учетная запись",
+      "zh": "已经有一个帐户"
+    },
+    "checkboxAgreement": {
+      "de": "Nutzungsbedingungen",
+      "en": "User Agreement",
+      "es": "Términos de Uso",
+      "fr": "Conditions d'utilisation",
+      "it": "Condizioni d'uso",
+      "ru": "Пользовательское соглашение",
+      "zh": "使用条款"
+    },
+    "checkboxPolicy": {
+      "de": "Rückgaberecht",
+      "en": "Refund Policy",
+      "es": "Politica de reembolso",
+      "fr": "Politique de remboursement",
+      "it": "Politica di rimborso",
+      "ru": "Политика возврата средств",
+      "zh": "退款政策"
+    }
+  },
+  "buttonText": {
+    "signup": {
+      "de": "Anmeldung",
+      "en": "Registration",
+      "es": "Registro",
+      "fr": "Enregistrement",
+      "it": "Registrazione",
+      "ru": "Регистрация",
+      "zh": "注册"
+    },
+    "login": {
+      "de": "Einloggen",
+      "en": "Login",
+      "es": "Iniciar sesión",
+      "fr": "S'identifier",
+      "it": "Accesso",
+      "ru": "Войти",
+      "zh": "登录"
+    },
+    "btnReg": {
+      "de": "Anmelden",
+      "en": "Sign up",
+      "es": "Regístrate",
+      "fr": "S'inscrire",
+      "it": "Iscriviti",
+      "ru": "Зарегистрироваться",
+      "zh": "注册"
+    },
+    "enterFormButton": {
+      "de": "Einloggen",
+      "en": "Login",
+      "es": "Iniciar sesión",
+      "fr": "S'identifier",
+      "it": "Accesso",
+      "ru": "Войти",
+      "zh": "登录"
+    },
+    "btnSend": {
+      "de": "Senden",
+      "en": "To send",
+      "es": "Mandar",
+      "fr": "Envoyer",
+      "it": "Inviare",
+      "ru": "Отправить",
+      "zh": "发送"
+    },
+    "btnStartTrade": {
+      "de": "Beginnen Händel",
+      "en": "Start trading",
+      "es": "Comienza a negociar",
+      "fr": "Commerce démarrer",
+      "it": "Iniziare trading",
+      "ru": "Начать торговать",
+      "zh": "开始交易"
+    },
+    "btnOpenAcc": {
+      "de": "Ein Konto eröffnen",
+      "en": "Open an account",
+      "es": "Abrir una cuenta",
+      "fr": "Ouvrir un compte",
+      "it": "Aprire un account",
+      "ru": "Открыть счет",
+      "zh": "开帐户"
+    },
+    "btnCallback": {
+      "de": "Fordern Sie einen Anruf",
+      "en": "Request a call",
+      "es": "Solicitar una llamada",
+      "fr": "Demander un appel",
+      "it": "Richiedi una chiamata",
+      "ru": "Запросить звонок",
+      "zh": "要求电话"
+    },
+    "btnLearMore": {
+      "de": "Lernen Mehr",
+      "en": "Learn more",
+      "es": "Aprender más",
+      "fr": "Apprendre plus",
+      "it": "Imparare di più",
+      "ru": "Узнать больше",
+      "zh": "了解更多"
+    },
+    "btn404": {
+      "de": "Zurück zur Startseite",
+      "en": "Go back to the main page",
+      "es": "Regresa a la página principal",
+      "fr": "Revenez à la page principale",
+      "it": "Torna alla pagina principale",
+      "ru": "Вернуться на главную",
+      "zh": "回到主页"
+    },
+    "btnSupport": {
+      "de": "Technischer Support",
+      "en": "Technical support",
+      "es": "Soporte técnico",
+      "fr": "Soutien technique",
+      "it": "Supporto tecnico",
+      "ru": "Техническая поддержка",
+      "zh": "技术支援"
+    },
+    "btnPartner": {
+      "de": "Ein Partner werden",
+      "en": "Become a partner",
+      "es": "Convertirse en un compañero",
+      "fr": "Devenir un partenaire",
+      "it": "Diventa socio",
+      "ru": "Стать партнером",
+      "zh": "成为合作伙伴"
+    }
+  },
+  "fotmsText": {
+    "titleReminder": {
+      "de": "Passwort zurücksetzen",
+      "en": "Password reset",
+      "es": "Restablecimiento de contraseña",
+      "fr": "Réinitialisation du mot de passe",
+      "it": "Reimpostazione della password",
+      "ru": "Восстановление пароля",
+      "zh": "重设密码"
+    }
+  },
+  "navText": {
+    "index": {
+      "de": "Main",
+      "en": "Main",
+      "es": "Principal",
+      "fr": "Principale",
+      "it": "Principale",
+      "ru": "Главная",
+      "zh": "主要"
+    },
+    "markets": {
+      "de": "Märkte",
+      "en": "Markets",
+      "es": "Mercados",
+      "fr": "Marchés",
+      "it": "Mercati",
+      "ru": "Рынки",
+      "zh": "市场"
+    },
+    "about": {
+      "de": "Über das Unternehmen",
+      "en": "About company",
+      "es": "Acerca compañía",
+      "fr": "Propos de société",
+      "it": "Circa società",
+      "ru": "О компании",
+      "zh": "关于公司"
+    },
+    "contacts": {
+      "de": "Impressum",
+      "en": "Contacts",
+      "es": "Contactos",
+      "fr": "Contacts",
+      "it": "Contatti",
+      "ru": "Контакты",
+      "zh": "往来"
+    },
+    "forex": {
+      "de": "Währung",
+      "en": "Currencies",
+      "es": "Moneda",
+      "fr": "Devise",
+      "it": "Moneta",
+      "ru": "Валюты",
+      "zh": "货币"
+    },
+    "metals": {
+      "de": "Metalle",
+      "en": "Metals",
+      "es": "Rieles",
+      "fr": "Métaux",
+      "it": "Metalli",
+      "ru": "Металлы",
+      "zh": "金属"
+    },
+    "stocks": {
+      "de": "Bestände",
+      "en": "Stocks",
+      "es": "Cepo",
+      "fr": "Réserves",
+      "it": "Riserve",
+      "ru": "Акции",
+      "zh": "股票"
+    },
+    "commodities": {
+      "de": "Commodities",
+      "en": "Commodities",
+      "es": "Materias Primas",
+      "fr": "Produits",
+      "it": "Prodotti",
+      "ru": "Товары",
+      "zh": "商品"
+    },
+    "indices": {
+      "de": "Indizes",
+      "en": "Indices",
+      "es": "Índices",
+      "fr": "Indices",
+      "it": "Indici",
+      "ru": "Индексы",
+      "zh": "指数"
+    },
+    "crypto": {
+      "de": "Kryptowährung",
+      "en": "Cryptocurrencies",
+      "es": "Criptomoneda",
+      "fr": "Crypto-monnaie",
+      "it": "Criptovaluta",
+      "ru": "Криптовалюты",
+      "zh": "加密貨幣"
+    },
+    "trading": {
+      "de": "Handelsbedingungen",
+      "en": "Trading conditions",
+      "es": "Condiciones comerciales",
+      "fr": "Conditions de marché",
+      "it": "Condizioni del mercato",
+      "ru": "Торговые условия",
+      "zh": "交易条件"
+    },
+    "licenses": {
+      "de": "Akkreditierungen und Lizenzen",
+      "en": "Accreditations and Licenses",
+      "es": "Acreditaciones y Licencias",
+      "fr": "Accréditations et licences",
+      "it": "Riconoscimenti e licenze",
+      "ru": "Аккредитации и лицензии",
+      "zh": "资质认证和授权"
+    }
+  },
+  "curLang": {
+    "de": "De",
+    "en": "En",
+    "es": "Es",
+    "fr": "Fr",
+    "it": "It",
+    "ru": "Ru",
+    "zh": "Zh"
+  },
+  "contactsHeaderText": {
+    "title": {
+      "de": "24/7, personalisierte Benutzerunterstützung",
+      "en": "24/7, personalized user support",
+      "es": "24/7, soporte de usuario personalizada",
+      "fr": "24/7, support utilisateur personnalisé",
+      "it": "24/7, supporto utente personalizzata",
+      "ru": "Круглосуточная, персональная поддержка пользователей",
+      "zh": "全天候，个性化的用户支持"
+    },
+    "text": {
+      "de": "Lassen Sie sich an und wir werden Sie umgehend kontaktieren.",
+      "en": "Request a call and we will contact you shortly.",
+      "es": "Solicitar una llamada y nos pondremos en contacto con usted en breve.",
+      "fr": "Demander un appel et nous communiquerons avec vous sous peu.",
+      "it": "Richiedi una chiamata e ti contatteremo a breve.",
+      "ru": "Запросите звонок и мы свяжемся с вами в ближайшее время.",
+      "zh": "请求电话，我们会尽快与您联系。"
+    }
+  },
+  "contactsListText": {
+    "contact2": {
+      "de": "Unsere E-Mail",
+      "en": "Our e-mail",
+      "es": "Nuestro e-mail",
+      "fr": "Notre e-mail",
+      "it": "La nostra e-mail",
+      "ru": "Наша почта",
+      "zh": "我们的电子邮件"
+    },
+    "contact3": {
+      "de": "Ort",
+      "en": "Location",
+      "es": "Ubicación",
+      "fr": "Emplacement",
+      "it": "Posizione",
+      "ru": "Месторасположение",
+      "zh": "位置"
+    },
+    "contact1": {
+      "de": "Internationale Nummer",
+      "en": "International number",
+      "es": "Número internacional",
+      "fr": "Numéro international",
+      "it": "Numero di Internazionale",
+      "ru": "Международный номер",
+      "zh": "国际号码"
+    }
+  },
+  "titles": {
+    "index": {
+      "de": "Company Name - Erhalten Sie finanzielle Unabhängigkeit",
+      "en": "Company Name - Get financial independence",
+      "es": "Company Name - Obtenga independencia financiera",
+      "fr": "Company Name - Obtenez l'indépendance financière",
+      "it": "Company Name - Ottieni indipendenza finanziaria",
+      "ru": "Company Name - Получите финансовую независимость",
+      "zh": "Company Name - 获得财政独立"
+    },
+    "notFound": {
+      "de": "404 - Company Name - Erhalten Sie finanzielle Unabhängigkeit",
+      "en": "404 - Company Name - Get financial independence",
+      "es": "404 - Company Name - Obtenga independencia financiera",
+      "fr": "404 - Company Name - Obtenez l'indépendance financière",
+      "it": "404 - Company Name - Ottieni indipendenza finanziaria",
+      "ru": "404 - Company Name - Получите финансовую независимость",
+      "zh": "404 - Company Name - 获得财政独立"
+    },
+    "licenses": {
+      "de": "Akkreditierung und Lizenzen - Company Name - Erhalten Sie finanzielle Unabhängigkeit",
+      "en": "Accreditation and licenses - Company Name - Get financial independence",
+      "es": "Acreditación y licencias - Company Name - Obtenga independencia financiera",
+      "fr": "Accréditation et licences - Company Name - Obtenez l'indépendance financière",
+      "it": "Accreditamento e licenze - Company Name - Ottieni indipendenza finanziaria",
+      "ru": "Аккредитации и лицензии - Company Name - Получите финансовую независимость",
+      "zh": "认证和许可证 - Company Name - 获得财政独立"
+    },
+    "reminder": {
+      "de": "Passwort Wiederherstellung - Company Name - Erhalten Sie finanzielle Unabhängigkeit",
+      "en": "Password recovery - Company Name - Get financial independence",
+      "es": "Recuperación de contraseña - Company Name - Obtenga independencia financiera",
+      "fr": "Récupération de mot de passe - Company Name - Obtenez l'indépendance financière",
+      "it": "Recupero della password - Company Name - Ottieni indipendenza finanziaria",
+      "ru": "Восстановление пароля - Company Name - Получите финансовую независимость",
+      "zh": "找回密碼 - Company Name - 获得财政独立"
+    },
+    "register": {
+      "de": "Check-In - Company Name - Erhalten Sie finanzielle Unabhängigkeit",
+      "en": "Registration - Company Name - Get financial independence",
+      "es": "Registrarse - Company Name - Obtenga independencia financiera",
+      "fr": "Enregistrement - Company Name - Obtenez l'indépendance financière",
+      "it": "Registrare - Company Name - Ottieni indipendenza finanziaria",
+      "ru": "Регистрация - Company Name - Получите финансовую независимость",
+      "zh": "報到 - Company Name - 获得财政独立"
+    },
+    "login": {
+      "de": "Eingang - Company Name - Erhalten Sie finanzielle Unabhängigkeit",
+      "en": "Login - Company Name - Get financial independence",
+      "es": "Entrada - Company Name - Obtenga independencia financiera",
+      "fr": "Entrée - Company Name - Obtenez l'indépendance financière",
+      "it": "Ingresso - Company Name - Ottieni indipendenza finanziaria",
+      "ru": "Вход - Company Name - Получите финансовую независимость",
+      "zh": "入口 - Company Name - 获得财政独立"
+    },
+    "about": {
+      "de": "Über das Unternehmen - Company Name – verdienen Sie einfach!",
+      "en": "About company - Company Name – earn money easily!",
+      "es": "Acerca de la compañía - Company Name – gana simplemente!",
+      "fr": "À propos de la société - Company Name -gagnez simplement!",
+      "it": "Circa la società - Company Name -guadagna facile!",
+      "ru": "О компании - Company Name – зарабатывай просто!",
+      "zh": "關於公司 - Company Name -赚取简单！"
+    },
+    "contacts": {
+      "de": "Kontakte - Company Name - Persönliche Benutzerunterstützung rund um die Uhr",
+      "en": "Contacts - Company Name - 24/7 personal user support",
+      "es": "Contactos - Company Name - 24/7 Soporte personal de usuario 24/7",
+      "fr": "Contacts - Company Name - Assistance personnelle aux utilisateurs 24/7",
+      "it": "Contatti - Company Name - Assistenza utente personale 24 ore su 24, 7 giorni su 7",
+      "ru": "Контакты - Company Name - Круглосуточная, персональная поддержка пользователей",
+      "zh": "聯絡人 - Company Name - 24/7個人用戶支持"
+    },
+    "markets": {
+      "de": "Über 200 Finanzinstrumente für den Handel von überall auf der Welt",
+      "en": "Over 200 financial instruments for trading from anywhere in the world",
+      "es": "Más de 200 instrumentos financieros para el comercio desde cualquier lugar del mundo",
+      "fr": "Plus de 200 instruments financiers pour le trading de n'importe où dans le monde",
+      "it": "Oltre 200 strumenti finanziari per il trading da qualsiasi parte del mondo",
+      "ru": "Свыше 200 финансовых инструментов для трейдинга из любой точки мира",
+      "zh": "超过200种金融工具，用于在世界任何地方进行交易"
+    },
+    "commodities": {
+      "de": "Produkte - Handel mit Rohstoffen mit Company Name",
+      "en": "Сommodities - Commodity trading with Company Name",
+      "es": "Productos - Comercio de materias primas con Company Name",
+      "fr": "Des produits - Commerce des matières premières avec Company Name",
+      "it": "Prodotti - Trading di materie prime con Company Name",
+      "ru": "Товары - Торговля сырьевыми товарами с Company Name",
+      "zh": "商品 - 与Company Name 交易商品"
+    },
+    "crypto": {
+      "de": "Kryptowährungen - Handeln Sie zusammen mit Company Name",
+      "en": "Cryptocurrencies - Trade cryptocurrency CFD together with Company Name",
+      "es": "Criptomonedas - Negocie CFD en criptomoneda juntos Company Name",
+      "fr": "Crypto-monnaies - Négocier des CFD sur la crypto-monnaie ensemble Company Name",
+      "it": "Cryptocurrencies - Scambia CFD su criptovaluta insieme a Company Name",
+      "ru": "Криптовалюты - Торгуйте CFD на криптовалюту вместе Company Name",
+      "zh": "加密貨幣 - 交易加密货币差价合约共同经纪商名称"
+    },
+    "forex": {
+      "de": "Währungen – der nachhaltigste und vielversprechendste Markt für Investitionen",
+      "en": "Currencies is the most stable and promising type of instrument for investment",
+      "es": "Monedas - es el mercado más estable y prometedor para invertir",
+      "fr": "Devises - le marché le plus stable et le plus prometteur pour l'investissement",
+      "it": "Valute - il mercato più stabile e promettente per gli investimenti",
+      "ru": "Валюты – самый устойчивый и перспективный рынок для инвестиций",
+      "zh": "貨幣是最穩定，最有前途的投資市場"
+    },
+    "indices": {
+      "de": "Indizes - Werden Sie ein Profi im Handel mit CFDs auf Indizes",
+      "en": "Indices - Become a professional in trading CFDs on indices",
+      "es": "Índices - Conviértete en un profesional en el comercio de CFD sobre índices",
+      "fr": "Indices - Devenez un Pro dans le trading de CFD sur indices",
+      "it": "Indici - Diventa un professionista nel trading di CFD su indici",
+      "ru": "Индексы - Станьте профи в торговле CFD на индексы",
+      "zh": "指標 - 成为指数差价合约交易专家"
+    },
+    "metals": {
+      "de": "Metalle - Profitabler Handel mit CFD-Kontrakten für Metalle",
+      "en": "Metals - Profitable trading of CFD contracts for metals",
+      "es": "Rieles - Negociación rentable de CFD-contratos de metales",
+      "fr": "Les métaux - Négociation rentable de CFD-contrats de métaux",
+      "it": "Metalli - Trading redditizio di CFD su metalli",
+      "ru": "Металлы - Выгодная торговля CFD-контрактами на металлы",
+      "zh": "金屬製品 - 有利可图的金属差价合约交易"
+    },
+    "stocks": {
+      "de": "Bestände - Aktienkurse Online mit Company Name",
+      "en": "Stocks - Shares quotes online with Company Name",
+      "es": "Cepo - Cotizaciones de acciones en línea con Company Name",
+      "fr": "Stocks - Cotations boursières en ligne avec Company Name",
+      "it": "Riserve - Quotazioni di Borsa online con Company Name",
+      "ru": "Акции - Котировки акций онлайн с Company Name",
+      "zh": "股票 - ﾂ暗ｪﾂ氾环偲青団ﾂ法ﾂ人"
+    },
+    "trading": {
+      "de": "Handelsbedingungen - Company Name Handelskonten",
+      "en": "Trading conditions - Company Name Trading Accounts",
+      "es": "Condiciones comerciales - Cuentas comerciales Company Name",
+      "fr": "Conditions commerciales - Comptes de trading Company Name",
+      "it": "\"Condizioni commerciali - Conti di trading Company Name",
+      "ru": "Торговые условия - Торговые счета Company Name",
+      "zh": "交易條件 - Company Name 交易账户"
+    }
+  }
+}
